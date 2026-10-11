@@ -59,3 +59,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 ## Source checkpoint — 2026-10-11
 
 See [source coverage and reconciliation](docs/SOURCE-COVERAGE-2026-10-11.md), [unresolved source comparisons](research/source-reconciliation.json) and [bounded coverage inventories](research/coverage-denominators.json). Source checking has expanded; complete primary reconciliation and independent expert acceptance remain open.
+
+## Existing-evidence reconciliation — 2026-10-11
+
+Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-EVIDENCE-RECONCILIATION.md) now accounts for every existing assertion and identity, preserving source apparatus and unresolved scholarly decisions.

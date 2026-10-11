@@ -1,0 +1,2936 @@
+{
+  "schema_version": "2.0",
+  "checked": "2026-10-11",
+  "unit": "catalogue_identity",
+  "rows": [
+    {
+      "record_id": "CHIC-001",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-002",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-003",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-004",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-005",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-006",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-007",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-008",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-009",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-010",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-011",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-012",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-013",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-014",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-015",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-016",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-T 170",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-017",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-018",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-019",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-020",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-021",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-022",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-023",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-024",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-025",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-026",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-027",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-028",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-029",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-030",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-031",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-032",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-033",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-034",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-035",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-036",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-037",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-038",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-039",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-040",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-041",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-042",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-043",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-044",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-045",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-046",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-047",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-048",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Π-N 1303",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-049",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-050",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-051",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-052",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-053",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-054",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-055",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-056",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-057",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-058",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Π-N 1287",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-059",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-060",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-061",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-062",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-063",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-064",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-065",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-066",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Π-N 1292",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-067",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-068",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Π-N 1268",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-069",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-070",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-071",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-072",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-073",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-074",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-075",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-076",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-077",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-078",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-079",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-080",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-081",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-082",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-083",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-084",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-085",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Π-N 1680",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-086",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-087",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-088",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-089",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Π-N 1676",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-090",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-091",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-092",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-093",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-094",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-095",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-096",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-097",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-098",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-099",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-100",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-101",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-102",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-103",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-104",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-105",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-106",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-107",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-108",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-109",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-110",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-111",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-112",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-113",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-114",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-115",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-116",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-117",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-118",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-119",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-120",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-121",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-122",
+      "unit": "catalogue_identity",
+      "series": "H",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Π-N 1",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-123",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-124",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-125",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-126",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-127",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-T 1053",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-128",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-129",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-130",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-131",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-132",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-133",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-134",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-135",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-136",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-137",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-138",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-139",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-140",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-141",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-142",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-143",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-144",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-145",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-146",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-147",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-148",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-149",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-150",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-151",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-152",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-153",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-154",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-155",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-156",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-157",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-158",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-159",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-160",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-161",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-162",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-163",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-164",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-165",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-166",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-167",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-168",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-169",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-170",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-171",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-172",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-173",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-174",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-175",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-176",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-177",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-178",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-179",
+      "unit": "catalogue_identity",
+      "series": "I",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-180",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "ΣΓ 3454",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-181",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-182",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-183",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-184",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-185",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-186",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-187",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-188",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-189",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-190",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-191",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-192",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-193",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-194",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-195",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-196",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-197",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-K 2390",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-198",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-199",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-200",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-201",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-202",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-K 2245",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-203",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-204",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-205",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-206",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-207",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-K 1442",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-208",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-209",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-210",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-211",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-212",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-213",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-214",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-215",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-216",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-217",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-218",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-219",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-220",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-221",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-222",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-223",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-224",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-225",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-226",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-227",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-228",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-229",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-230",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-231",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-232",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-233",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-234",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-235",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-236",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-K 1304",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-237",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-238",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-239",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-240",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-241",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-242",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-243",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-244",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-245",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-246",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-247",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-248",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-249",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-250",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-251",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-252",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-K 2266",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-253",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-254",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-255",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-256",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-257",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-258",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-259",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-260",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-261",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-262",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-263",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-264",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-265",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-266",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-267",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-268",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-269",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-270",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-271",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-272",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-273",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-274",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-275",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-276",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-277",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-278",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-279",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-280",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-281",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-282",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-283",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-284",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-285",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-286",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-287",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-288",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-K 2184",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-289",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-290",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-291",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-K 1269",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-292",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-293",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-Κ 1694",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-294",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-295",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-Κ 1537",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-296",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-297",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-298",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-299",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-300",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-301",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-302",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-303",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-304",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-305",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-306",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-Κ 3325",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-307",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-308",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-309",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-Κ 2595",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-310",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-311",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-312",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-313",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-Κ 2850",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-314",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-315",
+      "unit": "catalogue_identity",
+      "series": "S",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Σ-Κ 2260",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-316",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Π 18382",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-317",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-318",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-319",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-320",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-321",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-322",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-323",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-324",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Π 11149",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-325",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-326",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-327",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-328",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [
+        {
+          "namespace": "INSCRIBE museum inventory",
+          "repository": "Heraklion Archaeological Museum",
+          "literal": "Λ E-415",
+          "source_id": "INSCRIBE-CH",
+          "locator": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php ; Inventory number",
+          "physical_equivalence_adjudicated": false
+        }
+      ],
+      "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-329",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-330",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    },
+    {
+      "record_id": "CHIC-331",
+      "unit": "catalogue_identity",
+      "series": "Y",
+      "identifier_assertions": [],
+      "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+      "physical_identity_adjudicated": false
+    }
+  ],
+  "source_concordance": [
+    {
+      "record_id": "CHIC-202",
+      "primary_namespace": "CHIC museum inventory",
+      "primary_literal": "HM 2245",
+      "digital_namespace": "INSCRIBE museum inventory",
+      "digital_literal": "Σ-K 2245",
+      "primary_locator": "CHIC1996 p. 226, #202 caption",
+      "join_basis": "matching CHIC number + siglum + source inventory stem; literal namespaces preserved",
+      "status": "SOURCE_ATTRIBUTED_CROSS_REFERENCE_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CHIC-252",
+      "primary_namespace": "CHIC museum inventory",
+      "primary_literal": "HM 2266",
+      "digital_namespace": "INSCRIBE museum inventory",
+      "digital_literal": "Σ-K 2266",
+      "primary_locator": "CHIC1996 p. 252, #252 caption",
+      "join_basis": "matching CHIC number + siglum + source inventory stem; literal namespaces preserved",
+      "status": "SOURCE_ATTRIBUTED_CROSS_REFERENCE_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CHIC-313",
+      "primary_namespace": "CHIC museum inventory",
+      "primary_literal": "HM 2850",
+      "digital_namespace": "INSCRIBE museum inventory",
+      "digital_literal": "Σ-Κ 2850",
+      "primary_locator": "CHIC1996 p. 288, #313 caption",
+      "join_basis": "matching CHIC number + siglum + source inventory stem; literal namespaces preserved",
+      "status": "SOURCE_ATTRIBUTED_CROSS_REFERENCE_NOT_PHYSICAL_CERTIFICATION"
+    },
+    {
+      "record_id": "CHIC-328",
+      "primary_namespace": "CHIC museum inventory",
+      "primary_literal": "HM E 415",
+      "digital_namespace": "INSCRIBE museum inventory",
+      "digital_literal": "Λ E-415",
+      "primary_locator": "CHIC1996 p. 314, #328 caption",
+      "join_basis": "matching CHIC number + siglum + source inventory stem; literal namespaces preserved",
+      "status": "SOURCE_ATTRIBUTED_CROSS_REFERENCE_NOT_PHYSICAL_CERTIFICATION"
+    }
+  ],
+  "literal_alias_collisions": [],
+  "collision_absence_is_not_physical_uniqueness": true,
+  "physical_duplicates_adjudicated": null,
+  "normalization_policy": "Literal namespace and repository are part of every alias key; Latin K and Greek Κ, prefixes, punctuation, case, asterisks and uncertain site labels are not silently flattened.",
+  "completion": "EVERY_EXISTING_VIEW_ROW_HAS_A_DISPOSITION; unresolved source/physical decisions remain explicit."
+}

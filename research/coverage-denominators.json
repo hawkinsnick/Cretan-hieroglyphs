@@ -746,7 +746,7 @@
         "digital_inventory": "Σ-K 2245",
         "physical_identity_independently_certified": false
       },
-      "numerical_reading_comparison": "NOT_VERIFIED_FROM_INSPECTED_PRIMARY_PAGE; images are not printed numeric transnumerations",
+      "numerical_reading_comparison": "CURRENT_V2: primary p. 227 confirms both existing digital numeric groups; source lineage remains dependent.",
       "interventions": []
     },
     {
@@ -778,7 +778,7 @@
         "digital_inventory": "Σ-K 2266",
         "physical_identity_independently_certified": false
       },
-      "numerical_reading_comparison": "NOT_VERIFIED_FROM_INSPECTED_PRIMARY_PAGE; images are not printed numeric transnumerations",
+      "numerical_reading_comparison": "CURRENT_V2: primary p. 253 confirms faces α/β; digital face c omits three unidentified marks and sign-membership uncertainty. See research/reference-reconciliation-v2.json.",
       "interventions": []
     }
   ],
@@ -789,7 +789,7 @@
     },
     {
       "path": "research/source-reconciliation.json",
-      "sha256": "74d75c2d36f513f25e4ca4624dceb245c6f1d504970c19fb011633b9714d0fdd"
+      "sha256": "b5f68545c018b160f6435ddc04c09de34a99f64f5fa8887e4594bbe38d8e5601"
     },
     {
       "path": "corpus/chic-catalogue-spine.json",

@@ -25,7 +25,9 @@
     "research/source-inspection-2026-10-02.json",
     "research/source-check-2026-10-11.json",
     "research/source-reconciliation.json",
-    "research/coverage-denominators.json"
+    "research/coverage-denominators.json",
+    "research/reference-reconciliation-v2.json",
+    "research/identity-reconciliation-v2.json"
   ],
   "legacy_repository_label": "hawkinsnick/Cretan-hieroglpyhs"
 }
