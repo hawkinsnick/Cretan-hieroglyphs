@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "a8188fc8e3ec754b83ce343cb58255d8ba35b719",
-  "generated_at_utc": "2026-10-11T23:25:15+00:00",
+  "source_commit": "64339f0d1a4dcc46a36cf26faa975ae37df963f5",
+  "generated_at_utc": "2026-10-11T23:28:08+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -82,7 +82,7 @@
     {
       "role": "context_coverage",
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "f2cfd5910b97113a18ece51fb6923ed564f89b05be6495d5ad7e13f89b4166fe",
+      "sha256": "27cce47575d1986d632591467b0f56b2aaf32ca2de55ab6e341c93fc48107582",
       "bytes": 7324
     },
     {
@@ -106,7 +106,7 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "0bb1043a8ebd1b814dbdfeaf2abd2436de9cb1f8bd20d88680daf042cf47fcab",
+      "sha256": "1ef677e51297744cd6b3fed239f295c3de98990a3ae09c81872940ebccbf58a2",
       "bytes": 7929
     },
     {
