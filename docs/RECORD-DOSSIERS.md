@@ -2161,7 +2161,7 @@ Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPE
 
 Native evidence: [corpus/chic-catalogue-spine.json#/201](../corpus/chic-catalogue-spine.json#/201)
 
-Catalogue series: S. Encoded readings: 0.
+Catalogue series: S. Encoded readings: 2.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -2175,7 +2175,7 @@ Catalogue series: S. Encoded readings: 0.
 | script_classification | Cretan Hieroglyphic | source_reported | INSCRIBE-CH / General information / Script |
 | edition_identifier | #202 ARKH S (2/2) 01 (CHIC, p. 226-227) | source_reported | INSCRIBE-CH / General information / Inscription |
 
-Missing evidence: SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 - [INSCRIBE-CH](https://www.inscribercproject.com/Cretan_Hieroglyphic.php): INSCRIBE Cretan Hieroglyphic 3D object catalogue
@@ -2700,7 +2700,7 @@ Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPE
 
 Native evidence: [corpus/chic-catalogue-spine.json#/251](../corpus/chic-catalogue-spine.json#/251)
 
-Catalogue series: S. Encoded readings: 0.
+Catalogue series: S. Encoded readings: 3.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -2714,7 +2714,7 @@ Catalogue series: S. Encoded readings: 0.
 | script_classification | Cretan Hieroglyphic | source_reported | INSCRIBE-CH / General information / Script |
 | edition_identifier | #252 ARKH S (3/3) 02 (CHIC, p. 252-253) | source_reported | INSCRIBE-CH / General information / Inscription |
 
-Missing evidence: SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 - [INSCRIBE-CH](https://www.inscribercproject.com/Cretan_Hieroglyphic.php): INSCRIBE Cretan Hieroglyphic 3D object catalogue
@@ -3401,7 +3401,7 @@ Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPE
 
 Native evidence: [corpus/chic-catalogue-spine.json#/312](../corpus/chic-catalogue-spine.json#/312)
 
-Catalogue series: S. Encoded readings: 0.
+Catalogue series: S. Encoded readings: 2.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -3415,7 +3415,7 @@ Catalogue series: S. Encoded readings: 0.
 | script_classification | Cretan Hieroglyphic | source_reported | INSCRIBE-CH / General information / Script |
 | edition_identifier | #313 MONI OD. S (2/6) 01 (CHIC, p. 288-289) | source_reported | INSCRIBE-CH / General information / Inscription |
 
-Missing evidence: SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 - [INSCRIBE-CH](https://www.inscribercproject.com/Cretan_Hieroglyphic.php): INSCRIBE Cretan Hieroglyphic 3D object catalogue
@@ -3603,7 +3603,7 @@ Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPE
 
 Native evidence: [corpus/chic-catalogue-spine.json#/327](../corpus/chic-catalogue-spine.json#/327)
 
-Catalogue series: Y. Encoded readings: 0.
+Catalogue series: Y. Encoded readings: 1.
 
 | Field | Value | Status | Evidence |
 |---|---|---|---|
@@ -3617,7 +3617,7 @@ Catalogue series: Y. Encoded readings: 0.
 | script_classification | Cretan Hieroglyphic | source_reported | INSCRIBE-CH / General information / Script |
 | edition_identifier | #328 MA/V Ya 01 (CHIC, p. 314-315) | source_reported | INSCRIBE-CH / General information / Inscription |
 
-Missing evidence: SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 - [INSCRIBE-CH](https://www.inscribercproject.com/Cretan_Hieroglyphic.php): INSCRIBE Cretan Hieroglyphic 3D object catalogue

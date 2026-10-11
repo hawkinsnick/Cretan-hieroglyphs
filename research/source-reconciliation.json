@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-11",
+  "independent_review_complete": false,
+  "physical_inscription_population": null,
+  "rights_boundary": "Limited attributed numerical and catalogue facts only; no source images, PDFs, prose, 3D datasets or general redistribution permission.",
+  "promotion_boundary": "Source-checked means checked against the named publication or page. It does not mean primary-edition agreement, autopsy, independent witness, or accepted sign identity.",
+  "comparisons": [
+    {
+      "comparison_id": "CHIC-202-material",
+      "record_id": "CHIC-202",
+      "field": "material",
+      "assertions": [
+        {
+          "source_id": "CHIC1996",
+          "value": "Ivoire",
+          "locator": "printed p. 226, #202, material caption",
+          "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"
+        },
+        {
+          "source_id": "INSCRIBE-CH",
+          "value": "Animal bone",
+          "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Material",
+          "inspection": "DIRECT_DIGITAL_PAGE"
+        }
+      ],
+      "status": "UNRESOLVED_SOURCE_DISAGREEMENT",
+      "identity_join": {
+        "basis": [
+          "CHIC heading",
+          "CMS II.1,394",
+          "matching inventory numeric stem"
+        ],
+        "primary_inventory": "HM 2245",
+        "digital_inventory": "Σ-K 2245",
+        "physical_identity_independently_certified": false
+      },
+      "numerical_reading_comparison": "NOT_VERIFIED_FROM_INSPECTED_PRIMARY_PAGE; images are not printed numeric transnumerations",
+      "interventions": []
+    },
+    {
+      "comparison_id": "CHIC-252-material",
+      "record_id": "CHIC-252",
+      "field": "material",
+      "assertions": [
+        {
+          "source_id": "CHIC1996",
+          "value": "Ivoire",
+          "locator": "printed p. 252, #252, material caption",
+          "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"
+        },
+        {
+          "source_id": "INSCRIBE-CH",
+          "value": "Animal bone",
+          "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Material",
+          "inspection": "DIRECT_DIGITAL_PAGE"
+        }
+      ],
+      "status": "UNRESOLVED_SOURCE_DISAGREEMENT",
+      "identity_join": {
+        "basis": [
+          "CHIC heading",
+          "CMS II.1,393",
+          "matching inventory numeric stem"
+        ],
+        "primary_inventory": "HM 2266",
+        "digital_inventory": "Σ-K 2266",
+        "physical_identity_independently_certified": false
+      },
+      "numerical_reading_comparison": "NOT_VERIFIED_FROM_INSPECTED_PRIMARY_PAGE; images are not printed numeric transnumerations",
+      "interventions": []
+    }
+  ],
+  "primary_reading_agreement_certified": false
+}

@@ -13,8 +13,8 @@
     },
     {
       "path": "corpus/manifest.json",
-      "sha256": "182ff102fd0d784674e689d2e4ef3e2039561e456eb033f6c8ea065cb056f7ea",
-      "bytes": 1100,
+      "sha256": "ffebb8e84b02598622b15062a434e8fa5ce108777932222bd7b156fee236554a",
+      "bytes": 1101,
       "category": "corpus",
       "summary": {}
     },
@@ -29,8 +29,8 @@
     },
     {
       "path": "corpus/critical-readings.json",
-      "sha256": "f9afc20f153ee5b59743ce174cacbf922ce0db31c6c68abab8fdbcd946466122",
-      "bytes": 4738,
+      "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b",
+      "bytes": 10207,
       "category": "corpus",
       "summary": {}
     },
@@ -52,15 +52,15 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "f2465f2dbda59e63a8a91836814a201988fc824b5c3913ecb8dbccfc276ead9c",
-      "bytes": 8525,
+      "sha256": "f73feeb4009dc8778603f55a512d63c0a90b217bee11b5159f906063d7003606",
+      "bytes": 8526,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "2df078b52ad9573617efa3f00689a7b1c14ebb62bd855dd04e66580ccc0d0569",
-      "bytes": 13619,
+      "sha256": "ea5c746e3d25f4ec4a7e683e39db6283d541f615c6798ef2b474b5e00453cd68",
+      "bytes": 13620,
       "category": "research",
       "summary": {
         "scope": "Comparison readiness and software/governance alignment, not permission for cross-script inference. Exact snapshot commits pin native evidence; target versions describe the coordinated rollout. Snapshot versions may precede report-only maintenance."
@@ -112,15 +112,15 @@
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "924df12f9a6df1abd2af11f17bddc1f2f54cc7b21da3066a934aece60cf9ce2c",
-      "bytes": 497956,
+      "sha256": "ae2113a67873b36a25433b06bbd784c461c5dd42fec040b1ac2a04a01351fc29",
+      "bytes": 509465,
       "category": "research",
       "summary": {}
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "74fc6cb84b5d8db55ad8f2f45287f4e1d6c77b008ffa0609e1940c98e0be3605",
-      "bytes": 6725,
+      "sha256": "dd96354e9198f3bd1ba35cf12b08da0743022f8bc00c70d37b616c744aa1093e",
+      "bytes": 6726,
       "category": "analysis",
       "summary": {
         "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
@@ -142,8 +142,8 @@
     },
     {
       "path": "bibliography/sources.json",
-      "sha256": "d4303ddc7aaf13cd813b35a6fcb072da27ad7347df668914af328704814541a2",
-      "bytes": 3003,
+      "sha256": "48983a78a0eeabce6001d0182dfa42842615c499a2c2023d2db86fc37d113fec",
+      "bytes": 3201,
       "category": "bibliography",
       "summary": {}
     },
@@ -159,10 +159,33 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "dcef1b75e6b8fc1d5e715364d22d14cc588d1e25577ba7d9647d853b40192694",
-      "bytes": 133621,
+      "sha256": "ac5fd6a103d2e94020f6fc5ab5972aa9b4544fa2ee8c50e73fe54a5aa3753c0e",
+      "bytes": 133509,
       "category": "docs",
       "summary": {}
+    },
+    {
+      "path": "research/source-check-2026-10-11.json",
+      "sha256": "de4342764c77ed96f656ad138d6f2a95f7425bef1d86aadc564e760f3d9a2d15",
+      "bytes": 9098,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "74d75c2d36f513f25e4ca4624dceb245c6f1d504970c19fb011633b9714d0fdd",
+      "bytes": 2769,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "research/coverage-denominators.json",
+      "sha256": "c223531ae9fe5ea4c7d82aa11aad074593900fe9f76e46802085797063e8c2a2",
+      "bytes": 17773,
+      "category": "research",
+      "summary": {
+        "boundary": "Edition/date-bounded project views. Catalogue rows, rich records and reading versions are different units; views overlap and must not be summed."
+      }
     }
   ],
   "scientific_results": {
@@ -182,13 +205,13 @@
       "status": "measured"
     },
     "critical_readings": {
-      "value": 5,
+      "value": 13,
       "unit": "committed_native_readings",
       "definition": "Five literal printed transnumerations on two source-located Knossos medallions; not representative corpus coverage or independently certified epigraphy.",
       "status": "measured"
     },
     "source_checked_objects": {
-      "value": 2,
+      "value": 6,
       "unit": "source_transnumeration_checked_physical_objects",
       "definition": "Two H-series Knossos medallions checked against printed CHIC transnumerations; not an autopsy or representative sample.",
       "status": "measured"
@@ -200,7 +223,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "2df078b52ad9573617efa3f00689a7b1c14ebb62bd855dd04e66580ccc0d0569",
+  "family_report_sha256": "ea5c746e3d25f4ec4a7e683e39db6283d541f615c6798ef2b474b5e00453cd68",
   "implementation_sha256": "682a350d9457b1e88ff3a3c4d1263880e4fdf98e1012578580b7d2b9d877c916",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."
 }

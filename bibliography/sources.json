@@ -97,6 +97,7 @@
     "url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
     "role": "attributed-object-metadata",
     "rights": "Factual metadata only. 3D models and images are excluded; source copyright retained. No blanket data license asserted.",
-    "lineage": "References CHIC/CMS; not an independent reading witness."
+    "lineage": "References CHIC/CMS; not an independent reading witness.",
+    "source_expansion_boundary": "2026-10-11: eight attributed digital transnumeration versions, not independent primary readings. Models/images remain excluded; no blanket data license inferred."
   }
 ]

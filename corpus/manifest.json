@@ -12,8 +12,8 @@
     "phonetic_values_asserted": 0
   },
   "critical_corpus": {
-    "readings": 5,
-    "source_checked_occurrence_objects": 2,
+    "readings": 13,
+    "source_checked_occurrence_objects": 6,
     "independently_reviewed_objects": 0
   },
   "snapshot": "analysis/corpus-snapshot-5.0.0.json",

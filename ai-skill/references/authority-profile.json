@@ -49,15 +49,31 @@
     {
       "role": "context_coverage",
       "path": "analysis/context-coverage-v1.json"
+    },
+    {
+      "role": "source_expansion",
+      "path": "research/source-check-2026-10-11.json",
+      "required": true
+    },
+    {
+      "role": "source_reconciliation",
+      "path": "research/source-reconciliation.json",
+      "required": true
+    },
+    {
+      "role": "coverage_denominators",
+      "path": "research/coverage-denominators.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
     "No native phonetic values are asserted",
     "Structural and comparative analyses remain BLOCKED until canonical gates change",
-    "Five critical readings on two source-checked objects are not representative corpus coverage",
+    "Thirteen source-checked reading versions on six catalogue entries (five primary versions on two entries; eight dependent digital versions on four entries) are not representative corpus coverage",
     "Zero independently reviewed objects must remain explicit",
     "Graphic similarity does not establish sign equivalence",
     "DBAS-CHS classifications and associations are attributed scholarly metadata; they do not establish phonetic values or decipherment, and restricted images are not redistributed.",
-    "Online CHIC availability for private use is not permission to bulk-republish transcriptions, facsimiles or photographs."
+    "Online CHIC availability for private use is not permission to bulk-republish transcriptions, facsimiles or photographs.",
+    "Read the source expansion, unresolved reconciliation and bounded denominator registers before coverage claims. Partial occurrences do not imply full transcription. Unknown physical populations stay unknown."
   ]
 }

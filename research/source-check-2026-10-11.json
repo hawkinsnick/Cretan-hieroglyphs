@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-11",
+  "independent_review_complete": false,
+  "physical_inscription_population": null,
+  "rights_boundary": "Limited attributed numerical and catalogue facts only; no source images, PDFs, prose, 3D datasets or general redistribution permission.",
+  "promotion_boundary": "Source-checked means checked against the named publication or page. It does not mean primary-edition agreement, autopsy, independent witness, or accepted sign identity.",
+  "source_role": "dependent_digital_reference",
+  "receipts": [
+    {
+      "id": "CHIC-202",
+      "url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+      "resolved": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+      "bytes": 20138,
+      "sha256": "5defb98aabd21548eadb1437715823b5a18c6f82c136c4f36d9f4e93f8def26d",
+      "status": "ACCESSED"
+    },
+    {
+      "id": "CHIC-252",
+      "url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+      "resolved": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+      "bytes": 20260,
+      "sha256": "09ddd874ae38717cf1c2d35479f3b2fd0522c39bcfb9e210d1a14767699b7b9e",
+      "status": "ACCESSED"
+    },
+    {
+      "id": "CHIC-313",
+      "url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+      "resolved": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+      "bytes": 19696,
+      "sha256": "50f10b3525ef3f5db4d2479a0685505cfdeb085d5617a700302978f8c7453b91",
+      "status": "ACCESSED"
+    },
+    {
+      "id": "CHIC-315",
+      "url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+      "resolved": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+      "bytes": 18908,
+      "sha256": "33a1977eb9501608e8d1a6e170dd4969031e2bb2880b59d7bf8bcbbb19107a40",
+      "status": "ACCESSED"
+    },
+    {
+      "id": "CHIC-328",
+      "url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+      "resolved": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+      "bytes": 19309,
+      "sha256": "cfbeaa2971d00eadcd39231b071a6e99525594ae94add58daaa57964ece75bc2",
+      "status": "ACCESSED"
+    }
+  ],
+  "expected_readings": [
+    {
+      "reading_id": "CHIC-202-a-INSCRIBE",
+      "object_id": "CHIC-202",
+      "surface_id": "a",
+      "kind": "secondary",
+      "source_id": "INSCRIBE-CH",
+      "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side a",
+      "tokens": [
+        {
+          "position": 1,
+          "form": "042-019",
+          "certainty": "secure",
+          "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+        }
+      ],
+      "status": "source-checked",
+      "supersedes": []
+    },
+    {
+      "reading_id": "CHIC-202-b-INSCRIBE",
+      "object_id": "CHIC-202",
+      "surface_id": "b",
+      "kind": "secondary",
+      "source_id": "INSCRIBE-CH",
+      "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side b",
+      "tokens": [
+        {
+          "position": 1,
+          "form": "019-095-052",
+          "certainty": "secure",
+          "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+        }
+      ],
+      "status": "source-checked",
+      "supersedes": []
+    },
+    {
+      "reading_id": "CHIC-252-a-INSCRIBE",
+      "object_id": "CHIC-252",
+      "surface_id": "a",
+      "kind": "secondary",
+      "source_id": "INSCRIBE-CH",
+      "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side a",
+      "tokens": [
+        {
+          "position": 1,
+          "form": "019-095-052",
+          "certainty": "secure",
+          "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+        }
+      ],
+      "status": "source-checked",
+      "supersedes": []
+    },
+    {
+      "reading_id": "CHIC-252-b-INSCRIBE",
+      "object_id": "CHIC-252",
+      "surface_id": "b",
+      "kind": "secondary",
+      "source_id": "INSCRIBE-CH",
+      "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side b",
+      "tokens": [
+        {
+          "position": 1,
+          "form": "042-019",
+          "certainty": "secure",
+          "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+        }
+      ],
+      "status": "source-checked",
+      "supersedes": []
+    },
+    {
+      "reading_id": "CHIC-252-c-INSCRIBE",
+      "object_id": "CHIC-252",
+      "surface_id": "c",
+      "kind": "secondary",
+      "source_id": "INSCRIBE-CH",
+      "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side c",
+      "tokens": [
+        {
+          "position": 1,
+          "form": "062",
+          "certainty": "secure",
+          "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+        }
+      ],
+      "status": "source-checked",
+      "supersedes": []
+    },
+    {
+      "reading_id": "CHIC-313-a-INSCRIBE",
+      "object_id": "CHIC-313",
+      "surface_id": "a",
+      "kind": "secondary",
+      "source_id": "INSCRIBE-CH",
+      "locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side a",
+      "tokens": [
+        {
+          "position": 1,
+          "form": "042-019",
+          "certainty": "secure",
+          "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+        }
+      ],
+      "status": "source-checked",
+      "supersedes": []
+    },
+    {
+      "reading_id": "CHIC-313-b-INSCRIBE",
+      "object_id": "CHIC-313",
+      "surface_id": "b",
+      "kind": "secondary",
+      "source_id": "INSCRIBE-CH",
+      "locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side b",
+      "tokens": [
+        {
+          "position": 1,
+          "form": "019-095-052",
+          "certainty": "secure",
+          "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+        }
+      ],
+      "status": "source-checked",
+      "supersedes": []
+    },
+    {
+      "reading_id": "CHIC-328-unlabelled-INSCRIBE",
+      "object_id": "CHIC-328",
+      "surface_id": null,
+      "kind": "secondary",
+      "source_id": "INSCRIBE-CH",
+      "locator": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php ; Transnumeration ; no face label supplied",
+      "tokens": [
+        {
+          "position": 1,
+          "form": "062 -034-002-056-070-025-019-051-070-094-034-056-077-049-038-029",
+          "certainty": "secure",
+          "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+        }
+      ],
+      "status": "source-checked",
+      "supersedes": []
+    }
+  ],
+  "negative_inspections": [
+    {
+      "object_id": "CHIC-315",
+      "status": "NO_TRANSNUMERATION_SECTION_ON_INSPECTED_PAGE",
+      "reading_invented": false
+    }
+  ],
+  "primary_inspections": [
+    {
+      "page": 226,
+      "url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=226&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "page_sha256": "6cbbac8f9479b16fd69ad5d6da0c27e61d704f5d9c90bb0012599f47b5f3652a",
+      "image_sha256": "1be6fb0e9b480c5a1c3132bc69a6c53de45ebabef0ac9b1b301964757a5d3316",
+      "image_bytes": 115049,
+      "redistributed": false
+    },
+    {
+      "page": 252,
+      "url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=252&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "page_sha256": "672caad0d346aada6a81346d2ff9324928caca363136be7a287c6fcd54f13341",
+      "image_sha256": "f650fe80e27f77fb3297a75a7af22da7677a5dcd52826e1d0f459cee9f4c66e8",
+      "image_bytes": 141820,
+      "redistributed": false
+    }
+  ]
+}

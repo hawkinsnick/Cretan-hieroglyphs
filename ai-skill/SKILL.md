@@ -44,3 +44,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## Fleet EpiDoc and identity graph gates
 Read `analysis/epidoc-interoperability-audit.json` and `research/identity-graph.json`. EpiDoc serialization must preserve sparse reading coverage, alternative script classifications, writing-versus-iconographic uncertainty and source lineage. Catalogue identity is not transcription verification. The 96-class sign registry carries no native phonetic values, and graphic resemblance never creates a cross-script identity assertion.
+
+## Bounded source checkpoint (2026-10-11)
+
+Use `research/source-check-2026-10-11.json`, `research/source-reconciliation.json` and `research/coverage-denominators.json` together. Retain source roles, unresolved competing labels/materials and literal identifier namespaces. Never sum overlapping catalogue and rich-record views, infer a physical corpus population, or promote dependent evidence to independent primary verification.

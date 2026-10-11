@@ -76,12 +76,13 @@
       "status": "DIRECT"
     }
   ],
-  "canonical_promotion": "PENDING_EXISTING_CORPUS_INGESTION_AND_VALIDATOR_UPDATE",
+  "canonical_promotion": "8_SOURCE_ATTRIBUTED_DIGITAL_READING_VERSIONS_INGESTED_ON_4_ENTRIES; PRIMARY_COLLATION_AND_INDEPENDENT_REVIEW_NOT_GRANTED",
   "impact": "Source-access blocker is reduced: INSCRIBE provides a lawful metadata/transnumeration route for a nontrivial CHIC subset, while model/image redistribution remains restricted.",
   "next": [
     "enumerate all INSCRIBE CH objects against 331-identity spine",
     "ingest source-attributed transnumerations through canonical schema",
     "record disagreements against CHIC/other authorities",
     "update evidence counts only after canonical validation"
-  ]
+  ],
+  "current_checkpoint": "research/source-check-2026-10-11.json"
 }

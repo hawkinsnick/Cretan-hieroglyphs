@@ -6,6 +6,11 @@ KNOWN={('CHIC-036','a'):['X','023-061-019-057'],('CHIC-036','b'):['100'],
        ('CHIC-040','a'):['X','019-070-061','X','072-039'],
        ('CHIC-040','b1'):['X','044-049','2'],('CHIC-040','b2'):['X','068-031','4']}
 def validate(readings,report):
+    original=readings
+    readings=[r for r in original if r['source_id']=='CHIC1996']
+    if len(original)!=len(readings):
+        from validate_source_expansion import validate_new_readings
+        validate_new_readings([r for r in original if r['source_id']!='CHIC1996'])
     schema=json.loads((R/'schemas/critical-reading-v5.schema.json').read_text())
     v=Draft202012Validator(schema)
     if len({r['reading_id'] for r in readings})!=len(readings):raise ValueError('duplicate reading')

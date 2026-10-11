@@ -152,16 +152,16 @@
     {
       "repository": "Cretan-hieroglpyhs",
       "snapshot_commit": null,
-      "snapshot_version": "5.2.6",
+      "snapshot_version": "5.3.0",
       "native_evidence": [
         {
           "path": "corpus/manifest.json",
-          "sha256": "182ff102fd0d784674e689d2e4ef3e2039561e456eb033f6c8ea065cb056f7ea",
+          "sha256": "ffebb8e84b02598622b15062a434e8fa5ce108777932222bd7b156fee236554a",
           "url": null
         },
         {
           "path": "corpus/critical-readings.json",
-          "sha256": "f9afc20f153ee5b59743ce174cacbf922ce0db31c6c68abab8fdbcd946466122",
+          "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b",
           "url": null
         },
         {
@@ -171,7 +171,7 @@
         },
         {
           "path": "analysis/context-coverage-v1.json",
-          "sha256": "74fc6cb84b5d8db55ad8f2f45287f4e1d6c77b008ffa0609e1940c98e0be3605",
+          "sha256": "dd96354e9198f3bd1ba35cf12b08da0743022f8bc00c70d37b616c744aa1093e",
           "url": null
         }
       ],
@@ -183,13 +183,13 @@
           "status": "measured"
         },
         "critical_readings": {
-          "value": 5,
+          "value": 13,
           "unit": "committed_native_readings",
           "definition": "Five literal printed transnumerations on two source-located Knossos medallions; not representative corpus coverage or independently certified epigraphy.",
           "status": "measured"
         },
         "source_checked_objects": {
-          "value": 2,
+          "value": 6,
           "unit": "source_transnumeration_checked_physical_objects",
           "definition": "Two H-series Knossos medallions checked against printed CHIC transnumerations; not an autopsy or representative sample.",
           "status": "measured"

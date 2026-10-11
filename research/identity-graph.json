@@ -1,1 +1,89 @@
-{"schema_version":"1.0","status":"PILOT_IDENTITY_MODEL","nodes":[{"id":"project:CH-CATALOGUE","type":"external_catalogue_record","label":"331 CHIC catalogue identities"},{"id":"project:CH-CONTEXT","type":"edition_assertion","label":"234 context assertions on 26 objects"},{"id":"project:CH-READINGS","type":"edition_assertion","label":"five critical readings on two objects"},{"id":"source:INSCRIBE","type":"bibliographic_work","label":"INSCRIBE public catalogue route"},{"id":"source:CHIC","type":"bibliographic_work","label":"CHIC catalogue authority"}],"edges":[{"edge_id":"CH-ID-001","subject":"project:CH-CATALOGUE","predicate":"derived_from","object":"source:CHIC","assertion_status":"SOURCE_ASSERTED","authority":"project catalogue spine","evidence_locator":"corpus/manifest.json","checked_date":"2026-10-06"},{"edge_id":"CH-ID-002","subject":"project:CH-CONTEXT","predicate":"derived_from","object":"source:INSCRIBE","assertion_status":"SOURCE_ASSERTED","authority":"29 inspected INSCRIBE catalogue pages","evidence_locator":"corpus/context-assertions.json","checked_date":"2026-10-06"},{"edge_id":"CH-ID-003","subject":"project:CH-READINGS","predicate":"derived_from","object":"source:CHIC","assertion_status":"SOURCE_ASSERTED","authority":"source-checked primary pilot","evidence_locator":"analysis/chic-primary-pilot-v1.json","checked_date":"2026-10-06"}],"rules":["Catalogue identity does not certify physical object identity beyond source assertion.","Graphic similarity does not establish sign equivalence.","No phonetic identity edge may be created from the sign registry.","Writing-versus-iconographic classification remains an assertion when contested."]}
+{
+  "schema_version": "1.0",
+  "status": "PILOT_IDENTITY_MODEL",
+  "nodes": [
+    {
+      "id": "project:CH-CATALOGUE",
+      "type": "external_catalogue_record",
+      "label": "331 CHIC catalogue identities"
+    },
+    {
+      "id": "project:CH-CONTEXT",
+      "type": "edition_assertion",
+      "label": "234 context assertions on 26 objects"
+    },
+    {
+      "id": "project:CH-READINGS",
+      "type": "edition_assertion",
+      "label": "13 source-checked reading versions on six catalogue entries, with primary and digital strata"
+    },
+    {
+      "id": "source:INSCRIBE",
+      "type": "bibliographic_work",
+      "label": "INSCRIBE public catalogue route"
+    },
+    {
+      "id": "source:CHIC",
+      "type": "bibliographic_work",
+      "label": "CHIC catalogue authority"
+    },
+    {
+      "id": "project:CH-PRIMARY-READINGS",
+      "type": "edition_assertion",
+      "label": "Five primary-edition reading versions on two entries"
+    },
+    {
+      "id": "project:CH-DIGITAL-READINGS",
+      "type": "edition_assertion",
+      "label": "Eight dependent digital reading versions on four entries"
+    }
+  ],
+  "edges": [
+    {
+      "edge_id": "CH-ID-001",
+      "subject": "project:CH-CATALOGUE",
+      "predicate": "derived_from",
+      "object": "source:CHIC",
+      "assertion_status": "SOURCE_ASSERTED",
+      "authority": "project catalogue spine",
+      "evidence_locator": "corpus/manifest.json",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "edge_id": "CH-ID-002",
+      "subject": "project:CH-CONTEXT",
+      "predicate": "derived_from",
+      "object": "source:INSCRIBE",
+      "assertion_status": "SOURCE_ASSERTED",
+      "authority": "29 inspected INSCRIBE catalogue pages",
+      "evidence_locator": "corpus/context-assertions.json",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "edge_id": "CH-ID-003",
+      "subject": "project:CH-PRIMARY-READINGS",
+      "predicate": "derived_from",
+      "object": "source:CHIC",
+      "assertion_status": "SOURCE_ASSERTED",
+      "authority": "source-checked primary pilot",
+      "evidence_locator": "analysis/chic-primary-pilot-v1.json",
+      "checked_date": "2026-10-06"
+    },
+    {
+      "edge_id": "CH-ID-004",
+      "subject": "project:CH-DIGITAL-READINGS",
+      "predicate": "derived_from",
+      "object": "source:INSCRIBE",
+      "assertion_status": "SOURCE_ASSERTED",
+      "authority": "five inspected digital pages, four supply transnumeration",
+      "evidence_locator": "research/source-check-2026-10-11.json",
+      "checked_date": "2026-10-11"
+    }
+  ],
+  "rules": [
+    "Catalogue identity does not certify physical object identity beyond source assertion.",
+    "Graphic similarity does not establish sign equivalence.",
+    "No phonetic identity edge may be created from the sign registry.",
+    "Writing-versus-iconographic classification remains an assertion when contested."
+  ]
+}
