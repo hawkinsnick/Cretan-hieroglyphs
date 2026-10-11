@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "03777a31140fc6f87b7a1b49a390a0768ca275d1",
-  "generated_at_utc": "2026-10-11T21:21:48+00:00",
+  "source_commit": "b9cacfa3b5102334cf09d26e1559eb84b5d28029",
+  "generated_at_utc": "2026-10-11T22:27:32+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -14,6 +14,18 @@
   },
   "artifacts": [
     {
+      "role": "reference_reconciliation",
+      "path": "research/reference-reconciliation-v2.json",
+      "sha256": "a9397e546c324edd4e98ad6cd072778fed4566bfef0b1e4fb22c854dab7a3b0a",
+      "bytes": 16411
+    },
+    {
+      "role": "identity_reconciliation",
+      "path": "research/identity-reconciliation-v2.json",
+      "sha256": "422c1b82bce89b7feff88737907780eea178c2a2f91a705106e9dec3f4dc3005",
+      "bytes": 91684
+    },
+    {
       "role": "source_expansion",
       "path": "research/source-check-2026-10-11.json",
       "sha256": "de4342764c77ed96f656ad138d6f2a95f7425bef1d86aadc564e760f3d9a2d15",
@@ -22,14 +34,14 @@
     {
       "role": "source_reconciliation",
       "path": "research/source-reconciliation.json",
-      "sha256": "74d75c2d36f513f25e4ca4624dceb245c6f1d504970c19fb011633b9714d0fdd",
-      "bytes": 2769
+      "sha256": "b5f68545c018b160f6435ddc04c09de34a99f64f5fa8887e4594bbe38d8e5601",
+      "bytes": 2945
     },
     {
       "role": "coverage_denominators",
       "path": "research/coverage-denominators.json",
-      "sha256": "c223531ae9fe5ea4c7d82aa11aad074593900fe9f76e46802085797063e8c2a2",
-      "bytes": 17773
+      "sha256": "802a77451d9c825a8bfba20ae69d40f53a5f1fd0f7c552eab2dc14b672d66481",
+      "bytes": 17876
     },
     {
       "role": "readable_dossiers",
@@ -70,8 +82,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "af8c8d7d5b5cb08f1682a6483f1c28a3a1f5354da55631e09f287168b46ef4d6",
-      "bytes": 6303
+      "sha256": "8b1a6fe4c89d88de8481fc8efa0f3ff3a293b3065b2b35d1df8f27e62cb94882",
+      "bytes": 7058
     },
     {
       "role": "source_inspection",
@@ -106,8 +118,8 @@
     {
       "role": "pre_expert_source_exhaustion",
       "path": "research/pre-expert-source-exhaustion.json",
-      "sha256": "60c9aea81b59b8ba9f8bd95e4398c9c5149ebe76e42dacec7d358e8200ca4e2c",
-      "bytes": 2597
+      "sha256": "3857e9062fcdf8387f97e664d5c39cd743983570c34ed858e5c1a8d64f376b35",
+      "bytes": 2784
     },
     {
       "role": "notice",
