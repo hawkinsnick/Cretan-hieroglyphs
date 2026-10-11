@@ -30,7 +30,7 @@ Read `ai-skill/generated/source-state.json` before substantive work. It records 
 ## Academic-scrutiny gates
 - No native phonetic values are asserted
 - Structural and comparative analyses remain BLOCKED until canonical gates change
-- Five critical readings on two source-checked objects are not representative corpus coverage
+- The five original primary readings on two entries and eight added dependent digital versions on four entries (13 versions on six entries in total) are not representative corpus coverage
 - Zero independently reviewed objects must remain explicit
 - Graphic similarity does not establish sign equivalence
 
