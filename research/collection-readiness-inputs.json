@@ -12,7 +12,7 @@
       "unit": "catalogue_identity"
     }
   ],
-  "repository": "hawkinsnick/Cretan-hieroglpyhs",
+  "repository": "hawkinsnick/Cretan-hieroglyphs",
   "schema_version": "1.0",
   "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
   "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
@@ -23,5 +23,6 @@
     "research/pre-expert-maximum.json",
     "research/pre-expert-source-exhaustion.json",
     "research/source-inspection-2026-10-02.json"
-  ]
+  ],
+  "legacy_repository_label": "hawkinsnick/Cretan-hieroglpyhs"
 }
