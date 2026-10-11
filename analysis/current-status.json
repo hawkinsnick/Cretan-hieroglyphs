@@ -47,19 +47,19 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "27c83a3e0de92798c4d7fec6044e0f69d07f762c0143558d418170972313d5e8"
+      "sha256": "336fb20f5cc47a2baefd5a6735bd9e5913d8d73b0139e414ab598de32204d2a2"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "7148ee78da9d95e177cd5aa9ffee077e1fbee773bbd15593bf33f010f6715a8b"
+      "sha256": "adb202787e24deeb316dae4aca38c073af41478198282d6db2984584e9c46a45"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "9a96cf2e93b34410ca9549a9c4f59c63459897a3efe7a5cc735a2f10e68f4889"
+      "sha256": "c5754c34e2606ed86f71eca43f0d4ab008d4bb50bf9aafb64b1d5468c39f71eb"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "7274e762221f66c6b136d09273718d3561b06fad497fbb5b213c260f57dab3ce"
+      "sha256": "9869b80a1726c219e584d02abf3b47aecc40688703b05cda09966c2f8abb2810"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -111,7 +111,7 @@
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "f2cfd5910b97113a18ece51fb6923ed564f89b05be6495d5ad7e13f89b4166fe"
+      "sha256": "27cce47575d1986d632591467b0f56b2aaf32ca2de55ab6e341c93fc48107582"
     },
     {
       "path": "scripts/research_dossiers.py",
@@ -167,7 +167,7 @@
     },
     {
       "path": "scripts/assertion_views.py",
-      "sha256": "c998a1fb2057183e9de3af1492d32e64640ed85b36e64832798c951b16131e8c"
+      "sha256": "4de1e2c6cbd98f34ed5090380aa98ad6877332bcb64f3f40947174a1fa527a2b"
     },
     {
       "path": "scripts/test_assertion_views.py",
@@ -187,7 +187,7 @@
     },
     {
       "path": "exports/qualified-assertions.csv",
-      "sha256": "d02b83d6fdcb4dd71a99fc75faa646f7fa8637d564da71a017f6d3b03de13d7a"
+      "sha256": "7c04e225d56baeee2fac996baa31e95eaf65572621d3e6342ce3395e1b36b84b"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",

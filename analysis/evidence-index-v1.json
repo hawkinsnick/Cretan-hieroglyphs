@@ -62,7 +62,7 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "27c83a3e0de92798c4d7fec6044e0f69d07f762c0143558d418170972313d5e8",
+      "sha256": "336fb20f5cc47a2baefd5a6735bd9e5913d8d73b0139e414ab598de32204d2a2",
       "bytes": 13620,
       "category": "research",
       "summary": {
@@ -122,7 +122,7 @@
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "f2cfd5910b97113a18ece51fb6923ed564f89b05be6495d5ad7e13f89b4166fe",
+      "sha256": "27cce47575d1986d632591467b0f56b2aaf32ca2de55ab6e341c93fc48107582",
       "bytes": 7324,
       "category": "analysis",
       "summary": {
@@ -227,8 +227,8 @@
     },
     {
       "path": "scripts/assertion_views.py",
-      "sha256": "c998a1fb2057183e9de3af1492d32e64640ed85b36e64832798c951b16131e8c",
-      "bytes": 3954,
+      "sha256": "4de1e2c6cbd98f34ed5090380aa98ad6877332bcb64f3f40947174a1fa527a2b",
+      "bytes": 3974,
       "category": "scripts",
       "summary": {}
     },
@@ -266,8 +266,8 @@
     },
     {
       "path": "exports/qualified-assertions.csv",
-      "sha256": "d02b83d6fdcb4dd71a99fc75faa646f7fa8637d564da71a017f6d3b03de13d7a",
-      "bytes": 33784,
+      "sha256": "7c04e225d56baeee2fac996baa31e95eaf65572621d3e6342ce3395e1b36b84b",
+      "bytes": 33770,
       "category": "exports",
       "summary": {}
     }
@@ -307,7 +307,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "27c83a3e0de92798c4d7fec6044e0f69d07f762c0143558d418170972313d5e8",
+  "family_report_sha256": "336fb20f5cc47a2baefd5a6735bd9e5913d8d73b0139e414ab598de32204d2a2",
   "implementation_sha256": "71ceb7d7107428014ae9f43ca10d402805fb999428cb67549214d6b2b8bbc406",
   "assertion_view_sha256": "6defe086bd86e195b0b248163861d68ec5fd4c68c1e5338275c4a6509210dbfd",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."
