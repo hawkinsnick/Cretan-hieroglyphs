@@ -33,3 +33,7 @@ Adds source-reference closure checks, full dossier/coverage replay and hostile t
 ## Unreleased — 2026-10-11 source checkpoint
 
 Eight INSCRIBE reading versions were checked and encoded on CHIC-202, 252, 313 and 328. CHIC-315 supplies no transnumeration on the inspected page. The total is 13 versions on six of 331 catalogue entries: five primary-edition versions on two entries and eight dependent digital versions on four. Direct visual inspection of CHIC 1996 pp. 226 and 252 found ivory captions conflicting with INSCRIBE animal-bone metadata. Both assertions and inventory namespaces are retained; the inspected primary pages do not independently verify the digital numeric readings. 325 entries have no reading in this layer. Physical inscription population and duplicate adjudication remain unknown.
+
+## Existing-evidence reconciliation — 2026-10-11
+
+Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-EVIDENCE-RECONCILIATION.md) now accounts for every existing assertion and identity, preserving source apparatus and unresolved scholarly decisions.

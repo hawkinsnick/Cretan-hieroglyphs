@@ -35,7 +35,7 @@
         "digital_inventory": "Σ-K 2245",
         "physical_identity_independently_certified": false
       },
-      "numerical_reading_comparison": "NOT_VERIFIED_FROM_INSPECTED_PRIMARY_PAGE; images are not printed numeric transnumerations",
+      "numerical_reading_comparison": "CURRENT_V2: primary p. 227 confirms both existing digital numeric groups; source lineage remains dependent.",
       "interventions": []
     },
     {
@@ -67,9 +67,10 @@
         "digital_inventory": "Σ-K 2266",
         "physical_identity_independently_certified": false
       },
-      "numerical_reading_comparison": "NOT_VERIFIED_FROM_INSPECTED_PRIMARY_PAGE; images are not printed numeric transnumerations",
+      "numerical_reading_comparison": "CURRENT_V2: primary p. 253 confirms faces α/β; digital face c omits three unidentified marks and sign-membership uncertainty. See research/reference-reconciliation-v2.json.",
       "interventions": []
     }
   ],
-  "primary_reading_agreement_certified": false
+  "primary_reading_agreement_certified": false,
+  "current_reconciliation": "research/reference-reconciliation-v2.json"
 }

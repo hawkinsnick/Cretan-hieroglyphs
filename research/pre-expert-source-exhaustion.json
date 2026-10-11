@@ -42,8 +42,10 @@
     "phonetic_values_asserted": 0,
     "independently_reviewed_objects": 0
   },
-  "completion_assessment": "CONTEXT_DOSSIERS_COMPLETE_SOURCE_ACQUISITION_REMAINS_OPEN",
+  "completion_assessment": "EXISTING_INVENTORY_ACCOUNTED_SOURCE_DISAGREEMENTS_AND_EXPERT_ACCEPTANCE_OPEN",
   "qualification": "The representative acquisition target is not fabricated from restricted material. New lawful object-level evidence reopens acquisition.",
   "latest_source_inspection": "research/source-inspection-2026-10-02.json",
-  "context_milestone": "docs/CONTEXT-AND-DOSSIERS.md"
+  "context_milestone": "docs/CONTEXT-AND-DOSSIERS.md",
+  "current_reconciliation_checkpoint": "research/reference-reconciliation-v2.json",
+  "identity_reconciliation_checkpoint": "research/identity-reconciliation-v2.json"
 }

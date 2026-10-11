@@ -1,0 +1,363 @@
+{
+  "schema_version": "2.0",
+  "checked": "2026-10-11",
+  "frozen_inventory": {
+    "path": "corpus/critical-readings.json",
+    "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b",
+    "unit": "reading_version",
+    "count": 13,
+    "record_ids": [
+      "CHIC-036",
+      "CHIC-040",
+      "CHIC-202",
+      "CHIC-252",
+      "CHIC-313",
+      "CHIC-328"
+    ],
+    "scope": "Existing content frozen; no reading or sign-occurrence expansion or replacement authorized."
+  },
+  "primary_page_receipts": [
+    {
+      "printed_page": 227,
+      "page_url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=227&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "page_sha256": "21b9abbbb115defa1fe2a9b543f9a69acdb1b54d70f556d604afac494bf72ebc",
+      "image_sha256": "2dbfcfa4a6d6a9783c33d60b098490234637e5bedddc1639352ed0beba39c955",
+      "image_bytes": 33821,
+      "source_image_filename": "EtCret_31-0_1996_233.jpg",
+      "redistributed": false
+    },
+    {
+      "printed_page": 253,
+      "page_url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=253&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "page_sha256": "9410bb84b320b8d28b9d7de5a207effcbf27c27adb12749b76bb11f59cd2437d",
+      "image_sha256": "36faa93b0fafd6a4bcdd858ead0158848c6ac052301a7c58810f9030c51dd2b0",
+      "image_bytes": 55697,
+      "source_image_filename": "EtCret_31-0_1996_259.jpg",
+      "redistributed": false
+    },
+    {
+      "printed_page": 288,
+      "page_url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=288&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "page_sha256": "ff5d0c0a138154498618e278dbed075fb1e4c9b5e39114c290e1e7e74f61384b",
+      "image_sha256": "941056a4d22f4f829405a0eccea1dc347421a23df91b856f3b27b4bbeec3133e",
+      "image_bytes": 146404,
+      "source_image_filename": "EtCret_31-0_1996_294.jpg",
+      "redistributed": false
+    },
+    {
+      "printed_page": 289,
+      "page_url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=289&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "page_sha256": "eaa27b8d0203411e53c98157c468c626c3cbb3024860041a90150eba58b1867d",
+      "image_sha256": "0fdcda3841b71e72443e4a8dad4ff8a2c2d6df31c985a25e3883e8ea08480fc6",
+      "image_bytes": 51708,
+      "source_image_filename": "EtCret_31-0_1996_295.jpg",
+      "redistributed": false
+    },
+    {
+      "printed_page": 314,
+      "page_url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=314&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "page_sha256": "e17ebe9cd32bbeda641f102fdec293807beb7e0984590cf0a0a1e84c6a755684",
+      "image_sha256": "60b4ee4eb02051ca603f97cda0f227d036cd9f66c6b95ea5f09536f54646ee2b",
+      "image_bytes": 163244,
+      "source_image_filename": "EtCret_31-0_1996_320.jpg",
+      "redistributed": false
+    },
+    {
+      "printed_page": 315,
+      "page_url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=315&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "page_sha256": "f25b8cd7be1891d6e613546798225528b150c881275a4f3a98e40690ad5061db",
+      "image_sha256": "10302fa5422123aacbb0be8033bb160c97ba28e79ad30ce13b8f2ad7ee86e4a9",
+      "image_bytes": 127556,
+      "source_image_filename": "EtCret_31-0_1996_321.jpg",
+      "redistributed": false
+    }
+  ],
+  "existing_reading_dispositions": [
+    {
+      "reading_id": "CHIC-036-a-CHIC1996",
+      "record_id": "CHIC-036",
+      "source_id": "CHIC1996",
+      "native_locator": "p. 91, #036, face/line a, printed transnumeration",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "primary_edition",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+      "primary_locator": "p. 91, #036, face/line a, printed transnumeration",
+      "evidence": "analysis/chic-primary-pilot-v1.json"
+    },
+    {
+      "reading_id": "CHIC-036-b-CHIC1996",
+      "record_id": "CHIC-036",
+      "source_id": "CHIC1996",
+      "native_locator": "p. 91, #036, face/line b, printed transnumeration",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "primary_edition",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+      "primary_locator": "p. 91, #036, face/line b, printed transnumeration",
+      "evidence": "analysis/chic-primary-pilot-v1.json"
+    },
+    {
+      "reading_id": "CHIC-040-a-CHIC1996",
+      "record_id": "CHIC-040",
+      "source_id": "CHIC1996",
+      "native_locator": "p. 93, #040, face/line a, printed transnumeration",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "primary_edition",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+      "primary_locator": "p. 93, #040, face/line a, printed transnumeration",
+      "evidence": "analysis/chic-primary-pilot-v1.json"
+    },
+    {
+      "reading_id": "CHIC-040-b1-CHIC1996",
+      "record_id": "CHIC-040",
+      "source_id": "CHIC1996",
+      "native_locator": "p. 93, #040, face/line b1, printed transnumeration",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "primary_edition",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+      "primary_locator": "p. 93, #040, face/line b1, printed transnumeration",
+      "evidence": "analysis/chic-primary-pilot-v1.json"
+    },
+    {
+      "reading_id": "CHIC-040-b2-CHIC1996",
+      "record_id": "CHIC-040",
+      "source_id": "CHIC1996",
+      "native_locator": "p. 93, #040, face/line b2, printed transnumeration",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "primary_edition",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+      "primary_locator": "p. 93, #040, face/line b2, printed transnumeration",
+      "evidence": "analysis/chic-primary-pilot-v1.json"
+    },
+    {
+      "reading_id": "CHIC-202-a-INSCRIBE",
+      "record_id": "CHIC-202",
+      "source_id": "INSCRIBE-CH",
+      "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side a",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "dependent_digital_reference",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "primary_source_id": "CHIC1996",
+      "primary_locator": "printed p. 227, #202, face α",
+      "primary_receipt_page": 227,
+      "digital_literal": "042-019",
+      "primary_numeric_group": "042-019",
+      "face_label_mapping": {
+        "digital": "a",
+        "primary": "α",
+        "basis": "Explicit printed face sequence, no physical reading direction inferred"
+      },
+      "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+    },
+    {
+      "reading_id": "CHIC-202-b-INSCRIBE",
+      "record_id": "CHIC-202",
+      "source_id": "INSCRIBE-CH",
+      "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side b",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "dependent_digital_reference",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "primary_source_id": "CHIC1996",
+      "primary_locator": "printed p. 227, #202, face β",
+      "primary_receipt_page": 227,
+      "digital_literal": "019-095-052",
+      "primary_numeric_group": "019-095-052",
+      "face_label_mapping": {
+        "digital": "b",
+        "primary": "β",
+        "basis": "Explicit printed face sequence, no physical reading direction inferred"
+      },
+      "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+    },
+    {
+      "reading_id": "CHIC-252-a-INSCRIBE",
+      "record_id": "CHIC-252",
+      "source_id": "INSCRIBE-CH",
+      "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side a",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "dependent_digital_reference",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "primary_source_id": "CHIC1996",
+      "primary_locator": "printed p. 253, #252, face α",
+      "primary_receipt_page": 253,
+      "digital_literal": "019-095-052",
+      "primary_numeric_group": "019-095-052",
+      "face_label_mapping": {
+        "digital": "a",
+        "primary": "α",
+        "basis": "Explicit printed face sequence, no physical reading direction inferred"
+      },
+      "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+    },
+    {
+      "reading_id": "CHIC-252-b-INSCRIBE",
+      "record_id": "CHIC-252",
+      "source_id": "INSCRIBE-CH",
+      "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side b",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "dependent_digital_reference",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "primary_source_id": "CHIC1996",
+      "primary_locator": "printed p. 253, #252, face β",
+      "primary_receipt_page": 253,
+      "digital_literal": "042-019",
+      "primary_numeric_group": "042-019",
+      "face_label_mapping": {
+        "digital": "b",
+        "primary": "β",
+        "basis": "Explicit printed face sequence, no physical reading direction inferred"
+      },
+      "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+    },
+    {
+      "reading_id": "CHIC-252-c-INSCRIBE",
+      "record_id": "CHIC-252",
+      "source_id": "INSCRIBE-CH",
+      "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side c",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "dependent_digital_reference",
+      "canonical_reading_replaced": false,
+      "apparatus": [
+        {
+          "type": "unidentified_marks",
+          "count": 3,
+          "source_symbol": "•",
+          "encoding_boundary": "Black round marks transcribed as • in this apparatus ledger; not sign identities or new occurrence assertions."
+        },
+        {
+          "type": "membership_uncertainty",
+          "scope": "face γ",
+          "value": "Primary edition questions whether the marks are signs and describes them as very uncertain.",
+          "source_id": "CHIC1996",
+          "locator": "p. 253, #252, face γ note"
+        }
+      ],
+      "primary_source_id": "CHIC1996",
+      "primary_locator": "printed p. 253, #252, face γ",
+      "primary_receipt_page": 253,
+      "digital_literal": "062",
+      "primary_numeric_group": "062-•-•-•",
+      "face_label_mapping": {
+        "digital": "c",
+        "primary": "γ",
+        "basis": "Explicit printed face sequence, no physical reading direction inferred"
+      },
+      "status": "REFERENCE_OMITS_PRIMARY_UNIDENTIFIED_MARKS_AND_QUALIFIER"
+    },
+    {
+      "reading_id": "CHIC-313-a-INSCRIBE",
+      "record_id": "CHIC-313",
+      "source_id": "INSCRIBE-CH",
+      "native_locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side a",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "dependent_digital_reference",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "primary_source_id": "CHIC1996",
+      "primary_locator": "printed p. 289, #313, face α",
+      "primary_receipt_page": 289,
+      "digital_literal": "042-019",
+      "primary_numeric_group": "042-019",
+      "face_label_mapping": {
+        "digital": "a",
+        "primary": "α",
+        "basis": "Explicit printed face sequence, no physical reading direction inferred"
+      },
+      "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+    },
+    {
+      "reading_id": "CHIC-313-b-INSCRIBE",
+      "record_id": "CHIC-313",
+      "source_id": "INSCRIBE-CH",
+      "native_locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side b",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "dependent_digital_reference",
+      "canonical_reading_replaced": false,
+      "apparatus": [],
+      "primary_source_id": "CHIC1996",
+      "primary_locator": "printed p. 289, #313, face β",
+      "primary_receipt_page": 289,
+      "digital_literal": "019-095-052",
+      "primary_numeric_group": "019-095-052",
+      "face_label_mapping": {
+        "digital": "b",
+        "primary": "β",
+        "basis": "Explicit printed face sequence, no physical reading direction inferred"
+      },
+      "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+    },
+    {
+      "reading_id": "CHIC-328-unlabelled-INSCRIBE",
+      "record_id": "CHIC-328",
+      "source_id": "INSCRIBE-CH",
+      "native_locator": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php ; Transnumeration ; no face label supplied",
+      "independent_review_complete": false,
+      "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+      "source_role": "dependent_digital_reference",
+      "canonical_reading_replaced": false,
+      "apparatus": [
+        {
+          "type": "damage",
+          "scope": "first sign",
+          "value": "Edition reports loss of a chip bearing the left extremity after discovery.",
+          "source_id": "CHIC1996",
+          "locator": "p. 315, #328, note below numeric group"
+        },
+        {
+          "type": "conditional_alternative",
+          "source_label": "065",
+          "current_printed_label": "062",
+          "status": "THEORETICALLY_POSSIBLE_IN_PRIMARY_NOTE_NOT_ADOPTED",
+          "source_id": "CHIC1996",
+          "locator": "p. 315, #328, note; earlier drawings cited in edition were not independently inspected"
+        },
+        {
+          "type": "typography",
+          "scope": "initial 062",
+          "value": "Printed in italics; meaning not independently adjudicated."
+        }
+      ],
+      "primary_source_id": "CHIC1996",
+      "primary_locator": "printed p. 315, #328, unlabelled sequence",
+      "primary_receipt_page": 315,
+      "digital_literal": "062 -034-002-056-070-025-019-051-070-094-034-056-077-049-038-029",
+      "primary_numeric_group": "062-034-002-056-070-025-019-051-070-094-034-056-077-049-038-029",
+      "face_label_mapping": {
+        "digital": null,
+        "primary": null,
+        "basis": "Explicit printed face sequence, no physical reading direction inferred"
+      },
+      "status": "NUMERIC_GROUP_MATCH_PRIMARY; DAMAGE_AND_ALTERNATIVE_OMITTED_BY_REFERENCE"
+    }
+  ],
+  "material_conflicts": "research/source-reconciliation.json",
+  "apparatus_policy": "Use this ledger alongside literal digital strings. Source-literal certainty cannot imply graphical certainty or complete editorial preservation. No competing reading is silently chosen.",
+  "complete_existing_inventory_accounting": true,
+  "independent_review_complete": false,
+  "physical_population_certified": false
+}

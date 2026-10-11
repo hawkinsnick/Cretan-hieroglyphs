@@ -65,7 +65,7 @@ def build(root=ROOT):
 def validate(root=ROOT):
  expected=build(root);require(load(root,'research/coverage-denominators.json')==expected,'bounded denominator or source receipt drift')
  comparisons=load(root,'research/source-reconciliation.json')
- require(digest(comparisons['comparisons'])=='94e3b53e4ec34e0c53798af4739b6a7eae5f4242a9fb63f83be14f67d3f99d2d','inspected competing source assertions drift')
+ require(digest(comparisons['comparisons'])=='b71bff8a0a186b65bc5f45898167b294f0c563ed18c18bc6564fea8a7d223f7b','inspected competing source assertions drift')
  require(comparisons['independent_review_complete'] is False and comparisons['primary_reading_agreement_certified'] is False,'unsupported reconciliation promotion')
  for c in comparisons['comparisons']:
   require(len(c['assertions'])==2 and all(a['locator'] and a['source_id'] and a['inspection'] for a in c['assertions']),'disagreement provenance lost')

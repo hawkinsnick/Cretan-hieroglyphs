@@ -43,7 +43,7 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "f73feeb4009dc8778603f55a512d63c0a90b217bee11b5159f906063d7003606"
+      "sha256": "884b8f033e35374e8f8586cc7fdfec77e35a8987e74445f89b1df08b5499eb95"
     },
     {
       "path": "research/family-readiness-v1.json",
@@ -51,15 +51,15 @@
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "0f7e4ac47dc42d7ff31919f00cb08d2896068814e7a201de2bed9846e161b695"
+      "sha256": "d893a8ee146dc73695a294a8a3f3735652bc8333963c9c67f0068cdf414b0f01"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "a66eb969d60d9ffe987fbede3081a5d313e95f96fd6dcef319665b62ae34d081"
+      "sha256": "a3c15fcda2b9d90c73fcf79b0d5473023f56467aa71cad394e51deb5fe2881ea"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "a8d4fe76583a337f024b44b0c0a2767e25a9666fed90e45af99dba8829235949"
+      "sha256": "fdc59eb4fba6f025b48032b09e7fd46717cb7b80f402fad44626a9727919a857"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -139,11 +139,31 @@
     },
     {
       "path": "research/source-reconciliation.json",
-      "sha256": "74d75c2d36f513f25e4ca4624dceb245c6f1d504970c19fb011633b9714d0fdd"
+      "sha256": "b5f68545c018b160f6435ddc04c09de34a99f64f5fa8887e4594bbe38d8e5601"
     },
     {
       "path": "research/coverage-denominators.json",
-      "sha256": "c223531ae9fe5ea4c7d82aa11aad074593900fe9f76e46802085797063e8c2a2"
+      "sha256": "802a77451d9c825a8bfba20ae69d40f53a5f1fd0f7c552eab2dc14b672d66481"
+    },
+    {
+      "path": "research/reference-reconciliation-v2.json",
+      "sha256": "a9397e546c324edd4e98ad6cd072778fed4566bfef0b1e4fb22c854dab7a3b0a"
+    },
+    {
+      "path": "research/identity-reconciliation-v2.json",
+      "sha256": "422c1b82bce89b7feff88737907780eea178c2a2f91a705106e9dec3f4dc3005"
+    },
+    {
+      "path": "scripts/validate_reconciliation.py",
+      "sha256": "6832f59de2d59b812b347ded08e2c829a58660b6c8253ca4d73c531bfe63baa0"
+    },
+    {
+      "path": "scripts/test_reconciliation.py",
+      "sha256": "4a2ab92fa13e043691e65cee5aa6d6c86b754d29424d4f11437822dd28e4c4df"
+    },
+    {
+      "path": "docs/EXISTING-EVIDENCE-RECONCILIATION.md",
+      "sha256": "64137f9889a95724e72bc155bba2b1d2c9b84cbd2df87bbbb550bf9494c83dea"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
