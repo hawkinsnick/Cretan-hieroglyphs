@@ -10,7 +10,7 @@ For questions spanning multiple corpus projects, use the **Combined Corpus Resea
 
 ## Current status — 5.3.0
 
-Adds 234 source-attributed contextual assertions on 26 CHIC entries from 29 INSCRIBE catalogue pages; three unnumbered pages remain excluded source leads. All 331 identities have reproducible review dossiers. Script alternatives, unknown findspots and chronology qualifiers remain literal. Five readings on two objects and zero independent reviews remain unchanged.
+Adds 234 source-attributed contextual assertions on 26 CHIC entries from 29 INSCRIBE catalogue pages; three unnumbered pages remain excluded source leads. All 331 identities have reproducible review dossiers. Script alternatives, unknown findspots and chronology qualifiers remain literal. The primary pilot remains five readings on two entries; the 2026-10-11 checkpoint adds eight dependent digital versions on four entries. There are 13 versions on six entries and zero independent reviews.
 
 Family contract 1.2 aligns all five projects with [Phaistos Disc 1.6.0](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v1.6.0). The shared readiness report preserves native sampling units, source rights and blocked linguistic controls. It authorizes no pooling or linguistic relationship claim. See [`research/family-readiness-v1.json`](research/family-readiness-v1.json).
 
@@ -48,10 +48,14 @@ Download the [research workbench 1.1 package](https://github.com/hawkinsnick/Cre
 
 ## Context and review dossiers — 5.3.0
 
-Adds 234 source-attributed contextual assertions on 26 CHIC entries from 29 INSCRIBE catalogue pages; three unnumbered pages remain excluded source leads. All 331 identities have reproducible review dossiers. Script alternatives, unknown findspots and chronology qualifiers remain literal. Five readings on two objects and zero independent reviews remain unchanged.
+Adds 234 source-attributed contextual assertions on 26 CHIC entries from 29 INSCRIBE catalogue pages; three unnumbered pages remain excluded source leads. All 331 identities have reproducible review dossiers. Script alternatives, unknown findspots and chronology qualifiers remain literal. The primary pilot remains five readings on two entries; the 2026-10-11 checkpoint adds eight dependent digital versions on four entries. There are 13 versions on six entries and zero independent reviews.
 
 Read [the researcher guide](docs/CONTEXT-AND-DOSSIERS.md), [the coverage audit](analysis/context-coverage-v1.json) and [record dossiers](research/record-dossiers.json). Run `python scripts/research_dossiers.py` to check deterministic replay. Metadata coverage does not imply reading coverage or representative sampling.
 
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. The browser uses only the explicit rights/provenance-reviewed allowlist in `research/browser-sources.json`, including the CHIC catalogue spine, context, critical readings, graph observations, core sign registry, disagreements and record dossiers. Never recursively ingest restricted/raw upstream material. Browser display does not establish decipherment, source independence or expert validation.
+
+## Source checkpoint — 2026-10-11
+
+See [source coverage and reconciliation](docs/SOURCE-COVERAGE-2026-10-11.md), [unresolved source comparisons](research/source-reconciliation.json) and [bounded coverage inventories](research/coverage-denominators.json). Source checking has expanded; complete primary reconciliation and independent expert acceptance remain open.

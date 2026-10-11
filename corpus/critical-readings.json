@@ -136,5 +136,149 @@
     ],
     "status": "source-checked",
     "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-202-a-INSCRIBE",
+    "object_id": "CHIC-202",
+    "surface_id": "a",
+    "kind": "secondary",
+    "source_id": "INSCRIBE-CH",
+    "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side a",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "042-019",
+        "certainty": "secure",
+        "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-202-b-INSCRIBE",
+    "object_id": "CHIC-202",
+    "surface_id": "b",
+    "kind": "secondary",
+    "source_id": "INSCRIBE-CH",
+    "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side b",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "019-095-052",
+        "certainty": "secure",
+        "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-252-a-INSCRIBE",
+    "object_id": "CHIC-252",
+    "surface_id": "a",
+    "kind": "secondary",
+    "source_id": "INSCRIBE-CH",
+    "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side a",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "019-095-052",
+        "certainty": "secure",
+        "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-252-b-INSCRIBE",
+    "object_id": "CHIC-252",
+    "surface_id": "b",
+    "kind": "secondary",
+    "source_id": "INSCRIBE-CH",
+    "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side b",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "042-019",
+        "certainty": "secure",
+        "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-252-c-INSCRIBE",
+    "object_id": "CHIC-252",
+    "surface_id": "c",
+    "kind": "secondary",
+    "source_id": "INSCRIBE-CH",
+    "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side c",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "062",
+        "certainty": "secure",
+        "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-313-a-INSCRIBE",
+    "object_id": "CHIC-313",
+    "surface_id": "a",
+    "kind": "secondary",
+    "source_id": "INSCRIBE-CH",
+    "locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side a",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "042-019",
+        "certainty": "secure",
+        "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-313-b-INSCRIBE",
+    "object_id": "CHIC-313",
+    "surface_id": "b",
+    "kind": "secondary",
+    "source_id": "INSCRIBE-CH",
+    "locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side b",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "019-095-052",
+        "certainty": "secure",
+        "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-328-unlabelled-INSCRIBE",
+    "object_id": "CHIC-328",
+    "surface_id": null,
+    "kind": "secondary",
+    "source_id": "INSCRIBE-CH",
+    "locator": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php ; Transnumeration ; no face label supplied",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "062 -034-002-056-070-025-019-051-070-094-034-056-077-049-038-029",
+        "certainty": "secure",
+        "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
   }
 ]

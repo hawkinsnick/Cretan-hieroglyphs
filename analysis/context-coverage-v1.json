@@ -14,8 +14,8 @@
     "S": 14,
     "Y": 3
   },
-  "reading_objects": 2,
-  "critical_readings": 5,
+  "reading_objects": 6,
+  "critical_readings": 13,
   "excluded_source_pages": [
     {
       "url": "https://www.inscribercproject.com/Seal_CMS_II,1_064.php",
@@ -346,7 +346,7 @@
   "input_digests": [
     {
       "path": "bibliography/sources.json",
-      "sha256": "d4303ddc7aaf13cd813b35a6fcb072da27ad7347df668914af328704814541a2"
+      "sha256": "48983a78a0eeabce6001d0182dfa42842615c499a2c2023d2db86fc37d113fec"
     },
     {
       "path": "corpus/chic-catalogue-spine.json",
@@ -358,7 +358,7 @@
     },
     {
       "path": "corpus/critical-readings.json",
-      "sha256": "f9afc20f153ee5b59743ce174cacbf922ce0db31c6c68abab8fdbcd946466122"
+      "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b"
     }
   ],
   "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."

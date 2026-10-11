@@ -36,6 +36,13 @@
       "status": "PASS",
       "structural_analysis": "BLOCKED",
       "comparative_analysis": "BLOCKED"
+    },
+    {
+      "gate": "bounded_digital_source_expansion",
+      "status": "SOURCE_CHECKED_NOT_PRIMARY_COLLATED",
+      "objects": 4,
+      "critical_readings": 8,
+      "evidence": "research/source-check-2026-10-11.json"
     }
   ],
   "remaining_nonexpert_work": [

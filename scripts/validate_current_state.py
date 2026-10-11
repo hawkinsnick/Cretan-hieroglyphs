@@ -88,8 +88,8 @@ def validate():
         require(not state["scientific_results"]["calibration_executed"],"unsupported calibration claim")
     from validate_primary_pilot import validate as validate_pilot
     validate_pilot(load('corpus/critical-readings.json'), load('analysis/chic-primary-pilot-v1.json'))
-    require(load('corpus/manifest.json')['critical_corpus'] == {'readings':5,'source_checked_occurrence_objects':2,'independently_reviewed_objects':0}, 'primary pilot manifest counts drift')
-    require(counts['source_checked_occurrence_objects']==2 and counts['independently_reviewed_objects']==0,'primary pilot current counts drift')
+    require(load('corpus/manifest.json')['critical_corpus'] == {'readings':13,'source_checked_occurrence_objects':6,'independently_reviewed_objects':0}, 'primary pilot manifest counts drift')
+    require(counts['source_checked_occurrence_objects']==6 and counts['independently_reviewed_objects']==0,'primary pilot current counts drift')
     from research_dossiers import validate as validate_dossiers
     validate_dossiers(R)
     context=load('analysis/context-coverage-v1.json')

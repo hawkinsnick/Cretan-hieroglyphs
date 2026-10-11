@@ -22,7 +22,10 @@
     "research/acquisition-queue.json",
     "research/pre-expert-maximum.json",
     "research/pre-expert-source-exhaustion.json",
-    "research/source-inspection-2026-10-02.json"
+    "research/source-inspection-2026-10-02.json",
+    "research/source-check-2026-10-11.json",
+    "research/source-reconciliation.json",
+    "research/coverage-denominators.json"
   ],
   "legacy_repository_label": "hawkinsnick/Cretan-hieroglpyhs"
 }
