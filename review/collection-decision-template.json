@@ -26,10 +26,10 @@
       "status": "UNREVIEWED"
     }
   },
-  "evidence_fingerprint": "a9049cf19482d4c44e93b63ab82a66e5ad549b3a59f6cf532408bc097eab4f63",
+  "evidence_fingerprint": "7c216cd3b7f786fd8e36d8c37a6bb494fd60e2a5c195ccf1dccf6a3a4a408c0e",
   "inspected_evidence": [],
   "record_key": null,
-  "repository": "hawkinsnick/Cretan-hieroglpyhs",
+  "repository": "hawkinsnick/Cretan-hieroglyphs",
   "reviewed_on": null,
   "reviewer": null,
   "schema_version": "1.0",

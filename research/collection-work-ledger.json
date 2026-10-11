@@ -1,8 +1,8 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "abe43599c28801d532238b11863e8b73bc39fe2c1afa63cdcee5d738a001481e",
-  "evidence_fingerprint": "a9049cf19482d4c44e93b63ab82a66e5ad549b3a59f6cf532408bc097eab4f63",
+  "config_sha256": "ee6cc8d17dd5836d4c1bcc6c6f73254aa15708b93d8cddf9f15907a046d7da58",
+  "evidence_fingerprint": "7c216cd3b7f786fd8e36d8c37a6bb494fd60e2a5c195ccf1dccf6a3a4a408c0e",
   "input_sha256": {
     "analysis/coverage.json": "723c6b28eebe6bffcddf680184281df850fc0ff2ac0072872c35dfd54c1b8891",
     "analysis/current-status.json": "827569a9ef2fa4ce944c8f1a042ef8eac398a7178644edfd47f18131ebe512a9",
@@ -6985,7 +6985,7 @@
       "unit": "catalogue_identity"
     }
   ],
-  "repository": "hawkinsnick/Cretan-hieroglpyhs",
+  "repository": "hawkinsnick/Cretan-hieroglyphs",
   "review_dimensions": [
     "object_identity",
     "reading_and_layout",
