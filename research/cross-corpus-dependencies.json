@@ -1,0 +1,531 @@
+{
+  "schema_version": "1.0",
+  "repository": "hawkinsnick/Cretan-hieroglyphs",
+  "master_repository": "hawkinsnick/Linear-A",
+  "master_registry_path": "corpus-factory/cross-corpus-dependencies.json",
+  "scope": "Known source-supported cross-repository dependencies only. Absence from this register is not proof of independence or physical uniqueness.",
+  "dependency_groups": [
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-252",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-252",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/251/id",
+              "expected": "CHIC-252"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#01",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/0/as_id",
+              "expected": "AS#01"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/0/chic",
+              "expected": "CHIC #252"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-202",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-202",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/201/id",
+              "expected": "CHIC-202"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#02",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/1/as_id",
+              "expected": "AS#02"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/1/chic",
+              "expected": "CHIC #202"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-315",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-315",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/314/id",
+              "expected": "CHIC-315"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#03",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/2/as_id",
+              "expected": "AS#03"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/2/chic",
+              "expected": "CHIC #315"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-313",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-313",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/312/id",
+              "expected": "CHIC-313"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#04",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/3/as_id",
+              "expected": "AS#04"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/3/chic",
+              "expected": "CHIC #313"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-203",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-203",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/202/id",
+              "expected": "CHIC-203"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#05",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/4/as_id",
+              "expected": "AS#05"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/4/chic",
+              "expected": "CHIC #203"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-251",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-251",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/250/id",
+              "expected": "CHIC-251"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#06",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/5/as_id",
+              "expected": "AS#06"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/5/chic",
+              "expected": "CHIC #251"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-201",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-201",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/200/id",
+              "expected": "CHIC-201"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#10",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/9/as_id",
+              "expected": "AS#10"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/9/chic",
+              "expected": "CHIC #201"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-179",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-179",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/178/id",
+              "expected": "CHIC-179"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#11",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/10/as_id",
+              "expected": "AS#11"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/10/chic",
+              "expected": "CHIC #179"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-134",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-134",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/133/id",
+              "expected": "CHIC-134"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#12",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/11/as_id",
+              "expected": "AS#12"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/11/chic",
+              "expected": "CHIC #134"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-136",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-136",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/135/id",
+              "expected": "CHIC-136"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#13",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/12/as_id",
+              "expected": "AS#13"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/12/chic",
+              "expected": "CHIC #136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-135",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-135",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/134/id",
+              "expected": "CHIC-135"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#14",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/13/as_id",
+              "expected": "AS#14"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/13/chic",
+              "expected": "CHIC #135"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-ARCHANES-137",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Decorte 2018 corpus register explicitly supplies CHIC reference; not independent physical certification.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-137",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/136/id",
+              "expected": "CHIC-137"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Archanes-Script",
+          "record_id": "AS#15",
+          "evidence": [
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/14/as_id",
+              "expected": "AS#15"
+            },
+            {
+              "path": "research/decorte-2018-corpus-register.json",
+              "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+              "pointer": "/records/14/chic",
+              "expected": "CHIC #137"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "physical_identity_certified": false,
+      "independent_witnesses_established": false,
+      "classification_transfer_allowed": false,
+      "group_id": "CHIC-MALIA-328",
+      "relation": "SOURCE_ASSERTED_CATALOGUE_CORRESPONDENCE",
+      "authority": "Aegean-anomalous Malia packet explicitly refers to CHIC #328 through INSCRIBE; counting/classification disputes remain separate.",
+      "participants": [
+        {
+          "repository": "hawkinsnick/Cretan-hieroglyphs",
+          "record_id": "CHIC-328",
+          "evidence": [
+            {
+              "path": "corpus/chic-catalogue-spine.json",
+              "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
+              "pointer": "/327/id",
+              "expected": "CHIC-328"
+            }
+          ]
+        },
+        {
+          "repository": "hawkinsnick/Aegean-anomalous",
+          "record_id": "MALIA-ALTAR-STONE",
+          "evidence": [
+            {
+              "path": "research/malia-evidence-packet.json",
+              "sha256": "9cca5d22812e165cd9fd40137799e9176c9e7f1b801ea6e6fa4eaf20b9a181d6",
+              "pointer": "/object_id",
+              "expected": "MALIA-ALTAR-STONE"
+            },
+            {
+              "path": "research/malia-evidence-packet.json",
+              "sha256": "9cca5d22812e165cd9fd40137799e9176c9e7f1b801ea6e6fa4eaf20b9a181d6",
+              "pointer": "/inscribe_direct_record/chic",
+              "expected": "#328"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "physical_identity_certified": false,
+  "independence_established": false
+}

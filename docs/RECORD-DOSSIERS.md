@@ -373,6 +373,18 @@ Native evidence: [corpus/chic-catalogue-spine.json#/35](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 2.
 
+### Source assertions with required qualifications
+
+- Assertion: CHIC-036-a-CHIC1996; literal source: X 023-061-019-057.
+  Source: CHIC1996 / p. 91, #036, face/line a, printed transnumeration.
+  Comparison: PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+
+- Assertion: CHIC-036-b-CHIC1996; literal source: 100.
+  Source: CHIC1996 / p. 91, #036, face/line b, printed transnumeration.
+  Comparison: PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+
 Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
@@ -412,6 +424,23 @@ Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPE
 Native evidence: [corpus/chic-catalogue-spine.json#/39](../corpus/chic-catalogue-spine.json#/39)
 
 Catalogue series: H. Encoded readings: 3.
+
+### Source assertions with required qualifications
+
+- Assertion: CHIC-040-a-CHIC1996; literal source: X 019-070-061 X 072-039.
+  Source: CHIC1996 / p. 93, #040, face/line a, printed transnumeration.
+  Comparison: PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+
+- Assertion: CHIC-040-b1-CHIC1996; literal source: X 044-049 2.
+  Source: CHIC1996 / p. 93, #040, face/line b1, printed transnumeration.
+  Comparison: PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+
+- Assertion: CHIC-040-b2-CHIC1996; literal source: X 068-031 4.
+  Source: CHIC1996 / p. 93, #040, face/line b2, printed transnumeration.
+  Comparison: PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
 
 Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
@@ -2175,6 +2204,20 @@ Catalogue series: S. Encoded readings: 2.
 | script_classification | Cretan Hieroglyphic | source_reported | INSCRIBE-CH / General information / Script |
 | edition_identifier | #202 ARKH S (2/2) 01 (CHIC, p. 226-227) | source_reported | INSCRIBE-CH / General information / Inscription |
 
+### Source assertions with required qualifications
+
+- Assertion: CHIC-202-a-INSCRIBE; literal source: 042-019.
+  Source: INSCRIBE-CH / https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side a.
+  Comparison: NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Unresolved source disagreement: {"comparison_id": "CHIC-202-material", "record_id": "CHIC-202", "field": "material", "assertions": [{"source_id": "CHIC1996", "value": "Ivoire", "locator": "printed p. 226, #202, material caption", "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"}, {"source_id": "INSCRIBE-CH", "value": "Animal bone", "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Material", "inspection": "DIRECT_DIGITAL_PAGE"}], "status": "UNRESOLVED_SOURCE_DISAGREEMENT", "identity_join": {"basis": ["CHIC heading", "CMS II.1,394", "matching inventory numeric stem"], "primary_inventory": "HM 2245", "digital_inventory": "Σ-K 2245", "physical_identity_independently_certified": false}, "numerical_reading_comparison": "CURRENT_V2: primary p. 227 confirms both existing digital numeric groups; source lineage remains dependent.", "interventions": []}
+
+- Assertion: CHIC-202-b-INSCRIBE; literal source: 019-095-052.
+  Source: INSCRIBE-CH / https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side b.
+  Comparison: NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Unresolved source disagreement: {"comparison_id": "CHIC-202-material", "record_id": "CHIC-202", "field": "material", "assertions": [{"source_id": "CHIC1996", "value": "Ivoire", "locator": "printed p. 226, #202, material caption", "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"}, {"source_id": "INSCRIBE-CH", "value": "Animal bone", "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Material", "inspection": "DIRECT_DIGITAL_PAGE"}], "status": "UNRESOLVED_SOURCE_DISAGREEMENT", "identity_join": {"basis": ["CHIC heading", "CMS II.1,394", "matching inventory numeric stem"], "primary_inventory": "HM 2245", "digital_inventory": "Σ-K 2245", "physical_identity_independently_certified": false}, "numerical_reading_comparison": "CURRENT_V2: primary p. 227 confirms both existing digital numeric groups; source lineage remains dependent.", "interventions": []}
+
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
@@ -2713,6 +2756,28 @@ Catalogue series: S. Encoded readings: 3.
 | chronology | MM IA | source_reported | INSCRIBE-CH / General information / Chronology |
 | script_classification | Cretan Hieroglyphic | source_reported | INSCRIBE-CH / General information / Script |
 | edition_identifier | #252 ARKH S (3/3) 02 (CHIC, p. 252-253) | source_reported | INSCRIBE-CH / General information / Inscription |
+
+### Source assertions with required qualifications
+
+- Assertion: CHIC-252-a-INSCRIBE; literal source: 019-095-052.
+  Source: INSCRIBE-CH / https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side a.
+  Comparison: NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Unresolved source disagreement: {"comparison_id": "CHIC-252-material", "record_id": "CHIC-252", "field": "material", "assertions": [{"source_id": "CHIC1996", "value": "Ivoire", "locator": "printed p. 252, #252, material caption", "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"}, {"source_id": "INSCRIBE-CH", "value": "Animal bone", "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Material", "inspection": "DIRECT_DIGITAL_PAGE"}], "status": "UNRESOLVED_SOURCE_DISAGREEMENT", "identity_join": {"basis": ["CHIC heading", "CMS II.1,393", "matching inventory numeric stem"], "primary_inventory": "HM 2266", "digital_inventory": "Σ-K 2266", "physical_identity_independently_certified": false}, "numerical_reading_comparison": "CURRENT_V2: primary p. 253 confirms faces α/β; digital face c omits three unidentified marks and sign-membership uncertainty. See research/reference-reconciliation-v2.json.", "interventions": []}
+
+- Assertion: CHIC-252-b-INSCRIBE; literal source: 042-019.
+  Source: INSCRIBE-CH / https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side b.
+  Comparison: NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Unresolved source disagreement: {"comparison_id": "CHIC-252-material", "record_id": "CHIC-252", "field": "material", "assertions": [{"source_id": "CHIC1996", "value": "Ivoire", "locator": "printed p. 252, #252, material caption", "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"}, {"source_id": "INSCRIBE-CH", "value": "Animal bone", "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Material", "inspection": "DIRECT_DIGITAL_PAGE"}], "status": "UNRESOLVED_SOURCE_DISAGREEMENT", "identity_join": {"basis": ["CHIC heading", "CMS II.1,393", "matching inventory numeric stem"], "primary_inventory": "HM 2266", "digital_inventory": "Σ-K 2266", "physical_identity_independently_certified": false}, "numerical_reading_comparison": "CURRENT_V2: primary p. 253 confirms faces α/β; digital face c omits three unidentified marks and sign-membership uncertainty. See research/reference-reconciliation-v2.json.", "interventions": []}
+
+- Assertion: CHIC-252-c-INSCRIBE; literal source: 062.
+  Source: INSCRIBE-CH / https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side c.
+  Comparison: REFERENCE_OMITS_PRIMARY_UNIDENTIFIED_MARKS_AND_QUALIFIER.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Apparatus: {"type": "unidentified_marks", "count": 3, "source_symbol": "•", "encoding_boundary": "Black round marks transcribed as • in this apparatus ledger; not sign identities or new occurrence assertions."}
+  Apparatus: {"type": "membership_uncertainty", "scope": "face γ", "value": "Primary edition questions whether the marks are signs and describes them as very uncertain.", "source_id": "CHIC1996", "locator": "p. 253, #252, face γ note"}
+  Unresolved source disagreement: {"comparison_id": "CHIC-252-material", "record_id": "CHIC-252", "field": "material", "assertions": [{"source_id": "CHIC1996", "value": "Ivoire", "locator": "printed p. 252, #252, material caption", "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"}, {"source_id": "INSCRIBE-CH", "value": "Animal bone", "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Material", "inspection": "DIRECT_DIGITAL_PAGE"}], "status": "UNRESOLVED_SOURCE_DISAGREEMENT", "identity_join": {"basis": ["CHIC heading", "CMS II.1,393", "matching inventory numeric stem"], "primary_inventory": "HM 2266", "digital_inventory": "Σ-K 2266", "physical_identity_independently_certified": false}, "numerical_reading_comparison": "CURRENT_V2: primary p. 253 confirms faces α/β; digital face c omits three unidentified marks and sign-membership uncertainty. See research/reference-reconciliation-v2.json.", "interventions": []}
 
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
@@ -3415,6 +3480,18 @@ Catalogue series: S. Encoded readings: 2.
 | script_classification | Cretan Hieroglyphic | source_reported | INSCRIBE-CH / General information / Script |
 | edition_identifier | #313 MONI OD. S (2/6) 01 (CHIC, p. 288-289) | source_reported | INSCRIBE-CH / General information / Inscription |
 
+### Source assertions with required qualifications
+
+- Assertion: CHIC-313-a-INSCRIBE; literal source: 042-019.
+  Source: INSCRIBE-CH / https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side a.
+  Comparison: NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+
+- Assertion: CHIC-313-b-INSCRIBE; literal source: 019-095-052.
+  Source: INSCRIBE-CH / https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side b.
+  Comparison: NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
@@ -3616,6 +3693,16 @@ Catalogue series: Y. Encoded readings: 1.
 | chronology | MM II or III? | source_reported | INSCRIBE-CH / General information / Chronology |
 | script_classification | Cretan Hieroglyphic | source_reported | INSCRIBE-CH / General information / Script |
 | edition_identifier | #328 MA/V Ya 01 (CHIC, p. 314-315) | source_reported | INSCRIBE-CH / General information / Inscription |
+
+### Source assertions with required qualifications
+
+- Assertion: CHIC-328-unlabelled-INSCRIBE; literal source: 062 -034-002-056-070-025-019-051-070-094-034-056-077-049-038-029.
+  Source: INSCRIBE-CH / https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php ; Transnumeration ; no face label supplied.
+  Comparison: NUMERIC_GROUP_MATCH_PRIMARY; DAMAGE_AND_ALTERNATIVE_OMITTED_BY_REFERENCE.
+  Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
+  Apparatus: {"type": "damage", "scope": "first sign", "value": "Edition reports loss of a chip bearing the left extremity after discovery.", "source_id": "CHIC1996", "locator": "p. 315, #328, note below numeric group"}
+  Apparatus: {"type": "conditional_alternative", "source_label": "065", "current_printed_label": "062", "status": "THEORETICALLY_POSSIBLE_IN_PRIMARY_NOTE_NOT_ADOPTED", "source_id": "CHIC1996", "locator": "p. 315, #328, note; earlier drawings cited in edition were not independently inspected"}
+  Apparatus: {"type": "typography", "scope": "initial 062", "value": "Printed in italics; meaning not independently adjudicated."}
 
 Missing evidence: INDEPENDENT_REVIEW_PENDING.
 
