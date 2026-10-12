@@ -346,7 +346,7 @@
   "input_digests": [
     {
       "path": "bibliography/sources.json",
-      "sha256": "48983a78a0eeabce6001d0182dfa42842615c499a2c2023d2db86fc37d113fec"
+      "sha256": "49ae50b30c0bf5e91281842e73dc9c0ce1ba1ce77915a6854f1de4b3d9e3e4a4"
     },
     {
       "path": "corpus/chic-catalogue-spine.json",

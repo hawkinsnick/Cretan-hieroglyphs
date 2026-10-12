@@ -94,6 +94,31 @@
       "role": "ai_integrity_guide",
       "path": "docs/AI-INTEGRITY.md",
       "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "research/dbas-chs-catalogue-leads.json",
+      "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "research/inscribe-unmapped-discovery.json",
+      "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "analysis/source-growth-2026-10-12.json",
+      "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "docs/SOURCE-GROWTH-2026-10-12.md",
+      "required": true
+    },
+    {
+      "role": "source_growth",
+      "path": "scripts/source_growth.py",
+      "required": true
     }
   ],
   "behavioral_gates": [

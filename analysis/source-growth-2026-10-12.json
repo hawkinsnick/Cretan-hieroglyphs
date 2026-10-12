@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-12",
+  "status": "PASS_BOUNDED_SOURCE_GROWTH",
+  "scope": {
+    "catalogue_lead_rows": 193,
+    "new_unmapped_pages": 3,
+    "chic_identities_with_either_named_route": 204,
+    "reading_admissions": 0,
+    "independent_review_complete": false
+  },
+  "inputs": [
+    {
+      "path": "research/dbas-chs-catalogue-leads.json",
+      "sha256": "e2edcbd6f25188dabbecf1fa57799b60faa55f2f94d68f47f98770f2ab6d4e7b"
+    },
+    {
+      "path": "research/inscribe-unmapped-discovery.json",
+      "sha256": "378f8576cab6511efb9bcf50c10d51996baba78963afd82f2af11b54372a087e"
+    }
+  ]
+}

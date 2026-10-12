@@ -10,6 +10,27 @@
       "path": "corpus/chic-catalogue-spine.json",
       "pointer": "",
       "unit": "catalogue_identity"
+    },
+    {
+      "name": "dbas-chs-catalogue-leads",
+      "path": "research/dbas-chs-catalogue-leads.json",
+      "pointer": "/records",
+      "id_key": "id",
+      "unit": "dependent_catalogue_lead"
+    },
+    {
+      "name": "inscribe-unmapped-object-pages",
+      "path": "research/inscribe-unmapped-discovery.json",
+      "pointer": "/records",
+      "id_key": "id",
+      "unit": "unmapped_source_object_page"
+    },
+    {
+      "name": "inscribe-context-records",
+      "path": "corpus/context-assertions.json",
+      "pointer": "/records",
+      "id_key": "object_id",
+      "unit": "source_qualified_object_context"
     }
   ],
   "repository": "hawkinsnick/Cretan-hieroglyphs",
@@ -19,17 +40,22 @@
   "source_files": [
     "analysis/coverage.json",
     "analysis/current-status.json",
+    "analysis/source-growth-2026-10-12.json",
+    "docs/AI-INTEGRITY.md",
+    "docs/SOURCE-GROWTH-2026-10-12.md",
     "research/acquisition-queue.json",
+    "research/coverage-denominators.json",
+    "research/cross-corpus-dependencies.json",
+    "research/dbas-chs-catalogue-leads.json",
+    "research/identity-reconciliation-v2.json",
+    "research/inscribe-unmapped-discovery.json",
     "research/pre-expert-maximum.json",
     "research/pre-expert-source-exhaustion.json",
-    "research/source-inspection-2026-10-02.json",
-    "research/source-check-2026-10-11.json",
-    "research/source-reconciliation.json",
-    "research/coverage-denominators.json",
     "research/reference-reconciliation-v2.json",
-    "research/identity-reconciliation-v2.json",
-    "research/cross-corpus-dependencies.json",
-    "docs/AI-INTEGRITY.md"
+    "research/source-check-2026-10-11.json",
+    "research/source-inspection-2026-10-02.json",
+    "research/source-reconciliation.json",
+    "scripts/source_growth.py"
   ],
   "legacy_repository_label": "hawkinsnick/Cretan-hieroglpyhs"
 }
