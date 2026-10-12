@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "3c7be167741a108e00d70915ca39b54da4083126",
-  "generated_at_utc": "2026-10-11T22:28:58+00:00",
+  "source_commit": "64339f0d1a4dcc46a36cf26faa975ae37df963f5",
+  "generated_at_utc": "2026-10-11T23:28:08+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -13,6 +13,30 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "cross_corpus_dependencies",
+      "path": "research/cross-corpus-dependencies.json",
+      "sha256": "f20d6beea84093f14dfd0ba64ccfbaba1a61eb48f24d6abfb54ddf75fd6453b1",
+      "bytes": 19966
+    },
+    {
+      "role": "sync_publication_guard",
+      "path": "ai-skill/scripts/publish_sync.py",
+      "sha256": "d8eba15aaa833fc4071e98bdd22da53385bce1c5cbafc973443cb42f7e39cc0e",
+      "bytes": 2836
+    },
+    {
+      "role": "ai_integrity_guide",
+      "path": "docs/AI-INTEGRITY.md",
+      "sha256": "f735ed84a422bd81245aba10e894585a9110079932a445f35be515834e739b6b",
+      "bytes": 2391
+    },
+    {
+      "role": "qualified_assertions",
+      "path": "research/qualified-assertion-views.json",
+      "sha256": "6defe086bd86e195b0b248163861d68ec5fd4c68c1e5338275c4a6509210dbfd",
+      "bytes": 43574
+    },
     {
       "role": "reference_reconciliation",
       "path": "research/reference-reconciliation-v2.json",
@@ -46,20 +70,20 @@
     {
       "role": "readable_dossiers",
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "ac5fd6a103d2e94020f6fc5ab5972aa9b4544fa2ee8c50e73fe54a5aa3753c0e",
-      "bytes": 133509
+      "sha256": "1d305d4885da135c5fb00f6683e7c82291c5fcb66be4093e44386c9bd5f19122",
+      "bytes": 144597
     },
     {
       "role": "record_dossiers",
       "path": "research/record-dossiers.json",
-      "sha256": "ae2113a67873b36a25433b06bbd784c461c5dd42fec040b1ac2a04a01351fc29",
-      "bytes": 509465
+      "sha256": "bda9267af29ec403766138c3f47d8f6d4e1dc153281ecb1718f972bf9b7c5e20",
+      "bytes": 604395
     },
     {
       "role": "context_coverage",
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "dd96354e9198f3bd1ba35cf12b08da0743022f8bc00c70d37b616c744aa1093e",
-      "bytes": 6726
+      "sha256": "27cce47575d1986d632591467b0f56b2aaf32ca2de55ab6e341c93fc48107582",
+      "bytes": 7324
     },
     {
       "role": "context_assertions",
@@ -82,8 +106,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "8b1a6fe4c89d88de8481fc8efa0f3ff3a293b3065b2b35d1df8f27e62cb94882",
-      "bytes": 7058
+      "sha256": "1ef677e51297744cd6b3fed239f295c3de98990a3ae09c81872940ebccbf58a2",
+      "bytes": 7929
     },
     {
       "role": "source_inspection",

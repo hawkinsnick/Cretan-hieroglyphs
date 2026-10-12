@@ -37,3 +37,7 @@ Eight INSCRIBE reading versions were checked and encoded on CHIC-202, 252, 313 a
 ## Existing-evidence reconciliation — 2026-10-11
 
 Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-EVIDENCE-RECONCILIATION.md) now accounts for every existing assertion and identity, preserving source apparatus and unresolved scholarly decisions.
+
+## Unreleased — AI integrity checkpoint
+
+Require checked native dependency projections, preserve corpus-native bundle schemas, and publish synchronized bundles only on their validated source parent. Add Git race and hostile dependency tests; no new readings or expert acceptance.

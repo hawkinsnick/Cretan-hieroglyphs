@@ -1,0 +1,1017 @@
+{
+  "schema_version": "1.0",
+  "scope": "Existing assertions joined to full encoded reconciliation and identity context; no new readings or occurrences.",
+  "preferred_researcher_view": true,
+  "source_literal_files_unchanged": true,
+  "assertion_count": 13,
+  "assertions": [
+    {
+      "assertion_id": "CHIC-036-a-CHIC1996",
+      "record_id": "CHIC-036",
+      "source_assertion": {
+        "reading_id": "CHIC-036-a-CHIC1996",
+        "object_id": "CHIC-036",
+        "surface_id": "a",
+        "kind": "diplomatic",
+        "source_id": "CHIC1996",
+        "locator": "p. 91, #036, face/line a, printed transnumeration",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "X",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          },
+          {
+            "position": 2,
+            "form": "023-061-019-057",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-036-a-CHIC1996",
+        "record_id": "CHIC-036",
+        "source_id": "CHIC1996",
+        "native_locator": "p. 91, #036, face/line a, printed transnumeration",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "primary_edition",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+        "primary_locator": "p. 91, #036, face/line a, printed transnumeration",
+        "evidence": "analysis/chic-primary-pilot-v1.json"
+      },
+      "source_disagreements": [],
+      "identity_context": {
+        "record_id": "CHIC-036",
+        "unit": "catalogue_identity",
+        "series": "H",
+        "identifier_assertions": [],
+        "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-036-b-CHIC1996",
+      "record_id": "CHIC-036",
+      "source_assertion": {
+        "reading_id": "CHIC-036-b-CHIC1996",
+        "object_id": "CHIC-036",
+        "surface_id": "b",
+        "kind": "diplomatic",
+        "source_id": "CHIC1996",
+        "locator": "p. 91, #036, face/line b, printed transnumeration",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "100",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-036-b-CHIC1996",
+        "record_id": "CHIC-036",
+        "source_id": "CHIC1996",
+        "native_locator": "p. 91, #036, face/line b, printed transnumeration",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "primary_edition",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+        "primary_locator": "p. 91, #036, face/line b, printed transnumeration",
+        "evidence": "analysis/chic-primary-pilot-v1.json"
+      },
+      "source_disagreements": [],
+      "identity_context": {
+        "record_id": "CHIC-036",
+        "unit": "catalogue_identity",
+        "series": "H",
+        "identifier_assertions": [],
+        "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-040-a-CHIC1996",
+      "record_id": "CHIC-040",
+      "source_assertion": {
+        "reading_id": "CHIC-040-a-CHIC1996",
+        "object_id": "CHIC-040",
+        "surface_id": "a",
+        "kind": "diplomatic",
+        "source_id": "CHIC1996",
+        "locator": "p. 93, #040, face/line a, printed transnumeration",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "X",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          },
+          {
+            "position": 2,
+            "form": "019-070-061",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          },
+          {
+            "position": 3,
+            "form": "X",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          },
+          {
+            "position": 4,
+            "form": "072-039",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-040-a-CHIC1996",
+        "record_id": "CHIC-040",
+        "source_id": "CHIC1996",
+        "native_locator": "p. 93, #040, face/line a, printed transnumeration",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "primary_edition",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+        "primary_locator": "p. 93, #040, face/line a, printed transnumeration",
+        "evidence": "analysis/chic-primary-pilot-v1.json"
+      },
+      "source_disagreements": [],
+      "identity_context": {
+        "record_id": "CHIC-040",
+        "unit": "catalogue_identity",
+        "series": "H",
+        "identifier_assertions": [],
+        "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-040-b1-CHIC1996",
+      "record_id": "CHIC-040",
+      "source_assertion": {
+        "reading_id": "CHIC-040-b1-CHIC1996",
+        "object_id": "CHIC-040",
+        "surface_id": "b1",
+        "kind": "diplomatic",
+        "source_id": "CHIC1996",
+        "locator": "p. 93, #040, face/line b1, printed transnumeration",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "X",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          },
+          {
+            "position": 2,
+            "form": "044-049",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          },
+          {
+            "position": 3,
+            "form": "2",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-040-b1-CHIC1996",
+        "record_id": "CHIC-040",
+        "source_id": "CHIC1996",
+        "native_locator": "p. 93, #040, face/line b1, printed transnumeration",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "primary_edition",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+        "primary_locator": "p. 93, #040, face/line b1, printed transnumeration",
+        "evidence": "analysis/chic-primary-pilot-v1.json"
+      },
+      "source_disagreements": [],
+      "identity_context": {
+        "record_id": "CHIC-040",
+        "unit": "catalogue_identity",
+        "series": "H",
+        "identifier_assertions": [],
+        "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-040-b2-CHIC1996",
+      "record_id": "CHIC-040",
+      "source_assertion": {
+        "reading_id": "CHIC-040-b2-CHIC1996",
+        "object_id": "CHIC-040",
+        "surface_id": "b2",
+        "kind": "diplomatic",
+        "source_id": "CHIC1996",
+        "locator": "p. 93, #040, face/line b2, printed transnumeration",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "X",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          },
+          {
+            "position": 2,
+            "form": "068-031",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          },
+          {
+            "position": 3,
+            "form": "4",
+            "certainty": "secure",
+            "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-040-b2-CHIC1996",
+        "record_id": "CHIC-040",
+        "source_id": "CHIC1996",
+        "native_locator": "p. 93, #040, face/line b2, printed transnumeration",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "primary_edition",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "status": "PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT",
+        "primary_locator": "p. 93, #040, face/line b2, printed transnumeration",
+        "evidence": "analysis/chic-primary-pilot-v1.json"
+      },
+      "source_disagreements": [],
+      "identity_context": {
+        "record_id": "CHIC-040",
+        "unit": "catalogue_identity",
+        "series": "H",
+        "identifier_assertions": [],
+        "identity_status": "NO_INVENTORY_ASSERTION_ENCODED",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-202-a-INSCRIBE",
+      "record_id": "CHIC-202",
+      "source_assertion": {
+        "reading_id": "CHIC-202-a-INSCRIBE",
+        "object_id": "CHIC-202",
+        "surface_id": "a",
+        "kind": "secondary",
+        "source_id": "INSCRIBE-CH",
+        "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side a",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "042-019",
+            "certainty": "secure",
+            "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-202-a-INSCRIBE",
+        "record_id": "CHIC-202",
+        "source_id": "INSCRIBE-CH",
+        "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side a",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "dependent_digital_reference",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "primary_source_id": "CHIC1996",
+        "primary_locator": "printed p. 227, #202, face α",
+        "primary_receipt_page": 227,
+        "digital_literal": "042-019",
+        "primary_numeric_group": "042-019",
+        "face_label_mapping": {
+          "digital": "a",
+          "primary": "α",
+          "basis": "Explicit printed face sequence, no physical reading direction inferred"
+        },
+        "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+      },
+      "source_disagreements": [
+        {
+          "comparison_id": "CHIC-202-material",
+          "record_id": "CHIC-202",
+          "field": "material",
+          "assertions": [
+            {
+              "source_id": "CHIC1996",
+              "value": "Ivoire",
+              "locator": "printed p. 226, #202, material caption",
+              "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"
+            },
+            {
+              "source_id": "INSCRIBE-CH",
+              "value": "Animal bone",
+              "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Material",
+              "inspection": "DIRECT_DIGITAL_PAGE"
+            }
+          ],
+          "status": "UNRESOLVED_SOURCE_DISAGREEMENT",
+          "identity_join": {
+            "basis": [
+              "CHIC heading",
+              "CMS II.1,394",
+              "matching inventory numeric stem"
+            ],
+            "primary_inventory": "HM 2245",
+            "digital_inventory": "Σ-K 2245",
+            "physical_identity_independently_certified": false
+          },
+          "numerical_reading_comparison": "CURRENT_V2: primary p. 227 confirms both existing digital numeric groups; source lineage remains dependent.",
+          "interventions": []
+        }
+      ],
+      "identity_context": {
+        "record_id": "CHIC-202",
+        "unit": "catalogue_identity",
+        "series": "S",
+        "identifier_assertions": [
+          {
+            "namespace": "INSCRIBE museum inventory",
+            "repository": "Heraklion Archaeological Museum",
+            "literal": "Σ-K 2245",
+            "source_id": "INSCRIBE-CH",
+            "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Inventory number",
+            "physical_equivalence_adjudicated": false
+          }
+        ],
+        "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-202-b-INSCRIBE",
+      "record_id": "CHIC-202",
+      "source_assertion": {
+        "reading_id": "CHIC-202-b-INSCRIBE",
+        "object_id": "CHIC-202",
+        "surface_id": "b",
+        "kind": "secondary",
+        "source_id": "INSCRIBE-CH",
+        "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side b",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "019-095-052",
+            "certainty": "secure",
+            "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-202-b-INSCRIBE",
+        "record_id": "CHIC-202",
+        "source_id": "INSCRIBE-CH",
+        "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Transnumeration ; Side b",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "dependent_digital_reference",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "primary_source_id": "CHIC1996",
+        "primary_locator": "printed p. 227, #202, face β",
+        "primary_receipt_page": 227,
+        "digital_literal": "019-095-052",
+        "primary_numeric_group": "019-095-052",
+        "face_label_mapping": {
+          "digital": "b",
+          "primary": "β",
+          "basis": "Explicit printed face sequence, no physical reading direction inferred"
+        },
+        "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+      },
+      "source_disagreements": [
+        {
+          "comparison_id": "CHIC-202-material",
+          "record_id": "CHIC-202",
+          "field": "material",
+          "assertions": [
+            {
+              "source_id": "CHIC1996",
+              "value": "Ivoire",
+              "locator": "printed p. 226, #202, material caption",
+              "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"
+            },
+            {
+              "source_id": "INSCRIBE-CH",
+              "value": "Animal bone",
+              "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Material",
+              "inspection": "DIRECT_DIGITAL_PAGE"
+            }
+          ],
+          "status": "UNRESOLVED_SOURCE_DISAGREEMENT",
+          "identity_join": {
+            "basis": [
+              "CHIC heading",
+              "CMS II.1,394",
+              "matching inventory numeric stem"
+            ],
+            "primary_inventory": "HM 2245",
+            "digital_inventory": "Σ-K 2245",
+            "physical_identity_independently_certified": false
+          },
+          "numerical_reading_comparison": "CURRENT_V2: primary p. 227 confirms both existing digital numeric groups; source lineage remains dependent.",
+          "interventions": []
+        }
+      ],
+      "identity_context": {
+        "record_id": "CHIC-202",
+        "unit": "catalogue_identity",
+        "series": "S",
+        "identifier_assertions": [
+          {
+            "namespace": "INSCRIBE museum inventory",
+            "repository": "Heraklion Archaeological Museum",
+            "literal": "Σ-K 2245",
+            "source_id": "INSCRIBE-CH",
+            "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Inventory number",
+            "physical_equivalence_adjudicated": false
+          }
+        ],
+        "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-252-a-INSCRIBE",
+      "record_id": "CHIC-252",
+      "source_assertion": {
+        "reading_id": "CHIC-252-a-INSCRIBE",
+        "object_id": "CHIC-252",
+        "surface_id": "a",
+        "kind": "secondary",
+        "source_id": "INSCRIBE-CH",
+        "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side a",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "019-095-052",
+            "certainty": "secure",
+            "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-252-a-INSCRIBE",
+        "record_id": "CHIC-252",
+        "source_id": "INSCRIBE-CH",
+        "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side a",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "dependent_digital_reference",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "primary_source_id": "CHIC1996",
+        "primary_locator": "printed p. 253, #252, face α",
+        "primary_receipt_page": 253,
+        "digital_literal": "019-095-052",
+        "primary_numeric_group": "019-095-052",
+        "face_label_mapping": {
+          "digital": "a",
+          "primary": "α",
+          "basis": "Explicit printed face sequence, no physical reading direction inferred"
+        },
+        "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+      },
+      "source_disagreements": [
+        {
+          "comparison_id": "CHIC-252-material",
+          "record_id": "CHIC-252",
+          "field": "material",
+          "assertions": [
+            {
+              "source_id": "CHIC1996",
+              "value": "Ivoire",
+              "locator": "printed p. 252, #252, material caption",
+              "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"
+            },
+            {
+              "source_id": "INSCRIBE-CH",
+              "value": "Animal bone",
+              "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Material",
+              "inspection": "DIRECT_DIGITAL_PAGE"
+            }
+          ],
+          "status": "UNRESOLVED_SOURCE_DISAGREEMENT",
+          "identity_join": {
+            "basis": [
+              "CHIC heading",
+              "CMS II.1,393",
+              "matching inventory numeric stem"
+            ],
+            "primary_inventory": "HM 2266",
+            "digital_inventory": "Σ-K 2266",
+            "physical_identity_independently_certified": false
+          },
+          "numerical_reading_comparison": "CURRENT_V2: primary p. 253 confirms faces α/β; digital face c omits three unidentified marks and sign-membership uncertainty. See research/reference-reconciliation-v2.json.",
+          "interventions": []
+        }
+      ],
+      "identity_context": {
+        "record_id": "CHIC-252",
+        "unit": "catalogue_identity",
+        "series": "S",
+        "identifier_assertions": [
+          {
+            "namespace": "INSCRIBE museum inventory",
+            "repository": "Heraklion Archaeological Museum",
+            "literal": "Σ-K 2266",
+            "source_id": "INSCRIBE-CH",
+            "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Inventory number",
+            "physical_equivalence_adjudicated": false
+          }
+        ],
+        "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-252-b-INSCRIBE",
+      "record_id": "CHIC-252",
+      "source_assertion": {
+        "reading_id": "CHIC-252-b-INSCRIBE",
+        "object_id": "CHIC-252",
+        "surface_id": "b",
+        "kind": "secondary",
+        "source_id": "INSCRIBE-CH",
+        "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side b",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "042-019",
+            "certainty": "secure",
+            "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-252-b-INSCRIBE",
+        "record_id": "CHIC-252",
+        "source_id": "INSCRIBE-CH",
+        "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side b",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "dependent_digital_reference",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "primary_source_id": "CHIC1996",
+        "primary_locator": "printed p. 253, #252, face β",
+        "primary_receipt_page": 253,
+        "digital_literal": "042-019",
+        "primary_numeric_group": "042-019",
+        "face_label_mapping": {
+          "digital": "b",
+          "primary": "β",
+          "basis": "Explicit printed face sequence, no physical reading direction inferred"
+        },
+        "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+      },
+      "source_disagreements": [
+        {
+          "comparison_id": "CHIC-252-material",
+          "record_id": "CHIC-252",
+          "field": "material",
+          "assertions": [
+            {
+              "source_id": "CHIC1996",
+              "value": "Ivoire",
+              "locator": "printed p. 252, #252, material caption",
+              "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"
+            },
+            {
+              "source_id": "INSCRIBE-CH",
+              "value": "Animal bone",
+              "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Material",
+              "inspection": "DIRECT_DIGITAL_PAGE"
+            }
+          ],
+          "status": "UNRESOLVED_SOURCE_DISAGREEMENT",
+          "identity_join": {
+            "basis": [
+              "CHIC heading",
+              "CMS II.1,393",
+              "matching inventory numeric stem"
+            ],
+            "primary_inventory": "HM 2266",
+            "digital_inventory": "Σ-K 2266",
+            "physical_identity_independently_certified": false
+          },
+          "numerical_reading_comparison": "CURRENT_V2: primary p. 253 confirms faces α/β; digital face c omits three unidentified marks and sign-membership uncertainty. See research/reference-reconciliation-v2.json.",
+          "interventions": []
+        }
+      ],
+      "identity_context": {
+        "record_id": "CHIC-252",
+        "unit": "catalogue_identity",
+        "series": "S",
+        "identifier_assertions": [
+          {
+            "namespace": "INSCRIBE museum inventory",
+            "repository": "Heraklion Archaeological Museum",
+            "literal": "Σ-K 2266",
+            "source_id": "INSCRIBE-CH",
+            "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Inventory number",
+            "physical_equivalence_adjudicated": false
+          }
+        ],
+        "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-252-c-INSCRIBE",
+      "record_id": "CHIC-252",
+      "source_assertion": {
+        "reading_id": "CHIC-252-c-INSCRIBE",
+        "object_id": "CHIC-252",
+        "surface_id": "c",
+        "kind": "secondary",
+        "source_id": "INSCRIBE-CH",
+        "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side c",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "062",
+            "certainty": "secure",
+            "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-252-c-INSCRIBE",
+        "record_id": "CHIC-252",
+        "source_id": "INSCRIBE-CH",
+        "native_locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Transnumeration ; Side c",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "dependent_digital_reference",
+        "canonical_reading_replaced": false,
+        "apparatus": [
+          {
+            "type": "unidentified_marks",
+            "count": 3,
+            "source_symbol": "•",
+            "encoding_boundary": "Black round marks transcribed as • in this apparatus ledger; not sign identities or new occurrence assertions."
+          },
+          {
+            "type": "membership_uncertainty",
+            "scope": "face γ",
+            "value": "Primary edition questions whether the marks are signs and describes them as very uncertain.",
+            "source_id": "CHIC1996",
+            "locator": "p. 253, #252, face γ note"
+          }
+        ],
+        "primary_source_id": "CHIC1996",
+        "primary_locator": "printed p. 253, #252, face γ",
+        "primary_receipt_page": 253,
+        "digital_literal": "062",
+        "primary_numeric_group": "062-•-•-•",
+        "face_label_mapping": {
+          "digital": "c",
+          "primary": "γ",
+          "basis": "Explicit printed face sequence, no physical reading direction inferred"
+        },
+        "status": "REFERENCE_OMITS_PRIMARY_UNIDENTIFIED_MARKS_AND_QUALIFIER"
+      },
+      "source_disagreements": [
+        {
+          "comparison_id": "CHIC-252-material",
+          "record_id": "CHIC-252",
+          "field": "material",
+          "assertions": [
+            {
+              "source_id": "CHIC1996",
+              "value": "Ivoire",
+              "locator": "printed p. 252, #252, material caption",
+              "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"
+            },
+            {
+              "source_id": "INSCRIBE-CH",
+              "value": "Animal bone",
+              "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Material",
+              "inspection": "DIRECT_DIGITAL_PAGE"
+            }
+          ],
+          "status": "UNRESOLVED_SOURCE_DISAGREEMENT",
+          "identity_join": {
+            "basis": [
+              "CHIC heading",
+              "CMS II.1,393",
+              "matching inventory numeric stem"
+            ],
+            "primary_inventory": "HM 2266",
+            "digital_inventory": "Σ-K 2266",
+            "physical_identity_independently_certified": false
+          },
+          "numerical_reading_comparison": "CURRENT_V2: primary p. 253 confirms faces α/β; digital face c omits three unidentified marks and sign-membership uncertainty. See research/reference-reconciliation-v2.json.",
+          "interventions": []
+        }
+      ],
+      "identity_context": {
+        "record_id": "CHIC-252",
+        "unit": "catalogue_identity",
+        "series": "S",
+        "identifier_assertions": [
+          {
+            "namespace": "INSCRIBE museum inventory",
+            "repository": "Heraklion Archaeological Museum",
+            "literal": "Σ-K 2266",
+            "source_id": "INSCRIBE-CH",
+            "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Inventory number",
+            "physical_equivalence_adjudicated": false
+          }
+        ],
+        "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-313-a-INSCRIBE",
+      "record_id": "CHIC-313",
+      "source_assertion": {
+        "reading_id": "CHIC-313-a-INSCRIBE",
+        "object_id": "CHIC-313",
+        "surface_id": "a",
+        "kind": "secondary",
+        "source_id": "INSCRIBE-CH",
+        "locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side a",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "042-019",
+            "certainty": "secure",
+            "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-313-a-INSCRIBE",
+        "record_id": "CHIC-313",
+        "source_id": "INSCRIBE-CH",
+        "native_locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side a",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "dependent_digital_reference",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "primary_source_id": "CHIC1996",
+        "primary_locator": "printed p. 289, #313, face α",
+        "primary_receipt_page": 289,
+        "digital_literal": "042-019",
+        "primary_numeric_group": "042-019",
+        "face_label_mapping": {
+          "digital": "a",
+          "primary": "α",
+          "basis": "Explicit printed face sequence, no physical reading direction inferred"
+        },
+        "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+      },
+      "source_disagreements": [],
+      "identity_context": {
+        "record_id": "CHIC-313",
+        "unit": "catalogue_identity",
+        "series": "S",
+        "identifier_assertions": [
+          {
+            "namespace": "INSCRIBE museum inventory",
+            "repository": "Heraklion Archaeological Museum",
+            "literal": "Σ-Κ 2850",
+            "source_id": "INSCRIBE-CH",
+            "locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Inventory number",
+            "physical_equivalence_adjudicated": false
+          }
+        ],
+        "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-313-b-INSCRIBE",
+      "record_id": "CHIC-313",
+      "source_assertion": {
+        "reading_id": "CHIC-313-b-INSCRIBE",
+        "object_id": "CHIC-313",
+        "surface_id": "b",
+        "kind": "secondary",
+        "source_id": "INSCRIBE-CH",
+        "locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side b",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "019-095-052",
+            "certainty": "secure",
+            "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-313-b-INSCRIBE",
+        "record_id": "CHIC-313",
+        "source_id": "INSCRIBE-CH",
+        "native_locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Transnumeration ; Side b",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "dependent_digital_reference",
+        "canonical_reading_replaced": false,
+        "apparatus": [],
+        "primary_source_id": "CHIC1996",
+        "primary_locator": "printed p. 289, #313, face β",
+        "primary_receipt_page": 289,
+        "digital_literal": "019-095-052",
+        "primary_numeric_group": "019-095-052",
+        "face_label_mapping": {
+          "digital": "b",
+          "primary": "β",
+          "basis": "Explicit printed face sequence, no physical reading direction inferred"
+        },
+        "status": "NUMERIC_GROUP_MATCH_PRIMARY; NO_INDEPENDENT_ACCEPTANCE"
+      },
+      "source_disagreements": [],
+      "identity_context": {
+        "record_id": "CHIC-313",
+        "unit": "catalogue_identity",
+        "series": "S",
+        "identifier_assertions": [
+          {
+            "namespace": "INSCRIBE museum inventory",
+            "repository": "Heraklion Archaeological Museum",
+            "literal": "Σ-Κ 2850",
+            "source_id": "INSCRIBE-CH",
+            "locator": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php ; Inventory number",
+            "physical_equivalence_adjudicated": false
+          }
+        ],
+        "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    },
+    {
+      "assertion_id": "CHIC-328-unlabelled-INSCRIBE",
+      "record_id": "CHIC-328",
+      "source_assertion": {
+        "reading_id": "CHIC-328-unlabelled-INSCRIBE",
+        "object_id": "CHIC-328",
+        "surface_id": null,
+        "kind": "secondary",
+        "source_id": "INSCRIBE-CH",
+        "locator": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php ; Transnumeration ; no face label supplied",
+        "tokens": [
+          {
+            "position": 1,
+            "form": "062 -034-002-056-070-025-019-051-070-094-034-056-077-049-038-029",
+            "certainty": "secure",
+            "editorial": "Literal digital-source numeric assertion, not primary-edition collation or project sign identification. Group punctuation retained; position is encoding order only. No source image/model redistributed."
+          }
+        ],
+        "status": "source-checked",
+        "supersedes": []
+      },
+      "reconciliation_context": {
+        "reading_id": "CHIC-328-unlabelled-INSCRIBE",
+        "record_id": "CHIC-328",
+        "source_id": "INSCRIBE-CH",
+        "native_locator": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php ; Transnumeration ; no face label supplied",
+        "independent_review_complete": false,
+        "source_lineage": "CHIC1996 directly, or INSCRIBE dependent on CHIC; not independent witnesses",
+        "source_role": "dependent_digital_reference",
+        "canonical_reading_replaced": false,
+        "apparatus": [
+          {
+            "type": "damage",
+            "scope": "first sign",
+            "value": "Edition reports loss of a chip bearing the left extremity after discovery.",
+            "source_id": "CHIC1996",
+            "locator": "p. 315, #328, note below numeric group"
+          },
+          {
+            "type": "conditional_alternative",
+            "source_label": "065",
+            "current_printed_label": "062",
+            "status": "THEORETICALLY_POSSIBLE_IN_PRIMARY_NOTE_NOT_ADOPTED",
+            "source_id": "CHIC1996",
+            "locator": "p. 315, #328, note; earlier drawings cited in edition were not independently inspected"
+          },
+          {
+            "type": "typography",
+            "scope": "initial 062",
+            "value": "Printed in italics; meaning not independently adjudicated."
+          }
+        ],
+        "primary_source_id": "CHIC1996",
+        "primary_locator": "printed p. 315, #328, unlabelled sequence",
+        "primary_receipt_page": 315,
+        "digital_literal": "062 -034-002-056-070-025-019-051-070-094-034-056-077-049-038-029",
+        "primary_numeric_group": "062-034-002-056-070-025-019-051-070-094-034-056-077-049-038-029",
+        "face_label_mapping": {
+          "digital": null,
+          "primary": null,
+          "basis": "Explicit printed face sequence, no physical reading direction inferred"
+        },
+        "status": "NUMERIC_GROUP_MATCH_PRIMARY; DAMAGE_AND_ALTERNATIVE_OMITTED_BY_REFERENCE"
+      },
+      "source_disagreements": [],
+      "identity_context": {
+        "record_id": "CHIC-328",
+        "unit": "catalogue_identity",
+        "series": "Y",
+        "identifier_assertions": [
+          {
+            "namespace": "INSCRIBE museum inventory",
+            "repository": "Heraklion Archaeological Museum",
+            "literal": "Λ E-415",
+            "source_id": "INSCRIBE-CH",
+            "locator": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php ; Inventory number",
+            "physical_equivalence_adjudicated": false
+          }
+        ],
+        "identity_status": "SOURCE_ATTRIBUTED_INVENTORY_PRESENT",
+        "physical_identity_adjudicated": false
+      },
+      "certainty_scope": "Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.",
+      "full_transcription_inferred": false,
+      "independent_review_complete": false
+    }
+  ]
+}

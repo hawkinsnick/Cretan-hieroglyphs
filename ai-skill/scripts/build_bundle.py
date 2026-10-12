@@ -7,6 +7,8 @@ ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/"ai-skill"/"generated"; OUT.mkdir(parents=True,exist_ok=True)
 sha=os.environ.get("SOURCE_COMMIT") or subprocess.check_output(["git","rev-parse","HEAD"],cwd=ROOT,text=True).strip()
 CANDIDATES=[
+ ("cross_corpus_dependencies","research/cross-corpus-dependencies.json"),("sync_publication_guard","ai-skill/scripts/publish_sync.py"),("ai_integrity_guide","docs/AI-INTEGRITY.md"),
+ ("qualified_assertions","research/qualified-assertion-views.json"),
  ("reference_reconciliation","research/reference-reconciliation-v2.json"),("identity_reconciliation","research/identity-reconciliation-v2.json"),
  ("source_expansion","research/source-check-2026-10-11.json"),("source_reconciliation","research/source-reconciliation.json"),("coverage_denominators","research/coverage-denominators.json"),
  ("readable_dossiers","docs/RECORD-DOSSIERS.md"),

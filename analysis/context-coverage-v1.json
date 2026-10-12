@@ -359,6 +359,22 @@
     {
       "path": "corpus/critical-readings.json",
       "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b"
+    },
+    {
+      "path": "research/identity-reconciliation-v2.json",
+      "sha256": "422c1b82bce89b7feff88737907780eea178c2a2f91a705106e9dec3f4dc3005"
+    },
+    {
+      "path": "research/reference-reconciliation-v2.json",
+      "sha256": "a9397e546c324edd4e98ad6cd072778fed4566bfef0b1e4fb22c854dab7a3b0a"
+    },
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "b5f68545c018b160f6435ddc04c09de34a99f64f5fa8887e4594bbe38d8e5601"
+    },
+    {
+      "path": "scripts/assertion_views.py",
+      "sha256": "4de1e2c6cbd98f34ed5090380aa98ad6877332bcb64f3f40947174a1fa527a2b"
     }
   ],
   "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
