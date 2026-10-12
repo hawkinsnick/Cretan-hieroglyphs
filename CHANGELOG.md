@@ -46,3 +46,8 @@ Require checked native dependency projections, preserve corpus-native bundle sch
 ### Source coverage and reconciliation — 2026-10-12
 
 Added 193 attributed DBAS catalogue leads and three unmapped INSCRIBE object pages; the two named routes now locate 204 existing CHIC identities. New leads are distinct from accepted metadata/readings. See [scope, rights and verification](docs/SOURCE-GROWTH-2026-10-12.md).
+
+
+### Acquisition frontier — 2026-10-12
+
+Dossiers now include 31 source-qualified contexts; the 25-object acquisition cohort records metadata strata 8/5/8/4 without claiming a completed reading pilot. See [source scope and gates](docs/ACQUISITION-FRONTIER-2026-10-12.md).

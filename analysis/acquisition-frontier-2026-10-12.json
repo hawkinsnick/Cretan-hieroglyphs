@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-12",
+  "status": "PASS_BOUNDED_ACQUISITION_FRONTIER",
+  "scope": {
+    "context_supplements": 5,
+    "combined_context_identities": 31,
+    "cohort_members": 25,
+    "metadata_strata": {
+      "H": 8,
+      "I": 5,
+      "S": 8,
+      "Y": 4
+    },
+    "cohort_objects_with_preexisting_readings": 4,
+    "new_readings": 0,
+    "expert_acceptance": false
+  },
+  "inputs": [
+    {
+      "path": "research/stratified-source-context.json",
+      "sha256": "c7c6ee15b3d5a9699ece88ac318a016c7ba139c27ac23482470af66f52a11483"
+    },
+    {
+      "path": "research/representative-acquisition-cohort.json",
+      "sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b"
+    }
+  ]
+}

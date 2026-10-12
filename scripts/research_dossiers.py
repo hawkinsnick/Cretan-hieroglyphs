@@ -26,12 +26,15 @@ def calculate(root=R):
     if ch:
         paths=['corpus/chic-catalogue-spine.json','corpus/critical-readings.json','corpus/context-assertions.json'];evidence+=paths
         cat=load(root,paths[0]);readings=load(root,paths[1]);context=load(root,paths[2]);ids={x['id'] for x in cat}
-        rows=context['records'];rowids=[x['object_id'] for x in rows]
+        from acquisition_frontier import validate_context
+        supplements=load(root,'research/stratified-source-context.json')['records'];validate_context(supplements,root)
+        evidence+=['research/stratified-source-context.json','scripts/acquisition_frontier.py']
+        rows=context['records']+supplements;rowids=[x['object_id'] for x in rows]
         if len(rowids)!=len(set(rowids)) or not set(rowids)<=ids:raise ValueError('duplicate/orphan context object')
         for row in rows:
             if row['reading_admitted'] is not False or row['independent_review'] is not False:raise ValueError('metadata promoted to reading/review')
             if row['rights']['images_included'] or row['rights']['models_included']:raise ValueError('restricted model/image included')
-            if len(row['html_sha256'])!=64 or not row['source_url'].startswith('https://www.inscribercproject.com/'):raise ValueError('invalid source identity')
+            if row['source_id']=='INSCRIBE-CH' and (len(row['html_sha256'])!=64 or not row['source_url'].startswith('https://www.inscribercproject.com/')):raise ValueError('invalid source identity')
             fields=[a['field'] for a in row['assertions']]
             if len(fields)!=len(set(fields)):raise ValueError('duplicate source field')
             for a in row['assertions']:

@@ -102,5 +102,20 @@
     "rights": "Factual metadata only. 3D models and images are excluded; source copyright retained. No blanket data license asserted.",
     "lineage": "References CHIC/CMS; not an independent reading witness.",
     "source_expansion_boundary": "2026-10-11: eight attributed digital transnumeration versions, not independent primary readings. Models/images remain excluded; no blanket data license inferred."
+  },
+  {
+    "id": "CIVITILLO-2021",
+    "type": "article",
+    "authors": [
+      "Matilde Civitillo"
+    ],
+    "title": "Discussing writing in Cretan Hieroglyphic script from an anthropological perspective",
+    "year": 2021,
+    "journal": "Polygraphia",
+    "issue": "3",
+    "pages": "179–210",
+    "url": "https://polygraphia.it/wp-content/uploads/2021/10/Discussing-writing-in-cretan-hieroglyphic-script.pdf",
+    "role": "dependent-context-reference",
+    "rights_note": "Limited factual context and locator only; no source figure or text redistribution."
   }
 ]

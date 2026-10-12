@@ -9,8 +9,8 @@
     "source_checked_occurrence_objects": 6,
     "independently_reviewed_objects": 0,
     "review_dossiers": 331,
-    "context_objects": 26,
-    "context_assertions": 234
+    "context_objects": 31,
+    "context_assertions": 261
   },
   "scientific_results": {
     "structural_analysis": "BLOCKED",
@@ -47,19 +47,19 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "baaa313c801ffe19c7ca12407ecbf7254317a17c169cdfc653ff42f4120e34e6"
+      "sha256": "fdf000c33c1f4ed626cdaf330f5bb25ac059d6440dd9ae966eae43ddd0a1273a"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "7dc965455abcc0cc9e3d5a3d7ba583aac91a37d9b317d5a73fc6002b66d1b343"
+      "sha256": "60781fd84b9daba5222d55c4029b82eca55f8765437d3087efb1e944833f2b2d"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "b5cb3f728d7ff2cf2084dc2e30c34d1b59d857a77a36f9ceb95ac9e47448e5d6"
+      "sha256": "10712de14d4ccbb2a3568f6a823ea38b2d704970c845fbb81e30769a94728f57"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "34db4a58b53f73485836456304f2adf530ac7a626a3a999c12a4aca9f4aca44d"
+      "sha256": "7fc39072422e1d8c3217280cb02a83916607136ed08241b2802ec98fecbf5a38"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -107,15 +107,15 @@
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "bda9267af29ec403766138c3f47d8f6d4e1dc153281ecb1718f972bf9b7c5e20"
+      "sha256": "584d0105239106a01ad75257b8449f07461f8d4ae3234f27cde7a58ec3f0f528"
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "f84ccfb0451244ae5ed09e571d2bccc9dca7b9722be498120eea33ed17cf8ce6"
+      "sha256": "a96dd7adf9b09591e29788ad65e4953c4d67490d0ca895320daf59bc91f41118"
     },
     {
       "path": "scripts/research_dossiers.py",
-      "sha256": "faf07125decd7122e9a10f3987dc7c6e898bd89d3dfd9c793f894b4c3d1dafab"
+      "sha256": "80b1c3c5d52300cdf08229ddd9081129374cf29f788f151d07dc81ab6c67f029"
     },
     {
       "path": "scripts/test_research_dossiers.py",
@@ -123,7 +123,7 @@
     },
     {
       "path": "bibliography/sources.json",
-      "sha256": "49ae50b30c0bf5e91281842e73dc9c0ce1ba1ce77915a6854f1de4b3d9e3e4a4"
+      "sha256": "7cd26215ddbba66876575e31f510088f9848a40af03a352e7674458dba4a00e4"
     },
     {
       "path": "corpus/context-assertions.json",
@@ -131,7 +131,7 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "1d305d4885da135c5fb00f6683e7c82291c5fcb66be4093e44386c9bd5f19122"
+      "sha256": "7a1fdf4056f3737b071c8aea652c3c1a4432891eebf035662380bd3705f92b83"
     },
     {
       "path": "research/source-check-2026-10-11.json",

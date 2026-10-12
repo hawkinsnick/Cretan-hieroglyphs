@@ -62,8 +62,8 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "baaa313c801ffe19c7ca12407ecbf7254317a17c169cdfc653ff42f4120e34e6",
-      "bytes": 13620,
+      "sha256": "fdf000c33c1f4ed626cdaf330f5bb25ac059d6440dd9ae966eae43ddd0a1273a",
+      "bytes": 13647,
       "category": "research",
       "summary": {
         "scope": "Comparison readiness and software/governance alignment, not permission for cross-script inference. Exact snapshot commits pin native evidence; target versions describe the coordinated rollout. Snapshot versions may precede report-only maintenance."
@@ -115,15 +115,15 @@
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "bda9267af29ec403766138c3f47d8f6d4e1dc153281ecb1718f972bf9b7c5e20",
-      "bytes": 604395,
+      "sha256": "584d0105239106a01ad75257b8449f07461f8d4ae3234f27cde7a58ec3f0f528",
+      "bytes": 623408,
       "category": "research",
       "summary": {}
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "f84ccfb0451244ae5ed09e571d2bccc9dca7b9722be498120eea33ed17cf8ce6",
-      "bytes": 7324,
+      "sha256": "a96dd7adf9b09591e29788ad65e4953c4d67490d0ca895320daf59bc91f41118",
+      "bytes": 7542,
       "category": "analysis",
       "summary": {
         "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
@@ -131,8 +131,8 @@
     },
     {
       "path": "scripts/research_dossiers.py",
-      "sha256": "faf07125decd7122e9a10f3987dc7c6e898bd89d3dfd9c793f894b4c3d1dafab",
-      "bytes": 11736,
+      "sha256": "80b1c3c5d52300cdf08229ddd9081129374cf29f788f151d07dc81ab6c67f029",
+      "bytes": 12059,
       "category": "scripts",
       "summary": {}
     },
@@ -145,8 +145,8 @@
     },
     {
       "path": "bibliography/sources.json",
-      "sha256": "49ae50b30c0bf5e91281842e73dc9c0ce1ba1ce77915a6854f1de4b3d9e3e4a4",
-      "bytes": 3498,
+      "sha256": "7cd26215ddbba66876575e31f510088f9848a40af03a352e7674458dba4a00e4",
+      "bytes": 4065,
       "category": "bibliography",
       "summary": {}
     },
@@ -162,8 +162,8 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "1d305d4885da135c5fb00f6683e7c82291c5fcb66be4093e44386c9bd5f19122",
-      "bytes": 144597,
+      "sha256": "7a1fdf4056f3737b071c8aea652c3c1a4432891eebf035662380bd3705f92b83",
+      "bytes": 148578,
       "category": "docs",
       "summary": {}
     },
@@ -291,13 +291,13 @@
     "critical_readings": {
       "value": 13,
       "unit": "committed_native_readings",
-      "definition": "Five literal printed transnumerations on two source-located Knossos medallions; not representative corpus coverage or independently certified epigraphy.",
+      "definition": "13 source-attributed reading versions: five primary-edition versions on two catalogue entries and eight dependent digital versions on four entries; not independent expert acceptance.",
       "status": "measured"
     },
     "source_checked_objects": {
       "value": 6,
-      "unit": "source_transnumeration_checked_physical_objects",
-      "definition": "Two H-series Knossos medallions checked against printed CHIC transnumerations; not an autopsy or representative sample.",
+      "unit": "source_checked_catalogue_identities",
+      "definition": "Six catalogue identities with encoded source-attributed readings; physical identity and independent review remain unestablished.",
       "status": "measured"
     },
     "independent_reviews": {
@@ -307,7 +307,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "baaa313c801ffe19c7ca12407ecbf7254317a17c169cdfc653ff42f4120e34e6",
+  "family_report_sha256": "fdf000c33c1f4ed626cdaf330f5bb25ac059d6440dd9ae966eae43ddd0a1273a",
   "implementation_sha256": "71ceb7d7107428014ae9f43ca10d402805fb999428cb67549214d6b2b8bbc406",
   "assertion_view_sha256": "6defe086bd86e195b0b248163861d68ec5fd4c68c1e5338275c4a6509210dbfd",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."

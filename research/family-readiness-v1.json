@@ -171,7 +171,7 @@
         },
         {
           "path": "analysis/context-coverage-v1.json",
-          "sha256": "f84ccfb0451244ae5ed09e571d2bccc9dca7b9722be498120eea33ed17cf8ce6",
+          "sha256": "a96dd7adf9b09591e29788ad65e4953c4d67490d0ca895320daf59bc91f41118",
           "url": null
         }
       ],
@@ -185,13 +185,13 @@
         "critical_readings": {
           "value": 13,
           "unit": "committed_native_readings",
-          "definition": "Five literal printed transnumerations on two source-located Knossos medallions; not representative corpus coverage or independently certified epigraphy.",
+          "definition": "13 source-attributed reading versions: five primary-edition versions on two catalogue entries and eight dependent digital versions on four entries; not independent expert acceptance.",
           "status": "measured"
         },
         "source_checked_objects": {
           "value": 6,
-          "unit": "source_transnumeration_checked_physical_objects",
-          "definition": "Two H-series Knossos medallions checked against printed CHIC transnumerations; not an autopsy or representative sample.",
+          "unit": "source_checked_catalogue_identities",
+          "definition": "Six catalogue identities with encoded source-attributed readings; physical identity and independent review remain unestablished.",
           "status": "measured"
         },
         "independent_reviews": {

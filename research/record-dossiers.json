@@ -6004,14 +6004,84 @@
       "series": "I",
       "native_ref": "corpus/chic-catalogue-spine.json#/122",
       "catalogue_status": "catalogue-spine",
-      "source_context": [],
+      "source_context": [
+        {
+          "object_id": "CHIC-123",
+          "source_id": "JASINK-BOMBARDIERI-CHS",
+          "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=63&nrff=0&nrfs=0",
+          "source_kind": "HTML",
+          "source_sha256": "09b6cf2010f8853796f07df94b19c8f9fca5ceeae74c2aaa79f7de7649c0b9a2",
+          "source_bytes": 4867,
+          "checked": "2026-10-12",
+          "source_role": "DEPENDENT_DIGITAL_CATALOGUE",
+          "assertions": [
+            {
+              "field": "cms_reference",
+              "value": "Vol 2 Supp 8 Nr 90",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=63&nrff=0&nrfs=0",
+              "locator": "Object page / cms_reference"
+            },
+            {
+              "field": "findplace",
+              "value": "Knossos (Palace) (Creta)",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=63&nrff=0&nrfs=0",
+              "locator": "Object page / findplace"
+            },
+            {
+              "field": "object_subtype",
+              "value": "sealing",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=63&nrff=0&nrfs=0",
+              "locator": "Object page / object_subtype"
+            },
+            {
+              "field": "material",
+              "value": "clay (clay)",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=63&nrff=0&nrfs=0",
+              "locator": "Object page / material"
+            },
+            {
+              "field": "dimensions_literal",
+              "value": "max 2.50 min 2.10 base 0.00 height 5.30",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=63&nrff=0&nrfs=0",
+              "locator": "Object page / dimensions_literal"
+            },
+            {
+              "field": "repository",
+              "value": "Iraklion Museum",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=63&nrff=0&nrfs=0",
+              "locator": "Object page / repository"
+            }
+          ],
+          "reading_admitted": false,
+          "independent_review": false,
+          "rights": {
+            "images_included": false,
+            "models_included": false,
+            "scope": "Limited factual context and locators only; no glyph classifications or protected figures redistributed."
+          },
+          "dimension_boundary": "Source label mm and zero/decimal strings retained without conversion; zero is not independently verified absence or a physical measurement.",
+          "heading_boundary": "The generic UI heading SEAL is not promoted over native I-series impression identity."
+        }
+      ],
       "source_readings": [],
       "qualified_assertions": [],
       "source_ids": [
-        "CHIC1996"
+        "CHIC1996",
+        "JASINK-BOMBARDIERI-CHS"
       ],
       "missing_evidence": [
-        "SOURCE_CONTEXT_NOT_ENCODED",
         "SOURCE_READING_NOT_ENCODED",
         "INDEPENDENT_REVIEW_PENDING"
       ],
@@ -6033,6 +6103,20 @@
           "publisher": "École française d’Athènes / École française de Rome",
           "isbn": "978-2-86958-082-4",
           "role": "primary-catalogue"
+        },
+        {
+          "id": "JASINK-BOMBARDIERI-CHS",
+          "type": "database",
+          "authors": [
+            "Anna Margherita Jasink",
+            "Luca Bombardieri"
+          ],
+          "title": "DBAS – CHS Cretan Hieroglyphic Seals",
+          "publisher": "University of Florence, SAGAS / @egeanLab",
+          "role": "digital-seal-corpus",
+          "url": "https://www.sagas.unifi.it/vp-394-dbas-chs-cretan-hieroglyphic-seals.html",
+          "catalogue_discovery": "research/dbas-chs-catalogue-leads.json",
+          "rights_note": "Minimal factual catalogue IDs and links only; third-party photos, drawings and classifications are not redistributed."
         }
       ]
     },
@@ -6041,14 +6125,84 @@
       "series": "I",
       "native_ref": "corpus/chic-catalogue-spine.json#/123",
       "catalogue_status": "catalogue-spine",
-      "source_context": [],
+      "source_context": [
+        {
+          "object_id": "CHIC-124",
+          "source_id": "JASINK-BOMBARDIERI-CHS",
+          "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=89&nrff=0&nrfs=0",
+          "source_kind": "HTML",
+          "source_sha256": "fd6e9eb5a6b50822f0a8d76a20eb7dd7b299d5e0700d2070c9a8e2661f2374fc",
+          "source_bytes": 4660,
+          "checked": "2026-10-12",
+          "source_role": "DEPENDENT_DIGITAL_CATALOGUE",
+          "assertions": [
+            {
+              "field": "cms_reference",
+              "value": "Vol 2 Supp 8 Nr 89",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=89&nrff=0&nrfs=0",
+              "locator": "Object page / cms_reference"
+            },
+            {
+              "field": "findplace",
+              "value": "Knossos (Palace) (Creta)",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=89&nrff=0&nrfs=0",
+              "locator": "Object page / findplace"
+            },
+            {
+              "field": "object_subtype",
+              "value": "sealing",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=89&nrff=0&nrfs=0",
+              "locator": "Object page / object_subtype"
+            },
+            {
+              "field": "material",
+              "value": "clay (clay)",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=89&nrff=0&nrfs=0",
+              "locator": "Object page / material"
+            },
+            {
+              "field": "dimensions_literal",
+              "value": "max 36.00 min 15.50 base 0.00 height 7.00",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=89&nrff=0&nrfs=0",
+              "locator": "Object page / dimensions_literal"
+            },
+            {
+              "field": "repository",
+              "value": "Iraklion Museum",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=89&nrff=0&nrfs=0",
+              "locator": "Object page / repository"
+            }
+          ],
+          "reading_admitted": false,
+          "independent_review": false,
+          "rights": {
+            "images_included": false,
+            "models_included": false,
+            "scope": "Limited factual context and locators only; no glyph classifications or protected figures redistributed."
+          },
+          "dimension_boundary": "Source label mm and zero/decimal strings retained without conversion; zero is not independently verified absence or a physical measurement.",
+          "heading_boundary": "The generic UI heading SEAL is not promoted over native I-series impression identity."
+        }
+      ],
       "source_readings": [],
       "qualified_assertions": [],
       "source_ids": [
-        "CHIC1996"
+        "CHIC1996",
+        "JASINK-BOMBARDIERI-CHS"
       ],
       "missing_evidence": [
-        "SOURCE_CONTEXT_NOT_ENCODED",
         "SOURCE_READING_NOT_ENCODED",
         "INDEPENDENT_REVIEW_PENDING"
       ],
@@ -6070,6 +6224,20 @@
           "publisher": "École française d’Athènes / École française de Rome",
           "isbn": "978-2-86958-082-4",
           "role": "primary-catalogue"
+        },
+        {
+          "id": "JASINK-BOMBARDIERI-CHS",
+          "type": "database",
+          "authors": [
+            "Anna Margherita Jasink",
+            "Luca Bombardieri"
+          ],
+          "title": "DBAS – CHS Cretan Hieroglyphic Seals",
+          "publisher": "University of Florence, SAGAS / @egeanLab",
+          "role": "digital-seal-corpus",
+          "url": "https://www.sagas.unifi.it/vp-394-dbas-chs-cretan-hieroglyphic-seals.html",
+          "catalogue_discovery": "research/dbas-chs-catalogue-leads.json",
+          "rights_note": "Minimal factual catalogue IDs and links only; third-party photos, drawings and classifications are not redistributed."
         }
       ]
     },
@@ -6078,14 +6246,84 @@
       "series": "I",
       "native_ref": "corpus/chic-catalogue-spine.json#/124",
       "catalogue_status": "catalogue-spine",
-      "source_context": [],
+      "source_context": [
+        {
+          "object_id": "CHIC-125",
+          "source_id": "JASINK-BOMBARDIERI-CHS",
+          "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=90&nrff=0&nrfs=0",
+          "source_kind": "HTML",
+          "source_sha256": "09a80a96b8ba1b6200d134053f5e94aa620e6f5331821f00cd31fe43e5adb905",
+          "source_bytes": 5399,
+          "checked": "2026-10-12",
+          "source_role": "DEPENDENT_DIGITAL_CATALOGUE",
+          "assertions": [
+            {
+              "field": "cms_reference",
+              "value": "Vol 2 Supp 8 Nr 84",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=90&nrff=0&nrfs=0",
+              "locator": "Object page / cms_reference"
+            },
+            {
+              "field": "findplace",
+              "value": "Knossos (Little Palace) ()",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=90&nrff=0&nrfs=0",
+              "locator": "Object page / findplace"
+            },
+            {
+              "field": "object_subtype",
+              "value": "sealing",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=90&nrff=0&nrfs=0",
+              "locator": "Object page / object_subtype"
+            },
+            {
+              "field": "material",
+              "value": "clay (clay)",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=90&nrff=0&nrfs=0",
+              "locator": "Object page / material"
+            },
+            {
+              "field": "dimensions_literal",
+              "value": "max 19.00 min 13.50 base 0.00 height 9.00",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=90&nrff=0&nrfs=0",
+              "locator": "Object page / dimensions_literal"
+            },
+            {
+              "field": "repository",
+              "value": "Iraklion Museum",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=90&nrff=0&nrfs=0",
+              "locator": "Object page / repository"
+            }
+          ],
+          "reading_admitted": false,
+          "independent_review": false,
+          "rights": {
+            "images_included": false,
+            "models_included": false,
+            "scope": "Limited factual context and locators only; no glyph classifications or protected figures redistributed."
+          },
+          "dimension_boundary": "Source label mm and zero/decimal strings retained without conversion; zero is not independently verified absence or a physical measurement.",
+          "heading_boundary": "The generic UI heading SEAL is not promoted over native I-series impression identity."
+        }
+      ],
       "source_readings": [],
       "qualified_assertions": [],
       "source_ids": [
-        "CHIC1996"
+        "CHIC1996",
+        "JASINK-BOMBARDIERI-CHS"
       ],
       "missing_evidence": [
-        "SOURCE_CONTEXT_NOT_ENCODED",
         "SOURCE_READING_NOT_ENCODED",
         "INDEPENDENT_REVIEW_PENDING"
       ],
@@ -6107,6 +6345,20 @@
           "publisher": "École française d’Athènes / École française de Rome",
           "isbn": "978-2-86958-082-4",
           "role": "primary-catalogue"
+        },
+        {
+          "id": "JASINK-BOMBARDIERI-CHS",
+          "type": "database",
+          "authors": [
+            "Anna Margherita Jasink",
+            "Luca Bombardieri"
+          ],
+          "title": "DBAS – CHS Cretan Hieroglyphic Seals",
+          "publisher": "University of Florence, SAGAS / @egeanLab",
+          "role": "digital-seal-corpus",
+          "url": "https://www.sagas.unifi.it/vp-394-dbas-chs-cretan-hieroglyphic-seals.html",
+          "catalogue_discovery": "research/dbas-chs-catalogue-leads.json",
+          "rights_note": "Minimal factual catalogue IDs and links only; third-party photos, drawings and classifications are not redistributed."
         }
       ]
     },
@@ -6115,14 +6367,84 @@
       "series": "I",
       "native_ref": "corpus/chic-catalogue-spine.json#/125",
       "catalogue_status": "catalogue-spine",
-      "source_context": [],
+      "source_context": [
+        {
+          "object_id": "CHIC-126",
+          "source_id": "JASINK-BOMBARDIERI-CHS",
+          "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=91&nrff=0&nrfs=0",
+          "source_kind": "HTML",
+          "source_sha256": "0b7e57fe958c237720e632506a7f035c475cfad0a52db794a526c79f49ba3d2f",
+          "source_bytes": 6733,
+          "checked": "2026-10-12",
+          "source_role": "DEPENDENT_DIGITAL_CATALOGUE",
+          "assertions": [
+            {
+              "field": "cms_reference",
+              "value": "Vol 2 Supp 6 Nr 180",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=91&nrff=0&nrfs=0",
+              "locator": "Object page / cms_reference"
+            },
+            {
+              "field": "findplace",
+              "value": "Mallia (Quartier Mu) ()",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=91&nrff=0&nrfs=0",
+              "locator": "Object page / findplace"
+            },
+            {
+              "field": "object_subtype",
+              "value": "sealing",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=91&nrff=0&nrfs=0",
+              "locator": "Object page / object_subtype"
+            },
+            {
+              "field": "material",
+              "value": "clay (clay)",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=91&nrff=0&nrfs=0",
+              "locator": "Object page / material"
+            },
+            {
+              "field": "dimensions_literal",
+              "value": "max 20.00 min 0.00 base 19.50 height 20.50",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=91&nrff=0&nrfs=0",
+              "locator": "Object page / dimensions_literal"
+            },
+            {
+              "field": "repository",
+              "value": "Iraklion Museum",
+              "status": "source_reported",
+              "source_id": "JASINK-BOMBARDIERI-CHS",
+              "source_url": "https://www.aegean-museum.it/dbas/pub/CMpro/chs/seal.php?idseal=91&nrff=0&nrfs=0",
+              "locator": "Object page / repository"
+            }
+          ],
+          "reading_admitted": false,
+          "independent_review": false,
+          "rights": {
+            "images_included": false,
+            "models_included": false,
+            "scope": "Limited factual context and locators only; no glyph classifications or protected figures redistributed."
+          },
+          "dimension_boundary": "Source label mm and zero/decimal strings retained without conversion; zero is not independently verified absence or a physical measurement.",
+          "heading_boundary": "The generic UI heading SEAL is not promoted over native I-series impression identity."
+        }
+      ],
       "source_readings": [],
       "qualified_assertions": [],
       "source_ids": [
-        "CHIC1996"
+        "CHIC1996",
+        "JASINK-BOMBARDIERI-CHS"
       ],
       "missing_evidence": [
-        "SOURCE_CONTEXT_NOT_ENCODED",
         "SOURCE_READING_NOT_ENCODED",
         "INDEPENDENT_REVIEW_PENDING"
       ],
@@ -6144,6 +6466,20 @@
           "publisher": "École française d’Athènes / École française de Rome",
           "isbn": "978-2-86958-082-4",
           "role": "primary-catalogue"
+        },
+        {
+          "id": "JASINK-BOMBARDIERI-CHS",
+          "type": "database",
+          "authors": [
+            "Anna Margherita Jasink",
+            "Luca Bombardieri"
+          ],
+          "title": "DBAS – CHS Cretan Hieroglyphic Seals",
+          "publisher": "University of Florence, SAGAS / @egeanLab",
+          "role": "digital-seal-corpus",
+          "url": "https://www.sagas.unifi.it/vp-394-dbas-chs-cretan-hieroglyphic-seals.html",
+          "catalogue_discovery": "research/dbas-chs-catalogue-leads.json",
+          "rights_note": "Minimal factual catalogue IDs and links only; third-party photos, drawings and classifications are not redistributed."
         }
       ]
     },
@@ -16261,14 +16597,61 @@
       "series": "Y",
       "native_ref": "corpus/chic-catalogue-spine.json#/316",
       "catalogue_status": "catalogue-spine",
-      "source_context": [],
+      "source_context": [
+        {
+          "object_id": "CHIC-317",
+          "source_id": "CIVITILLO-2021",
+          "source_url": "https://polygraphia.it/wp-content/uploads/2021/10/Discussing-writing-in-cretan-hieroglyphic-script.pdf",
+          "source_kind": "PDF",
+          "source_sha256": "fe175d005eb4f700c946bfd4c67d4805094bed49dcd4bd3a4e966436151974cf",
+          "source_bytes": 5439214,
+          "checked": "2026-10-12",
+          "source_role": "DEPENDENT_SCHOLARLY_REFERENCE",
+          "visually_inspected_pdf_pages": [
+            10
+          ],
+          "assertions": [
+            {
+              "field": "object_type",
+              "value": "pithos",
+              "status": "source_reported",
+              "source_id": "CIVITILLO-2021",
+              "source_url": "https://polygraphia.it/wp-content/uploads/2021/10/Discussing-writing-in-cretan-hieroglyphic-script.pdf",
+              "locator": "printed p. 188 / PDF p. 10; explicit CHIC #317 sentence"
+            },
+            {
+              "field": "inscription_location",
+              "value": "body",
+              "status": "source_reported",
+              "source_id": "CIVITILLO-2021",
+              "source_url": "https://polygraphia.it/wp-content/uploads/2021/10/Discussing-writing-in-cretan-hieroglyphic-script.pdf",
+              "locator": "printed p. 188 / PDF p. 10; explicit CHIC #317 sentence"
+            },
+            {
+              "field": "inscription_execution",
+              "value": "incised before firing",
+              "status": "source_reported",
+              "source_id": "CIVITILLO-2021",
+              "source_url": "https://polygraphia.it/wp-content/uploads/2021/10/Discussing-writing-in-cretan-hieroglyphic-script.pdf",
+              "locator": "printed p. 188 / PDF p. 10; explicit CHIC #317 sentence"
+            }
+          ],
+          "reading_admitted": false,
+          "independent_review": false,
+          "rights": {
+            "images_included": false,
+            "models_included": false,
+            "scope": "Paraphrased limited factual context and locator only; no source PDF, prose or transnumeration redistributed."
+          }
+        }
+      ],
       "source_readings": [],
       "qualified_assertions": [],
       "source_ids": [
-        "CHIC1996"
+        "CHIC1996",
+        "CIVITILLO-2021"
       ],
       "missing_evidence": [
-        "SOURCE_CONTEXT_NOT_ENCODED",
         "SOURCE_READING_NOT_ENCODED",
         "INDEPENDENT_REVIEW_PENDING"
       ],
@@ -16290,6 +16673,21 @@
           "publisher": "École française d’Athènes / École française de Rome",
           "isbn": "978-2-86958-082-4",
           "role": "primary-catalogue"
+        },
+        {
+          "id": "CIVITILLO-2021",
+          "type": "article",
+          "authors": [
+            "Matilde Civitillo"
+          ],
+          "title": "Discussing writing in Cretan Hieroglyphic script from an anthropological perspective",
+          "year": 2021,
+          "journal": "Polygraphia",
+          "issue": "3",
+          "pages": "179–210",
+          "url": "https://polygraphia.it/wp-content/uploads/2021/10/Discussing-writing-in-cretan-hieroglyphic-script.pdf",
+          "role": "dependent-context-reference",
+          "rights_note": "Limited factual context and locator only; no source figure or text redistribution."
         }
       ]
     },

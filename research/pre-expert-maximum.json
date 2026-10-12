@@ -51,7 +51,8 @@
       "scope": "representative H/I/S/Y acquisition cohort",
       "action": "Acquire source-located readings and metadata across the declared 8/5/8/4 minimum strata.",
       "blocked_by": "PARTIALLY_REOPENED_VIA_INSCRIBE",
-      "status": "ACTIVE_DIRECT_DIGITAL_ROUTE"
+      "status": "25_OBJECT_METADATA_COHORT_RECORDED_READING_GAPS_OPEN",
+      "evidence": "research/representative-acquisition-cohort.json; metadata strata 8/5/8/4, four objects with preexisting partial readings; not a completed reading pilot."
     },
     {
       "id": "CH-PRE-002",
@@ -59,7 +60,7 @@
       "action": "Populate authoritative object metadata and source locators without treating catalogue identity as transcription verification.",
       "blocked_by": "PARTIALLY_REOPENED_VIA_INSCRIBE_AND_OTHER_OBJECT_SOURCES",
       "status": "PARTIAL_METADATA_ADMITTED",
-      "completion_scope": "26/331 explicit catalogue entries have attributed INSCRIBE context; 305 remain without encoded context in this layer."
+      "completion_scope": "31/331 dossier context identities (26 INSCRIBE plus five source-qualified supplements). Named catalogue leads remain distinct from object-context and reading coverage."
     },
     {
       "id": "CH-PRE-003",
@@ -102,5 +103,12 @@
     "audit": "analysis/source-growth-2026-10-12.json",
     "source_leads_are_not_reading_coverage": true,
     "independent_review_complete": false
+  },
+  "acquisition_frontier_checkpoint": {
+    "checked": "2026-10-12",
+    "guide": "docs/ACQUISITION-FRONTIER-2026-10-12.md",
+    "audit": "analysis/acquisition-frontier-2026-10-12.json",
+    "no_new_reading_admission": true,
+    "expert_review_complete": false
   }
 }

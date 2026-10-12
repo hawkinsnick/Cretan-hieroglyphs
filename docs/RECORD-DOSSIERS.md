@@ -1363,9 +1363,19 @@ Native evidence: [corpus/chic-catalogue-spine.json#/122](../corpus/chic-catalogu
 
 Catalogue series: I. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| cms_reference | Vol 2 Supp 8 Nr 90 | source_reported | JASINK-BOMBARDIERI-CHS / Object page / cms_reference |
+| findplace | Knossos (Palace) (Creta) | source_reported | JASINK-BOMBARDIERI-CHS / Object page / findplace |
+| object_subtype | sealing | source_reported | JASINK-BOMBARDIERI-CHS / Object page / object_subtype |
+| material | clay (clay) | source_reported | JASINK-BOMBARDIERI-CHS / Object page / material |
+| dimensions_literal | max 2.50 min 2.10 base 0.00 height 5.30 | source_reported | JASINK-BOMBARDIERI-CHS / Object page / dimensions_literal |
+| repository | Iraklion Museum | source_reported | JASINK-BOMBARDIERI-CHS / Object page / repository |
+
+Missing evidence: SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
+- [JASINK-BOMBARDIERI-CHS](https://www.sagas.unifi.it/vp-394-dbas-chs-cretan-hieroglyphic-seals.html): DBAS – CHS Cretan Hieroglyphic Seals
 
 ## CHIC-124
 
@@ -1373,9 +1383,19 @@ Native evidence: [corpus/chic-catalogue-spine.json#/123](../corpus/chic-catalogu
 
 Catalogue series: I. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| cms_reference | Vol 2 Supp 8 Nr 89 | source_reported | JASINK-BOMBARDIERI-CHS / Object page / cms_reference |
+| findplace | Knossos (Palace) (Creta) | source_reported | JASINK-BOMBARDIERI-CHS / Object page / findplace |
+| object_subtype | sealing | source_reported | JASINK-BOMBARDIERI-CHS / Object page / object_subtype |
+| material | clay (clay) | source_reported | JASINK-BOMBARDIERI-CHS / Object page / material |
+| dimensions_literal | max 36.00 min 15.50 base 0.00 height 7.00 | source_reported | JASINK-BOMBARDIERI-CHS / Object page / dimensions_literal |
+| repository | Iraklion Museum | source_reported | JASINK-BOMBARDIERI-CHS / Object page / repository |
+
+Missing evidence: SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
+- [JASINK-BOMBARDIERI-CHS](https://www.sagas.unifi.it/vp-394-dbas-chs-cretan-hieroglyphic-seals.html): DBAS – CHS Cretan Hieroglyphic Seals
 
 ## CHIC-125
 
@@ -1383,9 +1403,19 @@ Native evidence: [corpus/chic-catalogue-spine.json#/124](../corpus/chic-catalogu
 
 Catalogue series: I. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| cms_reference | Vol 2 Supp 8 Nr 84 | source_reported | JASINK-BOMBARDIERI-CHS / Object page / cms_reference |
+| findplace | Knossos (Little Palace) () | source_reported | JASINK-BOMBARDIERI-CHS / Object page / findplace |
+| object_subtype | sealing | source_reported | JASINK-BOMBARDIERI-CHS / Object page / object_subtype |
+| material | clay (clay) | source_reported | JASINK-BOMBARDIERI-CHS / Object page / material |
+| dimensions_literal | max 19.00 min 13.50 base 0.00 height 9.00 | source_reported | JASINK-BOMBARDIERI-CHS / Object page / dimensions_literal |
+| repository | Iraklion Museum | source_reported | JASINK-BOMBARDIERI-CHS / Object page / repository |
+
+Missing evidence: SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
+- [JASINK-BOMBARDIERI-CHS](https://www.sagas.unifi.it/vp-394-dbas-chs-cretan-hieroglyphic-seals.html): DBAS – CHS Cretan Hieroglyphic Seals
 
 ## CHIC-126
 
@@ -1393,9 +1423,19 @@ Native evidence: [corpus/chic-catalogue-spine.json#/125](../corpus/chic-catalogu
 
 Catalogue series: I. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| cms_reference | Vol 2 Supp 6 Nr 180 | source_reported | JASINK-BOMBARDIERI-CHS / Object page / cms_reference |
+| findplace | Mallia (Quartier Mu) () | source_reported | JASINK-BOMBARDIERI-CHS / Object page / findplace |
+| object_subtype | sealing | source_reported | JASINK-BOMBARDIERI-CHS / Object page / object_subtype |
+| material | clay (clay) | source_reported | JASINK-BOMBARDIERI-CHS / Object page / material |
+| dimensions_literal | max 20.00 min 0.00 base 19.50 height 20.50 | source_reported | JASINK-BOMBARDIERI-CHS / Object page / dimensions_literal |
+| repository | Iraklion Museum | source_reported | JASINK-BOMBARDIERI-CHS / Object page / repository |
+
+Missing evidence: SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
+- [JASINK-BOMBARDIERI-CHS](https://www.sagas.unifi.it/vp-394-dbas-chs-cretan-hieroglyphic-seals.html): DBAS – CHS Cretan Hieroglyphic Seals
 
 ## CHIC-127
 
@@ -3559,9 +3599,16 @@ Native evidence: [corpus/chic-catalogue-spine.json#/316](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| object_type | pithos | source_reported | CIVITILLO-2021 / printed p. 188 / PDF p. 10; explicit CHIC #317 sentence |
+| inscription_location | body | source_reported | CIVITILLO-2021 / printed p. 188 / PDF p. 10; explicit CHIC #317 sentence |
+| inscription_execution | incised before firing | source_reported | CIVITILLO-2021 / printed p. 188 / PDF p. 10; explicit CHIC #317 sentence |
+
+Missing evidence: SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
+- [CIVITILLO-2021](https://polygraphia.it/wp-content/uploads/2021/10/Discussing-writing-in-cretan-hieroglyphic-script.pdf): Discussing writing in Cretan Hieroglyphic script from an anthropological perspective
 
 ## CHIC-318
 

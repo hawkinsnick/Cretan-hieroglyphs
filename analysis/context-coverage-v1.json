@@ -6,13 +6,13 @@
   "scientific_gates_changed": false,
   "catalogue_entries": 331,
   "dossier_count": 331,
-  "context_objects": 26,
-  "context_assertions": 234,
+  "context_objects": 31,
+  "context_assertions": 261,
   "context_by_series": {
     "H": 8,
-    "I": 1,
+    "I": 5,
     "S": 14,
-    "Y": 3
+    "Y": 4
   },
   "reading_objects": 6,
   "critical_readings": 13,
@@ -151,10 +151,6 @@
     "CHIC-119",
     "CHIC-120",
     "CHIC-121",
-    "CHIC-123",
-    "CHIC-124",
-    "CHIC-125",
-    "CHIC-126",
     "CHIC-128",
     "CHIC-129",
     "CHIC-130",
@@ -329,7 +325,6 @@
     "CHIC-311",
     "CHIC-312",
     "CHIC-314",
-    "CHIC-317",
     "CHIC-318",
     "CHIC-319",
     "CHIC-320",
@@ -346,7 +341,7 @@
   "input_digests": [
     {
       "path": "bibliography/sources.json",
-      "sha256": "49ae50b30c0bf5e91281842e73dc9c0ce1ba1ce77915a6854f1de4b3d9e3e4a4"
+      "sha256": "7cd26215ddbba66876575e31f510088f9848a40af03a352e7674458dba4a00e4"
     },
     {
       "path": "corpus/chic-catalogue-spine.json",
@@ -371,6 +366,14 @@
     {
       "path": "research/source-reconciliation.json",
       "sha256": "b5f68545c018b160f6435ddc04c09de34a99f64f5fa8887e4594bbe38d8e5601"
+    },
+    {
+      "path": "research/stratified-source-context.json",
+      "sha256": "c7c6ee15b3d5a9699ece88ac318a016c7ba139c27ac23482470af66f52a11483"
+    },
+    {
+      "path": "scripts/acquisition_frontier.py",
+      "sha256": "1c10c0091d205d1519aa0f6e70d0d1f3dc384606a449c81f6d8bcb0801ea84e9"
     },
     {
       "path": "scripts/assertion_views.py",

@@ -1,14 +1,16 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "77429320ef46b4a5c37373f126199a431c5cfb0cd39538457715d32863344105",
-  "evidence_fingerprint": "33d9512d51da093ed5b4a6e2200ea0ae8eb312440f2d91dd3b997a11a927abdf",
+  "config_sha256": "dad57b7d2cfeaf5be8930092b071336be83d841eacdde235d4c98495140b163c",
+  "evidence_fingerprint": "10b81ec3b58010f74660f42c26c1750876315713048bb2cd37517d79d8eeee4f",
   "input_sha256": {
+    "analysis/acquisition-frontier-2026-10-12.json": "6d647f9206132f3f8457fd9b2d4569174b2fd5f534a0c7a8a3fac3f8d0848a0d",
     "analysis/coverage.json": "723c6b28eebe6bffcddf680184281df850fc0ff2ac0072872c35dfd54c1b8891",
-    "analysis/current-status.json": "51222475020c22f44cbf7277eaa802dddf974315451d8765e91ae69794f89205",
+    "analysis/current-status.json": "3b94b5d6a5a41697bc695a356b26e7e5708d17c44b531926b0eea3c377bfda05",
     "analysis/source-growth-2026-10-12.json": "10fc5c3f2c87832fb0a5b98342ca0d415bc58722e642443343b90b3fa88b07a7",
     "corpus/chic-catalogue-spine.json": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
     "corpus/context-assertions.json": "cc01d5fbb7b04e6df0378d407b66b7549b56014d5b74e69ca4f62f10765bc66e",
+    "docs/ACQUISITION-FRONTIER-2026-10-12.md": "83e19a15c34f240d23e234dcd487f52846c36c3da983d3c0fe74e40f02efaf6d",
     "docs/AI-INTEGRITY.md": "f735ed84a422bd81245aba10e894585a9110079932a445f35be515834e739b6b",
     "docs/SOURCE-GROWTH-2026-10-12.md": "6c9ff401ac95214dccc94c4e0539305440884854d8c6830700148c4a13ee8569",
     "research/acquisition-queue.json": "1111fc141ec1f2dbd349285255134ecd7d457d023a1d73da50549a3fe2558234",
@@ -17,12 +19,15 @@
     "research/dbas-chs-catalogue-leads.json": "e2edcbd6f25188dabbecf1fa57799b60faa55f2f94d68f47f98770f2ab6d4e7b",
     "research/identity-reconciliation-v2.json": "422c1b82bce89b7feff88737907780eea178c2a2f91a705106e9dec3f4dc3005",
     "research/inscribe-unmapped-discovery.json": "378f8576cab6511efb9bcf50c10d51996baba78963afd82f2af11b54372a087e",
-    "research/pre-expert-maximum.json": "8bb131bed64035f8f9881b66e572e0ec2de5c2e935c147b7a2d42ff81fea426a",
+    "research/pre-expert-maximum.json": "86aee7ebc05feab357d3967e4525219ce777ab3bc204b8f38eeb42cd79153a45",
     "research/pre-expert-source-exhaustion.json": "3857e9062fcdf8387f97e664d5c39cd743983570c34ed858e5c1a8d64f376b35",
     "research/reference-reconciliation-v2.json": "a9397e546c324edd4e98ad6cd072778fed4566bfef0b1e4fb22c854dab7a3b0a",
+    "research/representative-acquisition-cohort.json": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
     "research/source-check-2026-10-11.json": "de4342764c77ed96f656ad138d6f2a95f7425bef1d86aadc564e760f3d9a2d15",
     "research/source-inspection-2026-10-02.json": "9aa2593afe4c15161cbe74892f8b9912af49b115fdcf5d79d2c29061659f653a",
     "research/source-reconciliation.json": "b5f68545c018b160f6435ddc04c09de34a99f64f5fa8887e4594bbe38d8e5601",
+    "research/stratified-source-context.json": "c7c6ee15b3d5a9699ece88ac318a016c7ba139c27ac23482470af66f52a11483",
+    "scripts/acquisition_frontier.py": "1c10c0091d205d1519aa0f6e70d0d1f3dc384606a449c81f6d8bcb0801ea84e9",
     "scripts/source_growth.py": "59b4b03c9634b66b6e601f36464fd151c8e54e9edbe629bb6388fe7bc2939f4a"
   },
   "native_review_links": [
@@ -61,6 +66,18 @@
       "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
       "unit": "source_qualified_object_context",
       "view": "inscribe-context-records"
+    },
+    {
+      "enumerated": 5,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "source_qualified_object_context",
+      "view": "stratified-context-supplements"
+    },
+    {
+      "enumerated": 25,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "metadata_acquisition_cohort_member",
+      "view": "representative-acquisition-cohort"
     }
   ],
   "records": [
@@ -12170,6 +12187,720 @@
       "source_path": "corpus/context-assertions.json",
       "source_record_sha256": "539df7cd41041c0cec9088aeb3a6b285115f600265f45ebab2fc37287ed73856",
       "unit": "source_qualified_object_context"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/0",
+      "native_id": "CHIC-123",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "stratified-context-supplements:CHIC-123",
+      "source_file_sha256": "c7c6ee15b3d5a9699ece88ac318a016c7ba139c27ac23482470af66f52a11483",
+      "source_lead_pointers": [
+        "/records/0/source_id",
+        "/records/0/source_url",
+        "/records/0/assertions/0/source_id",
+        "/records/0/assertions/0/source_url",
+        "/records/0/assertions/1/source_id",
+        "/records/0/assertions/1/source_url",
+        "/records/0/assertions/2/source_id",
+        "/records/0/assertions/2/source_url",
+        "/records/0/assertions/3/source_id",
+        "/records/0/assertions/3/source_url",
+        "/records/0/assertions/4/source_id",
+        "/records/0/assertions/4/source_url",
+        "/records/0/assertions/5/source_id",
+        "/records/0/assertions/5/source_url"
+      ],
+      "source_path": "research/stratified-source-context.json",
+      "source_record_sha256": "fa9cb7629429c1e6c202802dda5141b3770b714ab9ee15884645ed53d0706ac6",
+      "unit": "source_qualified_object_context"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/1",
+      "native_id": "CHIC-124",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "stratified-context-supplements:CHIC-124",
+      "source_file_sha256": "c7c6ee15b3d5a9699ece88ac318a016c7ba139c27ac23482470af66f52a11483",
+      "source_lead_pointers": [
+        "/records/1/source_id",
+        "/records/1/source_url",
+        "/records/1/assertions/0/source_id",
+        "/records/1/assertions/0/source_url",
+        "/records/1/assertions/1/source_id",
+        "/records/1/assertions/1/source_url",
+        "/records/1/assertions/2/source_id",
+        "/records/1/assertions/2/source_url",
+        "/records/1/assertions/3/source_id",
+        "/records/1/assertions/3/source_url",
+        "/records/1/assertions/4/source_id",
+        "/records/1/assertions/4/source_url",
+        "/records/1/assertions/5/source_id",
+        "/records/1/assertions/5/source_url"
+      ],
+      "source_path": "research/stratified-source-context.json",
+      "source_record_sha256": "b8bf83c7f3d5ed079a66deacf4c2f8800aa8311b2223d20ee886dd24bdf40762",
+      "unit": "source_qualified_object_context"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/2",
+      "native_id": "CHIC-125",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "stratified-context-supplements:CHIC-125",
+      "source_file_sha256": "c7c6ee15b3d5a9699ece88ac318a016c7ba139c27ac23482470af66f52a11483",
+      "source_lead_pointers": [
+        "/records/2/source_id",
+        "/records/2/source_url",
+        "/records/2/assertions/0/source_id",
+        "/records/2/assertions/0/source_url",
+        "/records/2/assertions/1/source_id",
+        "/records/2/assertions/1/source_url",
+        "/records/2/assertions/2/source_id",
+        "/records/2/assertions/2/source_url",
+        "/records/2/assertions/3/source_id",
+        "/records/2/assertions/3/source_url",
+        "/records/2/assertions/4/source_id",
+        "/records/2/assertions/4/source_url",
+        "/records/2/assertions/5/source_id",
+        "/records/2/assertions/5/source_url"
+      ],
+      "source_path": "research/stratified-source-context.json",
+      "source_record_sha256": "a70d29be527fc0cdf4d3463b5ee6cc6125492e11a606eb15f09292ed3e7e203e",
+      "unit": "source_qualified_object_context"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/3",
+      "native_id": "CHIC-126",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "stratified-context-supplements:CHIC-126",
+      "source_file_sha256": "c7c6ee15b3d5a9699ece88ac318a016c7ba139c27ac23482470af66f52a11483",
+      "source_lead_pointers": [
+        "/records/3/source_id",
+        "/records/3/source_url",
+        "/records/3/assertions/0/source_id",
+        "/records/3/assertions/0/source_url",
+        "/records/3/assertions/1/source_id",
+        "/records/3/assertions/1/source_url",
+        "/records/3/assertions/2/source_id",
+        "/records/3/assertions/2/source_url",
+        "/records/3/assertions/3/source_id",
+        "/records/3/assertions/3/source_url",
+        "/records/3/assertions/4/source_id",
+        "/records/3/assertions/4/source_url",
+        "/records/3/assertions/5/source_id",
+        "/records/3/assertions/5/source_url"
+      ],
+      "source_path": "research/stratified-source-context.json",
+      "source_record_sha256": "c971c6dc0a6b6a373603f96cefeed85269c77dda95074c6a8699166cb71a0725",
+      "unit": "source_qualified_object_context"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/4",
+      "native_id": "CHIC-317",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "stratified-context-supplements:CHIC-317",
+      "source_file_sha256": "c7c6ee15b3d5a9699ece88ac318a016c7ba139c27ac23482470af66f52a11483",
+      "source_lead_pointers": [
+        "/records/4/source_id",
+        "/records/4/source_url",
+        "/records/4/assertions/0/source_id",
+        "/records/4/assertions/0/source_url",
+        "/records/4/assertions/1/source_id",
+        "/records/4/assertions/1/source_url",
+        "/records/4/assertions/2/source_id",
+        "/records/4/assertions/2/source_url"
+      ],
+      "source_path": "research/stratified-source-context.json",
+      "source_record_sha256": "0ec82dd9ae76274ce8c662cdc8877a6f23bdd94296f0ba7a3724919fb42262b5",
+      "unit": "source_qualified_object_context"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/0",
+      "native_id": "CHIC-016",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-016",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/0/source_url",
+        "/records/0/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "baa29b00fec589140a781fce339e3d8fb78ee2cd0fd6826de859873413e0d533",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/1",
+      "native_id": "CHIC-048",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-048",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/1/source_url",
+        "/records/1/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "57d8bb0cdadd2ba21f9ce87f348c493e487a59ddcc535ac991614c55c1bab516",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/2",
+      "native_id": "CHIC-058",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-058",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/2/source_url",
+        "/records/2/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "15260e3d762a8a4dc34d473bdec2b7c99c3538700a87b4c05d42e90a684f76ea",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/3",
+      "native_id": "CHIC-066",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-066",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/3/source_url",
+        "/records/3/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "82aad4d232e3f7502a6eb0dc62f2987b2fb48b2f3dc34efc43b9d8f456582ced",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/4",
+      "native_id": "CHIC-068",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-068",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/4/source_url",
+        "/records/4/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "e8386c5e7011660858df936a429a90130079a72e0901904b6d47ff51bb6101a4",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/5",
+      "native_id": "CHIC-085",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-085",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/5/source_url",
+        "/records/5/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "d5783595cecbd4f8f24a31fb34353602237031346da518cad001763df1e59eb2",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/6",
+      "native_id": "CHIC-089",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-089",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/6/source_url",
+        "/records/6/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "903956a3d512ed1e399786545d69db05695ef13df3e727fa5972bf871d67066c",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/7",
+      "native_id": "CHIC-122",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-122",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/7/source_url",
+        "/records/7/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "f2b438493c4f425b2266b4b35b666cb4f50abeedb1cb71f6d2bdb7c85843c3de",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/8",
+      "native_id": "CHIC-123",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-123",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/8/source_url",
+        "/records/8/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "fc4fa62bcb71b7efc9f9217f5c08ce1d980750a68755f53450ccb7531702abdc",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/9",
+      "native_id": "CHIC-124",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-124",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/9/source_url",
+        "/records/9/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "b4814d8a449f56d1d9e11e26c2719f7faaf0f964368eaf3d702eebe8b2ccc49f",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/10",
+      "native_id": "CHIC-125",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-125",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/10/source_url",
+        "/records/10/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "02d8cca9be4a2a87498e7bb6c6dd321b16eaf2eca32a9f8c22bac7e8eca51c7a",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/11",
+      "native_id": "CHIC-126",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-126",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/11/source_url",
+        "/records/11/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "72e563fb6bcfcbf59ed2732ef35a9096e0e6fbf5cec321d740fd68e98575447d",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/12",
+      "native_id": "CHIC-127",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-127",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/12/source_url",
+        "/records/12/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "5b59dcc28822923219c017389b6c1741cda4d1a4743e3b047d777e054d99aaf8",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/13",
+      "native_id": "CHIC-180",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-180",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/13/source_url",
+        "/records/13/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "e3c3cc4fe62d426c38670c55e6f846ec42e1069f5dc54524ba82830842fdf0aa",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/14",
+      "native_id": "CHIC-197",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-197",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/14/source_url",
+        "/records/14/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "5a7563342cbaf1843e93d4f6937432965842cd40baa5cf2390fb1dc195c0ec2e",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/15",
+      "native_id": "CHIC-202",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-202",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/15/source_url",
+        "/records/15/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "1da2123d739236cb3548b445160dcadc2d500fceab83667e9b0a1af6d5071d8e",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/16",
+      "native_id": "CHIC-207",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-207",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/16/source_url",
+        "/records/16/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "6a923db5eb0679f51fe5c1cc01b760734abf46d3a40ca0d864bef6c5e2066e64",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/17",
+      "native_id": "CHIC-236",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-236",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/17/source_url",
+        "/records/17/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "4e008a97a46ee4e517c2fe0305cb85feb7eee154ac0114c29e6ae2252d07a99f",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/18",
+      "native_id": "CHIC-252",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-252",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/18/source_url",
+        "/records/18/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "5938df9fc79bbe0a4795f53ed9c861ca9e7f6a2629a9aec83ea00547cbadcf2f",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/19",
+      "native_id": "CHIC-313",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-313",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/19/source_url",
+        "/records/19/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "9fc5dcd8179d12c91da066373d243d7284b7caa92959bd61c4dcf3f03d0405db",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/20",
+      "native_id": "CHIC-315",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-315",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/20/source_url",
+        "/records/20/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "6e5ef33bc466e54dac5f1040f26ff9f431c633a407136bbe418c2f206251878d",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/21",
+      "native_id": "CHIC-316",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-316",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/21/source_url",
+        "/records/21/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "884a886e3fcc725f7be7168cc8d8dc73ab9a9513478ae3a47f83a9de6ed8ef63",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/22",
+      "native_id": "CHIC-317",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-317",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/22/source_url",
+        "/records/22/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "d35d7afc956e82a93c4f74a00de02b7b5badbaf066bf63f3128e73433306d094",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/23",
+      "native_id": "CHIC-324",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-324",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/23/source_url",
+        "/records/23/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "337b81a82c7d8ca2d194db14aaa175f675027a92d3a619e48a54d6c09e6adb05",
+      "unit": "metadata_acquisition_cohort_member"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/24",
+      "native_id": "CHIC-328",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "representative-acquisition-cohort:CHIC-328",
+      "source_file_sha256": "5a01beb20e9397dac4b8aab8b2f4228acb1c6c53bb2f30aa484356f732ddf08b",
+      "source_lead_pointers": [
+        "/records/24/source_url",
+        "/records/24/source_id"
+      ],
+      "source_path": "research/representative-acquisition-cohort.json",
+      "source_record_sha256": "a34de794a215d105b81335c7405596c21eb1eed3121c0745bc55f33a3d67c2ca",
+      "unit": "metadata_acquisition_cohort_member"
     }
   ],
   "repository": "hawkinsnick/Cretan-hieroglyphs",
@@ -18793,6 +19524,306 @@
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/5/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/5/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/6/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/6/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/7/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/7/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/8/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/8/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/9/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/9/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/10/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/10/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/11/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/11/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/12/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/12/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/13/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/13/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/14/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/14/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/15/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/15/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/16/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/16/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/17/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/17/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/18/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/18/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/19/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/19/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/20/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/20/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/21/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/21/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/22/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/22/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/23/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/23/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/24/source_url",
+      "kind": "source_url",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/24/source_id",
+      "kind": "source_id",
+      "source_path": "research/representative-acquisition-cohort.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/receipts/0/url",
       "kind": "url",
       "source_path": "research/source-check-2026-10-11.json"
@@ -18916,6 +19947,390 @@
       "json_pointer": "/comparisons/1/assertions/1/source_id",
       "kind": "source_id",
       "source_path": "research/source-reconciliation.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/3/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/4/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/4/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/5/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/assertions/5/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/3/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/4/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/4/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/5/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/assertions/5/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/3/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/4/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/4/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/5/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/assertions/5/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/3/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/4/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/4/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/5/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/assertions/5/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/assertions/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/assertions/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/assertions/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/assertions/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/assertions/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/stratified-source-context.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/assertions/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/stratified-source-context.json"
     }
   ],
   "tasks": [
@@ -18923,7 +20338,7 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/remaining_nonexpert_work/0",
-      "native_status": "ACTIVE_DIRECT_DIGITAL_ROUTE",
+      "native_status": "25_OBJECT_METADATA_COHORT_RECORDED_READING_GAPS_OPEN",
       "native_task_id": "CH-PRE-001",
       "source_path": "research/pre-expert-maximum.json",
       "task": "Acquire source-located readings and metadata across the declared 8/5/8/4 minimum strata."

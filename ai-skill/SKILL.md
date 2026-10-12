@@ -61,3 +61,8 @@ Read `docs/AI-INTEGRITY.md` and the required `research/cross-corpus-dependencies
 ## Source growth — 2026-10-12
 
 Read `docs/SOURCE-GROWTH-2026-10-12.md` and `analysis/source-growth-2026-10-12.json` with `research/dbas-chs-catalogue-leads.json`, `research/inscribe-unmapped-discovery.json`. Keep 193 dependent catalogue leads, the 204/331 named-route union, 26 existing contexts and three unjoined object pages separate. A source script dash or CHIC sign-number comparison is not an object ID or accepted writing. No new reading coverage or physical witness is established.
+
+
+## Acquisition frontier — 2026-10-12
+
+Read `docs/ACQUISITION-FRONTIER-2026-10-12.md`, `analysis/acquisition-frontier-2026-10-12.json` and `research/stratified-source-context.json`, `research/representative-acquisition-cohort.json`. There are 31 context-bearing CHIC identities and a 25-object metadata acquisition cohort (8/5/8/4). Availability-biased selection is not a representative reading sample. Preserve source-labelled dimensions/zeros, UI versus object-class distinctions, source context versus admitted readings, disputed 202/252, and unfilled reading strata.

@@ -31,6 +31,20 @@
       "pointer": "/records",
       "id_key": "object_id",
       "unit": "source_qualified_object_context"
+    },
+    {
+      "name": "stratified-context-supplements",
+      "path": "research/stratified-source-context.json",
+      "pointer": "/records",
+      "id_key": "object_id",
+      "unit": "source_qualified_object_context"
+    },
+    {
+      "name": "representative-acquisition-cohort",
+      "path": "research/representative-acquisition-cohort.json",
+      "pointer": "/records",
+      "id_key": "id",
+      "unit": "metadata_acquisition_cohort_member"
     }
   ],
   "repository": "hawkinsnick/Cretan-hieroglyphs",
@@ -38,9 +52,11 @@
   "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
   "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
   "source_files": [
+    "analysis/acquisition-frontier-2026-10-12.json",
     "analysis/coverage.json",
     "analysis/current-status.json",
     "analysis/source-growth-2026-10-12.json",
+    "docs/ACQUISITION-FRONTIER-2026-10-12.md",
     "docs/AI-INTEGRITY.md",
     "docs/SOURCE-GROWTH-2026-10-12.md",
     "research/acquisition-queue.json",
@@ -52,9 +68,12 @@
     "research/pre-expert-maximum.json",
     "research/pre-expert-source-exhaustion.json",
     "research/reference-reconciliation-v2.json",
+    "research/representative-acquisition-cohort.json",
     "research/source-check-2026-10-11.json",
     "research/source-inspection-2026-10-02.json",
     "research/source-reconciliation.json",
+    "research/stratified-source-context.json",
+    "scripts/acquisition_frontier.py",
     "scripts/source_growth.py"
   ],
   "legacy_repository_label": "hawkinsnick/Cretan-hieroglpyhs"
