@@ -62,7 +62,7 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "336fb20f5cc47a2baefd5a6735bd9e5913d8d73b0139e414ab598de32204d2a2",
+      "sha256": "baaa313c801ffe19c7ca12407ecbf7254317a17c169cdfc653ff42f4120e34e6",
       "bytes": 13620,
       "category": "research",
       "summary": {
@@ -122,7 +122,7 @@
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "27cce47575d1986d632591467b0f56b2aaf32ca2de55ab6e341c93fc48107582",
+      "sha256": "f84ccfb0451244ae5ed09e571d2bccc9dca7b9722be498120eea33ed17cf8ce6",
       "bytes": 7324,
       "category": "analysis",
       "summary": {
@@ -145,8 +145,8 @@
     },
     {
       "path": "bibliography/sources.json",
-      "sha256": "48983a78a0eeabce6001d0182dfa42842615c499a2c2023d2db86fc37d113fec",
-      "bytes": 3201,
+      "sha256": "49ae50b30c0bf5e91281842e73dc9c0ce1ba1ce77915a6854f1de4b3d9e3e4a4",
+      "bytes": 3498,
       "category": "bibliography",
       "summary": {}
     },
@@ -307,7 +307,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "336fb20f5cc47a2baefd5a6735bd9e5913d8d73b0139e414ab598de32204d2a2",
+  "family_report_sha256": "baaa313c801ffe19c7ca12407ecbf7254317a17c169cdfc653ff42f4120e34e6",
   "implementation_sha256": "71ceb7d7107428014ae9f43ca10d402805fb999428cb67549214d6b2b8bbc406",
   "assertion_view_sha256": "6defe086bd86e195b0b248163861d68ec5fd4c68c1e5338275c4a6509210dbfd",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."

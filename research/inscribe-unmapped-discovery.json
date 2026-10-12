@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-12",
+  "source_index_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+  "source_index_sha256": "70dfe90b40b590217d808dc810ac9a989d35aad874fbe2f4676960a0f20eac8d",
+  "source_index_object_links": 29,
+  "existing_context_links": 26,
+  "scope": "Three additional object pages; no CHIC object join inferred from motif/sign-number comparisons. Source dash, findplace/date question marks and missing inventory survive.",
+  "records": [
+    {
+      "id": "INSCRIBE:Seal_VRY_S_(4_4)_01.php",
+      "source_url": "https://www.inscribercproject.com/Seal_VRY_S_(4_4)_01.php",
+      "source_sha256": "3360478e9a616ff6ce7e0ac1915e3fb3a18f503e66e824a15511e81db4045f37",
+      "source_bytes": 19658,
+      "fields": {
+        "Document type": "Seal",
+        "Sub-type": "Four-sided prism",
+        "Material": "Serpentine stone",
+        "Museum": "Archaeological Museum of Rethymno",
+        "Find spot": "Vrysinas, peak sanctuary",
+        "Chronology": "MM II",
+        "Script": "Cretan Hieroglyphic",
+        "Inscription": "VRY S (4/4) 01"
+      },
+      "chic_id": null,
+      "chic_mapping_status": "NO_OBJECT_CATALOGUE_NUMBER_ON_INSPECTED_PAGE",
+      "classification_status": "SOURCE_LABELLED_CRETAN_HIEROGLYPHIC",
+      "reading_admitted": false,
+      "independent_review_complete": false,
+      "images_included": false
+    },
+    {
+      "id": "INSCRIBE:Seal_CMS_II,1_064.php",
+      "source_url": "https://www.inscribercproject.com/Seal_CMS_II,1_064.php",
+      "source_sha256": "d73b1ea811693e3d37d534ce78627a8bf203edcb48adf3e5ada5e2ee6641d451",
+      "source_bytes": 19355,
+      "fields": {
+        "Document type": "Seal",
+        "Sub-type": "Cube",
+        "Material": "Hippopotamus ivory",
+        "Museum": "Heraklion Archaeological Museum",
+        "Inventory number": "Σ-K 492",
+        "Find spot": "Hagia Triada, tholos toumb A",
+        "Chronology": "EM III - MM IA",
+        "Script": "-"
+      },
+      "chic_id": null,
+      "chic_mapping_status": "NO_OBJECT_CATALOGUE_NUMBER_ON_INSPECTED_PAGE",
+      "classification_status": "SOURCE_DASH_NOT_A_SCRIPT_IDENTIFICATION",
+      "reading_admitted": false,
+      "independent_review_complete": false,
+      "images_included": false
+    },
+    {
+      "id": "INSCRIBE:Seal_CMS_II,2_221.php",
+      "source_url": "https://www.inscribercproject.com/Seal_CMS_II,2_221.php",
+      "source_sha256": "dcfa9d02d1d03dde061a6adfc72bfe74db757d980f333211ab3e0718399af1a6",
+      "source_bytes": 19307,
+      "fields": {
+        "Document type": "Seal",
+        "Sub-type": "Three-sided prism",
+        "Material": "Steatite stone",
+        "Museum": "Heraklion Archaeological Museum",
+        "Inventory number": "Σ-K 1558",
+        "Find spot": "Avdou?",
+        "Chronology": "MM II?",
+        "Script": "-"
+      },
+      "chic_id": null,
+      "chic_mapping_status": "NO_OBJECT_CATALOGUE_NUMBER_ON_INSPECTED_PAGE",
+      "classification_status": "SOURCE_DASH_NOT_A_SCRIPT_IDENTIFICATION",
+      "reading_admitted": false,
+      "independent_review_complete": false,
+      "images_included": false
+    }
+  ]
+}

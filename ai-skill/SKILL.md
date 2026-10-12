@@ -56,3 +56,8 @@ Before source certainty, apparatus, duplicate or object-identity claims, read `r
 ## Enforced assertion, dependency and bundle integrity
 
 Read `docs/AI-INTEGRITY.md` and the required `research/cross-corpus-dependencies.json` before source counts or cross-corpus analysis. Use qualified assertion views when provided; original source literals must travel with their reconciliation, uncertainty and identity context. The dependency register does not certify physical identity or linguistic affinity. Shared catalogue references and duplicated digital sources are not independent witnesses. Missing links mean unknown, not independent. `scripts/check_cross_corpus_dependencies.py` screens declared record selections and rejects pooled physical/witness counts and phonetic transfer. Native AI bundle validation checks the dependency projection and local evidence hashes. Bundle publication validates the exact source parent and never rebases or force-pushes the validated artifact. Software and packaging checks do not establish expert or model-behavior acceptance.
+
+
+## Source growth — 2026-10-12
+
+Read `docs/SOURCE-GROWTH-2026-10-12.md` and `analysis/source-growth-2026-10-12.json` with `research/dbas-chs-catalogue-leads.json`, `research/inscribe-unmapped-discovery.json`. Keep 193 dependent catalogue leads, the 204/331 named-route union, 26 existing contexts and three unjoined object pages separate. A source script dash or CHIC sign-number comparison is not an object ID or accepted writing. No new reading coverage or physical witness is established.

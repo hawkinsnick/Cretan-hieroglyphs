@@ -67,3 +67,8 @@ Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-
 ## AI integrity checkpoint — 2026-10-11
 
 [AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.
+
+
+### Source coverage and reconciliation — 2026-10-12
+
+Added 193 attributed DBAS catalogue leads and three unmapped INSCRIBE object pages; the two named routes now locate 204 existing CHIC identities. New leads are distinct from accepted metadata/readings. See [scope, rights and verification](docs/SOURCE-GROWTH-2026-10-12.md).

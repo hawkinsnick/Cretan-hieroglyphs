@@ -87,7 +87,10 @@
     ],
     "title": "DBAS – CHS Cretan Hieroglyphic Seals",
     "publisher": "University of Florence, SAGAS / @egeanLab",
-    "role": "digital-seal-corpus"
+    "role": "digital-seal-corpus",
+    "url": "https://www.sagas.unifi.it/vp-394-dbas-chs-cretan-hieroglyphic-seals.html",
+    "catalogue_discovery": "research/dbas-chs-catalogue-leads.json",
+    "rights_note": "Minimal factual catalogue IDs and links only; third-party photos, drawings and classifications are not redistributed."
   },
   {
     "id": "INSCRIBE-CH",

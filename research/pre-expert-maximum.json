@@ -95,5 +95,12 @@
     "guide": "docs/CONTEXT-AND-DOSSIERS.md",
     "coverage": "analysis/context-coverage-v1.json",
     "source_or_human_gates_closed": false
+  },
+  "source_growth_checkpoint": {
+    "checked": "2026-10-12",
+    "guide": "docs/SOURCE-GROWTH-2026-10-12.md",
+    "audit": "analysis/source-growth-2026-10-12.json",
+    "source_leads_are_not_reading_coverage": true,
+    "independent_review_complete": false
   }
 }
