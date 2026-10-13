@@ -55,14 +55,14 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "b019fce1c5a29710c04df8b337192b95c9b211ce8023bf5557855be1a0668c20",
-      "bytes": 8692,
+      "sha256": "2e4dc86c2d3f6479fbfc3c514372c946dd13b17d710477b17108fcc28e76024c",
+      "bytes": 8778,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "baaa313c801ffe19c7ca12407ecbf7254317a17c169cdfc653ff42f4120e34e6",
+      "sha256": "ced53783bc35d58cab7eec794c0288db3ce853e8a165122f5b775566b83ed17c",
       "bytes": 13620,
       "category": "research",
       "summary": {
@@ -115,15 +115,15 @@
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "bda9267af29ec403766138c3f47d8f6d4e1dc153281ecb1718f972bf9b7c5e20",
-      "bytes": 604395,
+      "sha256": "a5e755b75a06e8b6e7ce8e9a283ef15e90f3f4909e431c02306608580dfb09bf",
+      "bytes": 708854,
       "category": "research",
       "summary": {}
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "f84ccfb0451244ae5ed09e571d2bccc9dca7b9722be498120eea33ed17cf8ce6",
-      "bytes": 7324,
+      "sha256": "e31becd70ec1b9ff6a1817cdb72bdd96c84823f7b6048b8fadd9354f8e1f1ebb",
+      "bytes": 8001,
       "category": "analysis",
       "summary": {
         "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
@@ -131,8 +131,8 @@
     },
     {
       "path": "scripts/research_dossiers.py",
-      "sha256": "faf07125decd7122e9a10f3987dc7c6e898bd89d3dfd9c793f894b4c3d1dafab",
-      "bytes": 11736,
+      "sha256": "e42f6017ec1e564812e30df8fff5dab200d457e2121c45146dad789494471ac5",
+      "bytes": 12758,
       "category": "scripts",
       "summary": {}
     },
@@ -162,8 +162,8 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "1d305d4885da135c5fb00f6683e7c82291c5fcb66be4093e44386c9bd5f19122",
-      "bytes": 144597,
+      "sha256": "15daf294e216e2d966acae032812dc5c21dff544f8970f7d9b7abb90395ab88e",
+      "bytes": 238257,
       "category": "docs",
       "summary": {}
     },
@@ -270,6 +270,49 @@
       "bytes": 33770,
       "category": "exports",
       "summary": {}
+    },
+    {
+      "path": "research/hy-primary-concordance-2026-10-13.json",
+      "sha256": "53189fe04dab6b94be4051a688cbe15aaf47fa56448dcc64a3cfd3c45880c8c0",
+      "bytes": 90653,
+      "category": "research",
+      "summary": {
+        "scope": "Only the 127 identities absent from the DBAS/INSCRIBE named-route union. Historical museum, provenance and type labels; no readings, images, protected prose or current museum verification.",
+        "source_id": "CHIC1996"
+      }
+    },
+    {
+      "path": "research/inscribe-discovery-dispositions-2026-10-13.json",
+      "sha256": "14288818f1f91744aa8786b92de65ea24b712e20a5131437f1e0aaa99ced0823",
+      "bytes": 6786,
+      "category": "research",
+      "summary": {
+        "scope": "Disposition of three already registered INSCRIBE pages. No addition to CHIC spine or canonical readings."
+      }
+    },
+    {
+      "path": "analysis/hy-frontier-2026-10-13.json",
+      "sha256": "dadb4ec5dd2f83513b7daf13904e45ecce69c789c6dd46ece397c83237bb4d0d",
+      "bytes": 1779,
+      "category": "analysis",
+      "summary": {
+        "scope": {
+          "previous_named_route_identities": 204,
+          "new_primary_concordance_identities": 127,
+          "new_primary_concordance_by_series": {
+            "H": 114,
+            "Y": 13
+          },
+          "named_routes_plus_primary_concordance_identities": 331,
+          "remaining_without_these_routes": [],
+          "discovery_dispositions": 3,
+          "provisional_primary_text_comparisons": 4,
+          "canonical_reading_versions": 13,
+          "canonical_reading_objects": 6,
+          "independent_reviews_added": 0
+        },
+        "status": "PASS_BOUNDED_HY_FRONTIER"
+      }
     }
   ],
   "scientific_results": {
@@ -307,7 +350,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "baaa313c801ffe19c7ca12407ecbf7254317a17c169cdfc653ff42f4120e34e6",
+  "family_report_sha256": "ced53783bc35d58cab7eec794c0288db3ce853e8a165122f5b775566b83ed17c",
   "implementation_sha256": "71ceb7d7107428014ae9f43ca10d402805fb999428cb67549214d6b2b8bbc406",
   "assertion_view_sha256": "6defe086bd86e195b0b248163861d68ec5fd4c68c1e5338275c4a6509210dbfd",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."

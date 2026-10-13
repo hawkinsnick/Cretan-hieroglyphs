@@ -2,10 +2,10 @@
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
   "config_sha256": "77429320ef46b4a5c37373f126199a431c5cfb0cd39538457715d32863344105",
-  "evidence_fingerprint": "da8214c7c33fecb8c0a5fa1290fcc21ee73fed1e36f6b3d0d7b68b9b4a2859a7",
+  "evidence_fingerprint": "b42d598c9f71c408d9bd267601ed0bed39763638f6d59ced1a69bbf24ca289f3",
   "input_sha256": {
     "analysis/coverage.json": "723c6b28eebe6bffcddf680184281df850fc0ff2ac0072872c35dfd54c1b8891",
-    "analysis/current-status.json": "e70f730379191d9a8763c0de56571f19b124083e4029114ec0c21e0cd80393da",
+    "analysis/current-status.json": "36889142f6eac7ced9620db7887e6c7c2d897fb1352fc193ddf9b5399907d3b2",
     "analysis/source-growth-2026-10-12.json": "10fc5c3f2c87832fb0a5b98342ca0d415bc58722e642443343b90b3fa88b07a7",
     "corpus/chic-catalogue-spine.json": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8",
     "corpus/context-assertions.json": "cc01d5fbb7b04e6df0378d407b66b7549b56014d5b74e69ca4f62f10765bc66e",
