@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "48fec37f3b33dfabafe8548be4dcd86b0a9316c6",
-  "generated_at_utc": "2026-10-12T20:19:49+00:00",
+  "source_commit": "a2a544bb908abab2df194ffd60b15036dba91363",
+  "generated_at_utc": "2026-10-13T19:29:30+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -13,6 +13,36 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "hy_frontier",
+      "path": "research/hy-primary-concordance-2026-10-13.json",
+      "sha256": "53189fe04dab6b94be4051a688cbe15aaf47fa56448dcc64a3cfd3c45880c8c0",
+      "bytes": 90653
+    },
+    {
+      "role": "hy_frontier",
+      "path": "research/inscribe-discovery-dispositions-2026-10-13.json",
+      "sha256": "14288818f1f91744aa8786b92de65ea24b712e20a5131437f1e0aaa99ced0823",
+      "bytes": 6786
+    },
+    {
+      "role": "hy_frontier",
+      "path": "analysis/hy-frontier-2026-10-13.json",
+      "sha256": "dadb4ec5dd2f83513b7daf13904e45ecce69c789c6dd46ece397c83237bb4d0d",
+      "bytes": 1779
+    },
+    {
+      "role": "hy_frontier",
+      "path": "docs/HY-FRONTIER-2026-10-13.md",
+      "sha256": "83253b79f52dddc79036c176d86713a584dcd63fe6a93c15ff2d5aa9e103e0c0",
+      "bytes": 4506
+    },
+    {
+      "role": "hy_frontier",
+      "path": "scripts/validate_hy_frontier.py",
+      "sha256": "3a15f573bc9974022b40ced037d51a9e70f00b384b86eaa3b4d4d08bd6a5d31f",
+      "bytes": 5030
+    },
     {
       "role": "source_growth",
       "path": "research/dbas-chs-catalogue-leads.json",
@@ -100,20 +130,20 @@
     {
       "role": "readable_dossiers",
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "1d305d4885da135c5fb00f6683e7c82291c5fcb66be4093e44386c9bd5f19122",
-      "bytes": 144597
+      "sha256": "15daf294e216e2d966acae032812dc5c21dff544f8970f7d9b7abb90395ab88e",
+      "bytes": 238257
     },
     {
       "role": "record_dossiers",
       "path": "research/record-dossiers.json",
-      "sha256": "bda9267af29ec403766138c3f47d8f6d4e1dc153281ecb1718f972bf9b7c5e20",
-      "bytes": 604395
+      "sha256": "a5e755b75a06e8b6e7ce8e9a283ef15e90f3f4909e431c02306608580dfb09bf",
+      "bytes": 708854
     },
     {
       "role": "context_coverage",
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "f84ccfb0451244ae5ed09e571d2bccc9dca7b9722be498120eea33ed17cf8ce6",
-      "bytes": 7324
+      "sha256": "e31becd70ec1b9ff6a1817cdb72bdd96c84823f7b6048b8fadd9354f8e1f1ebb",
+      "bytes": 8001
     },
     {
       "role": "context_assertions",
@@ -136,8 +166,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "51222475020c22f44cbf7277eaa802dddf974315451d8765e91ae69794f89205",
-      "bytes": 7929
+      "sha256": "e70f730379191d9a8763c0de56571f19b124083e4029114ec0c21e0cd80393da",
+      "bytes": 8713
     },
     {
       "role": "source_inspection",
