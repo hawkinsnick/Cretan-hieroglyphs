@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-13",
+  "scope": "Disposition of three already registered INSCRIBE pages. No addition to CHIC spine or canonical readings.",
+  "source_receipts": [
+    {
+      "url": "https://www.inscribercproject.com/Seal_VRY_S_(4_4)_01.php",
+      "resolved_url": "https://www.inscribercproject.com/Seal_VRY_S_(4_4)_01.php",
+      "http_status": 200,
+      "sha256": "3360478e9a616ff6ce7e0ac1915e3fb3a18f503e66e824a15511e81db4045f37",
+      "bytes": 19658,
+      "redistributed": false
+    },
+    {
+      "url": "https://www.inscribercproject.com/Seal_CMS_II,1_064.php",
+      "resolved_url": "https://www.inscribercproject.com/Seal_CMS_II,1_064.php",
+      "http_status": 200,
+      "sha256": "d73b1ea811693e3d37d534ce78627a8bf203edcb48adf3e5ada5e2ee6641d451",
+      "bytes": 19355,
+      "redistributed": false
+    },
+    {
+      "url": "https://www.inscribercproject.com/Seal_CMS_II,2_221.php",
+      "resolved_url": "https://www.inscribercproject.com/Seal_CMS_II,2_221.php",
+      "http_status": 200,
+      "sha256": "dcfa9d02d1d03dde061a6adfc72bfe74db757d980f333211ab3e0718399af1a6",
+      "bytes": 19307,
+      "redistributed": false
+    }
+  ],
+  "records": [
+    {
+      "id": "VRY-S-4-4-01",
+      "inscribe_discovery_id": "INSCRIBE:Seal_VRY_S_(4_4)_01.php",
+      "chic_id": null,
+      "disposition": "POST_CHIC1996_DISCOVERY_REFERENCE_ONLY",
+      "basis": "Primary article reports discovery in the 2011 excavation season (p. 65), later than the 1996 CHIC edition. No CHIC number should be manufactured.",
+      "source_url": "https://www.inscribercproject.com/Seal_VRY_S_(4_4)_01.php",
+      "primary_reference": {
+        "authors": [
+          "Erik Hallager",
+          "Eleni Papadopoulou",
+          "Iris Tzachili"
+        ],
+        "title": "VRY S (4/4) 01 – The First Hieroglyphic Inscription from Western Crete",
+        "journal": "Kadmos",
+        "volume": "50",
+        "pages": "63–74",
+        "doi": "10.1515/kadmos.2011.004",
+        "year_labels": {
+          "inscribe_and_article_imprint": "2011",
+          "publisher_url_issue_segment": "2012"
+        },
+        "access_url": "https://www.academia.edu/6099875/ERIK_HALLAGER_ELENI_PAPADOPOULOU_IRIS_TZACHILI_VRY_S_4_4_01_THE_FIRST_HIEROGLYPHIC_INSCRIPTION_FROM_WESTERN_CRETE",
+        "inspection": "WEB_EXTRACTED_TEXT_OF_ATTRIBUTED_PRIMARY_ARTICLE_COPY; figures and PDF facsimile not inspected; direct host retrieval HTTP403",
+        "retrieval_limit": "Publisher route also failed; textual comparison is provisional pending visual primary collation."
+      },
+      "physical_identity_certified": false,
+      "reading_admitted": false,
+      "independent_review_complete": false,
+      "images_included": false,
+      "primary_text_comparisons": [
+        {
+          "face": "a",
+          "digital_literal": "044-005",
+          "primary_initial_literal": "044-[•]",
+          "primary_proposed_literal": "044-[005]",
+          "primary_alternative_literal": "044-073",
+          "locator": "printed pp. 65–68, inscription list and identification discussion",
+          "status": "DIGITAL_OMITS_PROPOSED_IDENTIFICATION_AND_ALTERNATIVE",
+          "primary_visual_check_complete": false
+        },
+        {
+          "face": "b",
+          "digital_literal": "044-049",
+          "primary_initial_literal": "044-049",
+          "primary_proposed_literal": "044-049",
+          "locator": "printed pp. 65 and 67",
+          "status": "TEXTUAL_NUMERIC_GROUP_MATCH_NOT_VISUAL_CERTIFICATION",
+          "primary_visual_check_complete": false
+        },
+        {
+          "face": "g",
+          "digital_literal": "049-072",
+          "primary_initial_literal": "049-072",
+          "primary_proposed_literal": "049-072",
+          "locator": "printed pp. 65 and 67",
+          "status": "TEXTUAL_NUMERIC_GROUP_MATCH_NOT_VISUAL_CERTIFICATION",
+          "primary_visual_check_complete": false
+        },
+        {
+          "face": "d",
+          "digital_literal": "042-038",
+          "primary_initial_literal": "042-[•]",
+          "primary_proposed_literal": "042-[038]",
+          "primary_first_sign_alternative": "036 (attributed to Karnava in article footnote 17)",
+          "locator": "printed pp. 65 and 67, footnote 17",
+          "status": "DIGITAL_OMITS_PROPOSED_IDENTIFICATION_AND_ALTERNATIVE",
+          "primary_visual_check_complete": false
+        }
+      ],
+      "digital_face_label_boundary": "INSCRIBE lists four consecutive lines without face labels. Pairing a/b/g/d follows primary publication order; it is not an independently verified physical orientation."
+    },
+    {
+      "id": "CMS II,1 064",
+      "inscribe_discovery_id": "INSCRIBE:Seal_CMS_II,1_064.php",
+      "source_url": "https://www.inscribercproject.com/Seal_CMS_II,1_064.php",
+      "inventory_literal": "Σ-K 492",
+      "chic_id": null,
+      "disposition": "ICONOGRAPHIC_COMPARAND_SCRIPT_UNASSIGNED",
+      "basis": "SOURCE_DASH_SCRIPT_AND_TRANSNUMERATION; motif discussion is not script admission",
+      "primary_edition_visual_check_complete": false,
+      "linked_primary_route": "https://books.ub.uni-heidelberg.de/propylaeum/catalog/book/89",
+      "route_status": "ACCESS_DENIED_BY_HOST; both INSCRIBE links resolved to book/89 in web tool, so CMS II,2 delivery is not assumed",
+      "reading_admitted": false,
+      "physical_identity_certified": false,
+      "independent_review_complete": false,
+      "images_included": false,
+      "source_reference_link_verification": "DIRECT_DOWNLOADED_INSCRIBE_HTML: both cited CMS editions link literally to book/89; citation/title and linked edition are not silently equated"
+    },
+    {
+      "id": "CMS II,2 221",
+      "inscribe_discovery_id": "INSCRIBE:Seal_CMS_II,2_221.php",
+      "source_url": "https://www.inscribercproject.com/Seal_CMS_II,2_221.php",
+      "inventory_literal": "Σ-K 1558",
+      "chic_id": null,
+      "disposition": "ICONOGRAPHIC_COMPARAND_SCRIPT_UNASSIGNED",
+      "basis": "SOURCE_DASH_SCRIPT; motif/sign-list comparison is not a CHIC object join; three-sided subtype and side d remark remain an unadjudicated source inconsistency",
+      "primary_edition_visual_check_complete": false,
+      "linked_primary_route": "https://books.ub.uni-heidelberg.de/propylaeum/catalog/book/89",
+      "route_status": "ACCESS_DENIED_BY_HOST; both INSCRIBE links resolved to book/89 in web tool, so CMS II,2 delivery is not assumed",
+      "reading_admitted": false,
+      "physical_identity_certified": false,
+      "independent_review_complete": false,
+      "images_included": false,
+      "source_reference_link_verification": "DIRECT_DOWNLOADED_INSCRIBE_HTML: both cited CMS editions link literally to book/89; citation/title and linked edition are not silently equated"
+    }
+  ]
+}

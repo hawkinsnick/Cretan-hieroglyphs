@@ -6,7 +6,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/"ai-skill"/"generated"; OUT.mkdir(parents=True,exist_ok=True)
 sha=os.environ.get("SOURCE_COMMIT") or subprocess.check_output(["git","rev-parse","HEAD"],cwd=ROOT,text=True).strip()
-CANDIDATES=[('source_growth', 'research/dbas-chs-catalogue-leads.json'), ('source_growth', 'research/inscribe-unmapped-discovery.json'), ('source_growth', 'analysis/source-growth-2026-10-12.json'), ('source_growth', 'docs/SOURCE-GROWTH-2026-10-12.md'), ('source_growth', 'scripts/source_growth.py')]+[
+CANDIDATES=[('hy_frontier', 'research/hy-primary-concordance-2026-10-13.json'), ('hy_frontier', 'research/inscribe-discovery-dispositions-2026-10-13.json'), ('hy_frontier', 'analysis/hy-frontier-2026-10-13.json'), ('hy_frontier', 'docs/HY-FRONTIER-2026-10-13.md'), ('hy_frontier', 'scripts/validate_hy_frontier.py')]+[('source_growth', 'research/dbas-chs-catalogue-leads.json'), ('source_growth', 'research/inscribe-unmapped-discovery.json'), ('source_growth', 'analysis/source-growth-2026-10-12.json'), ('source_growth', 'docs/SOURCE-GROWTH-2026-10-12.md'), ('source_growth', 'scripts/source_growth.py')]+[
  ("cross_corpus_dependencies","research/cross-corpus-dependencies.json"),("sync_publication_guard","ai-skill/scripts/publish_sync.py"),("ai_integrity_guide","docs/AI-INTEGRITY.md"),
  ("qualified_assertions","research/qualified-assertion-views.json"),
  ("reference_reconciliation","research/reference-reconciliation-v2.json"),("identity_reconciliation","research/identity-reconciliation-v2.json"),

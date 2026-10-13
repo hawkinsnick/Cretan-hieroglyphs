@@ -6,7 +6,7 @@ This corpus project includes a vendor-neutral, evidence-first AI research skill 
 
 Researchers using ChatGPT, Claude, Gemini, or another capable model can provide the repository (or its AI-ready bundle) together with [`ai-skill/SKILL.md`](ai-skill/SKILL.md). The skill requires the model to preserve provenance, uncertainty, exclusions, source dependence, rights, and this project's scientific gates. Before substantive use, check [`ai-skill/generated/source-state.json`](ai-skill/generated/source-state.json) and the generated research-bundle index for the corpus commit represented by the AI package.
 
-For questions spanning multiple corpus projects, use the **Combined Corpus Research AI** documented in the Linear A repository under [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/ai-skill-v0.1/combined-ai-skill). It orchestrates the registered individual skills while keeping their evidence models and rights separate. Membership in the combined system does **not** imply linguistic relationship, sign equivalence, chronology, decipherment, or independent replication.
+For questions spanning multiple corpus projects, use the **Combined Corpus Research AI** documented in the Linear A repository under [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/main/combined-ai-skill). It orchestrates the registered individual skills while keeping their evidence models and rights separate. Membership in the combined system does **not** imply linguistic relationship, sign equivalence, chronology, decipherment, or independent replication.
 
 ## Current status — 5.3.0
 
@@ -44,7 +44,7 @@ Download the research workbench ZIP, extract it, and open [workbench/evidence.ht
 
 ### Research workbench 1.1
 
-Download the [research workbench 1.1 package](https://github.com/hawkinsnick/Cretan-hieroglpyhs/releases/tag/research-workbench-v1.1.0), extract it, and open `workbench/evidence.html`. It adds snapshot-bound inspection collections and includes the immutable release correction tracker. The Disc explorer also presents readable scenario comparisons. This engineering release grants no scientific acceptance.
+Download the [research workbench 1.1 package](https://github.com/hawkinsnick/Cretan-hieroglyphs/releases/tag/research-workbench-v1.1.0), extract it, and open `workbench/evidence.html`. It adds snapshot-bound inspection collections and includes the immutable release correction tracker. The Disc explorer also presents readable scenario comparisons. This engineering release grants no scientific acceptance.
 
 ## Context and review dossiers — 5.3.0
 
@@ -72,3 +72,7 @@ Reading coverage is unchanged. [Existing-evidence reconciliation](docs/EXISTING-
 ### Source coverage and reconciliation — 2026-10-12
 
 Added 193 attributed DBAS catalogue leads and three unmapped INSCRIBE object pages; the two named routes now locate 204 existing CHIC identities. New leads are distinct from accepted metadata/readings. See [scope, rights and verification](docs/SOURCE-GROWTH-2026-10-12.md).
+
+## Primary H/Y catalogue frontier — 2026-10-13
+
+Direct inspection of CHIC pp. 54–57 accounts for all 127 identities missing from the earlier DBAS/INSCRIBE route union (114 H, 13 Y). Historical museum/provenance/type assertions now accompany their dossiers; the three-route union covers 331/331 catalogue identities. This is catalogue-context coverage, not reading completeness or current museum certification. The three INSCRIBE discovery pages have explicit dispositions, including a post-1996 Vrysinas candidate and provisional primary-text uncertainty comparisons. Canonical readings remain 13 versions on six entries; independent reviews remain zero. Read [scope, checks and remaining acquisition](docs/HY-FRONTIER-2026-10-13.md).

@@ -10,7 +10,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/0](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #001 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #001 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #001 |
+| catalogue_label_literal | #001 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #001 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -20,7 +27,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/1](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #002 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #002 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #002 |
+| catalogue_label_literal | #002 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #002 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -30,7 +44,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/2](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | AM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Ha / #003 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Ha / #003 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Ha / #003 |
+| catalogue_label_literal | #003 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Ha / #003 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -40,7 +61,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/3](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #004 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #004 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #004 |
+| catalogue_label_literal | #004 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #004 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -50,7 +78,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/4](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | AM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Ha / #005 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Ha / #005 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Ha / #005 |
+| catalogue_label_literal | #005 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Ha / #005 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -60,7 +95,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/5](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #006 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #006 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #006 |
+| catalogue_label_literal | #006 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #006 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -70,7 +112,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/6](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #007 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #007 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #007 |
+| catalogue_label_literal | #007 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #007 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -80,7 +129,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/7](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #008 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #008 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #008 |
+| catalogue_label_literal | #008 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #008 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -90,7 +146,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/8](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #009 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #009 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #009 |
+| catalogue_label_literal | #009 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #009 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -100,7 +163,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/9](../corpus/chic-catalogue-
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #010 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #010 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #010 |
+| catalogue_label_literal | #010 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #010 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -110,7 +180,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/10](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #011 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #011 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #011 |
+| catalogue_label_literal | #011 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #011 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -120,7 +197,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/11](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #012 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #012 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #012 |
+| catalogue_label_literal | #012 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #012 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -130,7 +214,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/12](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #013 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #013 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #013 |
+| catalogue_label_literal | #013 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #013 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -140,7 +231,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/13](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #014 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #014 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #014 |
+| catalogue_label_literal | #014 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #014 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -150,7 +248,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/14](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #015 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #015 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #015 |
+| catalogue_label_literal | #015 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #015 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -183,7 +288,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/16](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #017 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #017 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #017 |
+| catalogue_label_literal | #017 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #017 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -193,7 +305,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/17](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #018 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #018 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #018 |
+| catalogue_label_literal | #018 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #018 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -203,7 +322,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/18](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #019 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #019 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #019 |
+| catalogue_label_literal | #019 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #019 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -213,7 +339,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/19](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #020 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #020 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #020 |
+| catalogue_label_literal | #020 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #020 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -223,7 +356,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/20](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #021 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #021 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #021 |
+| catalogue_label_literal | #021 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #021 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -233,7 +373,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/21](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #022 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #022 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #022 |
+| catalogue_label_literal | #022 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #022 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -243,7 +390,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/22](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #023 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #023 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #023 |
+| catalogue_label_literal | #023 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #023 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -253,7 +407,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/23](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #024 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #024 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #024 |
+| catalogue_label_literal | #024 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #024 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -263,7 +424,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/24](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #025 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #025 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #025 |
+| catalogue_label_literal | #025 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #025 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -273,7 +441,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/25](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #026 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #026 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #026 |
+| catalogue_label_literal | #026 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #026 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -283,7 +458,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/26](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #027 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #027 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #027 |
+| catalogue_label_literal | #027 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #027 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -293,7 +475,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/27](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #028 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #028 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #028 |
+| catalogue_label_literal | #028 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #028 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -303,7 +492,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/28](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #029 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #029 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #029 |
+| catalogue_label_literal | #029 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / Ha / #029 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -313,7 +509,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/29](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #030 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #030 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #030 |
+| catalogue_label_literal | #030 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #030 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -323,7 +526,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/30](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #031 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #031 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #031 |
+| catalogue_label_literal | #031 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #031 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -333,7 +543,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/31](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | AM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / He / #032 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / He / #032 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / He / #032 |
+| catalogue_label_literal | #032 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / He / #032 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -343,7 +560,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/32](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #033 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #033 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #033 |
+| catalogue_label_literal | #033 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #033 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -353,7 +577,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/33](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #034 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #034 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #034 |
+| catalogue_label_literal | #034 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #034 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -363,7 +594,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/34](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #035 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #035 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #035 |
+| catalogue_label_literal | #035 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #035 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -372,6 +610,13 @@ Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPE
 Native evidence: [corpus/chic-catalogue-spine.json#/35](../corpus/chic-catalogue-spine.json#/35)
 
 Catalogue series: H. Encoded readings: 2.
+
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #036 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #036 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #036 |
+| catalogue_label_literal | #036 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #036 |
 
 ### Source assertions with required qualifications
 
@@ -385,7 +630,7 @@ Catalogue series: H. Encoded readings: 2.
   Comparison: PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT.
   Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -395,7 +640,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/36](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #037 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #037 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #037 |
+| catalogue_label_literal | #037 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #037 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -405,7 +657,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/37](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #038 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #038 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #038 |
+| catalogue_label_literal | #038 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #038 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -415,7 +674,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/38](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #039 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #039 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #039 |
+| catalogue_label_literal | #039 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #039 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -424,6 +690,13 @@ Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPE
 Native evidence: [corpus/chic-catalogue-spine.json#/39](../corpus/chic-catalogue-spine.json#/39)
 
 Catalogue series: H. Encoded readings: 3.
+
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #040 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #040 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #040 |
+| catalogue_label_literal | #040 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #040 |
 
 ### Source assertions with required qualifications
 
@@ -442,7 +715,7 @@ Catalogue series: H. Encoded readings: 3.
   Comparison: PRIMARY_SOURCE_CHECKED_AT_PREVIOUS_CHECKPOINT.
   Certainty in the literal source assertion is certainty of attribution/encoding, not independent sign, language or physical-identity acceptance.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -452,7 +725,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/40](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #041 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #041 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #041 |
+| catalogue_label_literal | #041 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #041 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -462,7 +742,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/41](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | AM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / He / #042 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / He / #042 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / He / #042 |
+| catalogue_label_literal | #042 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / He / #042 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -472,7 +759,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/42](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #043 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #043 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #043 |
+| catalogue_label_literal | #043 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #043 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -482,7 +776,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/43](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #044 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #044 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #044 |
+| catalogue_label_literal | #044 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #044 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -492,7 +793,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/44](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #045 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #045 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #045 |
+| catalogue_label_literal | #045 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #045 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -502,7 +810,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/45](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #046 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #046 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #046 |
+| catalogue_label_literal | #046 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #046 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -512,7 +827,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/46](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #047 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #047 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #047 |
+| catalogue_label_literal | #047 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 55, F. Concordance muséographique, HM / KN / He / #047 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -545,7 +867,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/48](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #049 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #049 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #049 |
+| catalogue_label_literal | #049 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #049 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -555,7 +884,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/49](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #050 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #050 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #050 |
+| catalogue_label_literal | #050 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #050 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -565,7 +901,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/50](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #051 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #051 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #051 |
+| catalogue_label_literal | #051 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #051 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -575,7 +918,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/51](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #052 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #052 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #052 |
+| catalogue_label_literal | #052 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #052 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -585,7 +935,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/52](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #053 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #053 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #053 |
+| catalogue_label_literal | #053 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #053 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -595,7 +952,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/53](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #054 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #054 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #054 |
+| catalogue_label_literal | #054 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #054 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -605,7 +969,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/54](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #055 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #055 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #055 |
+| catalogue_label_literal | #055 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #055 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -615,7 +986,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/55](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | AM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Hh / #056 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Hh / #056 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Hh / #056 |
+| catalogue_label_literal | #056 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Hh / #056 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -625,7 +1003,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/56](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #057 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #057 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #057 |
+| catalogue_label_literal | #057 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #057 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -658,7 +1043,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/58](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | AM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Hh / #059 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Hh / #059 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Hh / #059 |
+| catalogue_label_literal | #059 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, AM / KN / Hh / #059 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -668,7 +1060,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/59](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #060 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #060 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #060 |
+| catalogue_label_literal | #060 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #060 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -678,7 +1077,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/60](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #061 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #061 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #061 |
+| catalogue_label_literal | #061 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #061 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -688,7 +1094,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/61](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #062 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #062 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #062 |
+| catalogue_label_literal | #062 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #062 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -698,7 +1111,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/62](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #063 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #063 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #063 |
+| catalogue_label_literal | #063 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #063 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -708,7 +1128,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/63](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #064 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #064 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #064 |
+| catalogue_label_literal | #064 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #064 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -718,7 +1145,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/64](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #065 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #065 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #065 |
+| catalogue_label_literal | #065 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #065 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -751,7 +1185,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/66](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #067 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #067 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #067 |
+| catalogue_label_literal | #067 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hh / #067 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -784,7 +1225,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/68](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hi / #069 |
+| provenance_abbreviation_literal | KN | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hi / #069 |
+| document_type_literal | Hi | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hi / #069 |
+| catalogue_label_literal | #069 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / KN / Hi / #069 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -794,7 +1242,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/69](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hd / #070 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hd / #070 |
+| document_type_literal | Hd | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hd / #070 |
+| catalogue_label_literal | #070 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hd / #070 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -804,7 +1259,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/70](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hd / #071 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hd / #071 |
+| document_type_literal | Hd | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hd / #071 |
+| catalogue_label_literal | #071 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hd / #071 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -814,7 +1276,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/71](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #072 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #072 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #072 |
+| catalogue_label_literal | #072 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #072 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -824,7 +1293,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/72](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #073 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #073 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #073 |
+| catalogue_label_literal | #073 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #073 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -834,7 +1310,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/73](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #074 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #074 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #074 |
+| catalogue_label_literal | #074 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #074 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -844,7 +1327,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/74](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #075 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #075 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #075 |
+| catalogue_label_literal | #075 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #075 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -854,7 +1344,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/75](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #076 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #076 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #076 |
+| catalogue_label_literal | #076 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #076 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -864,7 +1361,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/76](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #077 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #077 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #077 |
+| catalogue_label_literal | #077 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #077 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -874,7 +1378,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/77](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #078 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #078 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #078 |
+| catalogue_label_literal | #078 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #078 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -884,7 +1395,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/78](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #079 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #079 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #079 |
+| catalogue_label_literal | #079 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #079 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -894,7 +1412,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/79](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #080 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #080 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #080 |
+| catalogue_label_literal | #080 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #080 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -904,7 +1429,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/80](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #081 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #081 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #081 |
+| catalogue_label_literal | #081 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #081 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -914,7 +1446,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/81](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #082 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #082 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #082 |
+| catalogue_label_literal | #082 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #082 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -924,7 +1463,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/82](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #083 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #083 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #083 |
+| catalogue_label_literal | #083 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #083 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -934,7 +1480,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/83](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #084 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #084 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #084 |
+| catalogue_label_literal | #084 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / He / #084 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -967,7 +1520,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/85](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | A. Nik. M. | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #086 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #086 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #086 |
+| catalogue_label_literal | #086 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #086 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -977,7 +1537,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/86](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hf / #087 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hf / #087 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hf / #087 |
+| catalogue_label_literal | #087 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hf / #087 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -987,7 +1554,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/87](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | A. Nik. M. | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #088 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #088 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #088 |
+| catalogue_label_literal | #088 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #088 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1020,7 +1594,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/89](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #090 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #090 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #090 |
+| catalogue_label_literal | #090 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #090 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1030,7 +1611,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/90](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | A. Nik. M. | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #091 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #091 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #091 |
+| catalogue_label_literal | #091 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 54, F. Concordance muséographique, A. Nik. M. / MA/M / Hf / #091 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1040,7 +1628,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/91](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #092 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #092 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #092 |
+| catalogue_label_literal | #092 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #092 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1050,7 +1645,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/92](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #093 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #093 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #093 |
+| catalogue_label_literal | #093 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #093 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1060,7 +1662,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/93](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #094 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #094 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #094 |
+| catalogue_label_literal | #094 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hf / #094 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1070,7 +1679,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/94](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hh / #095 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hh / #095 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hh / #095 |
+| catalogue_label_literal | #095 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Hh / #095 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1080,7 +1696,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/95](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hh / #096 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hh / #096 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hh / #096 |
+| catalogue_label_literal | #096 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hh / #096 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1090,7 +1713,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/96](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Ha / #097 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Ha / #097 |
+| document_type_literal | Ha | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Ha / #097 |
+| catalogue_label_literal | #097 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Ha / #097 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1100,7 +1730,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/97](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #098 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #098 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #098 |
+| catalogue_label_literal | #098 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #098 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1110,7 +1747,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/98](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #099 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #099 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #099 |
+| catalogue_label_literal | #099 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #099 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1120,7 +1764,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/99](../corpus/chic-catalogue
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #100 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #100 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #100 |
+| catalogue_label_literal | #100 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #100 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1130,7 +1781,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/100](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #101 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #101 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #101 |
+| catalogue_label_literal | #101 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #101 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1140,7 +1798,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/101](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #102 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #102 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #102 |
+| catalogue_label_literal | #102 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #102 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1150,7 +1815,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/102](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #103 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #103 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #103 |
+| catalogue_label_literal | #103 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #103 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1160,7 +1832,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/103](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #104 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #104 |
+| document_type_literal | He | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #104 |
+| catalogue_label_literal | #104 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / He / #104 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1170,7 +1849,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/104](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #105 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #105 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #105 |
+| catalogue_label_literal | #105 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #105 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1180,7 +1866,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/105](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #106 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #106 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #106 |
+| catalogue_label_literal | #106 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #106 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1190,7 +1883,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/106](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #107 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #107 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #107 |
+| catalogue_label_literal | #107 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #107 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1200,7 +1900,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/107](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #108 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #108 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #108 |
+| catalogue_label_literal | #108 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #108 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1210,7 +1917,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/108](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #109 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #109 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #109 |
+| catalogue_label_literal | #109 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #109 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1220,7 +1934,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/109](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #110 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #110 |
+| document_type_literal | Hf | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #110 |
+| catalogue_label_literal | #110 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hf / #110 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1230,7 +1951,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/110](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #111 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #111 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #111 |
+| catalogue_label_literal | #111 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #111 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1240,7 +1968,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/111](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #112 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #112 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #112 |
+| catalogue_label_literal | #112 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #112 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1250,7 +1985,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/112](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #113 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #113 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #113 |
+| catalogue_label_literal | #113 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #113 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1260,7 +2002,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/113](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #114 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #114 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #114 |
+| catalogue_label_literal | #114 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #114 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1270,7 +2019,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/114](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #115 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #115 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #115 |
+| catalogue_label_literal | #115 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #115 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1280,7 +2036,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/115](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #116 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #116 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #116 |
+| catalogue_label_literal | #116 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #116 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1290,7 +2053,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/116](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #117 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #117 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #117 |
+| catalogue_label_literal | #117 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #117 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1300,7 +2070,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/117](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #118 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #118 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #118 |
+| catalogue_label_literal | #118 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hh / #118 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1310,7 +2087,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/118](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hi / #119 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hi / #119 |
+| document_type_literal | Hi | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hi / #119 |
+| catalogue_label_literal | #119 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hi / #119 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1320,7 +2104,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/119](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hi / #120 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hi / #120 |
+| document_type_literal | Hi | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hi / #120 |
+| catalogue_label_literal | #120 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Hi / #120 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -1330,7 +2121,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/120](../corpus/chic-catalogu
 
 Catalogue series: H. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hh / #121 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hh / #121 |
+| document_type_literal | Hh | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hh / #121 |
+| catalogue_label_literal | #121 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Hh / #121 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3559,7 +4357,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/316](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #317 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #317 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #317 |
+| catalogue_label_literal | #317 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #317 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3569,7 +4374,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/317](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #318 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #318 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #318 |
+| catalogue_label_literal | #318 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #318 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3579,7 +4391,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/318](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #319 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #319 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #319 |
+| catalogue_label_literal | #319 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #319 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3589,7 +4408,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/319](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #320 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #320 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #320 |
+| catalogue_label_literal | #320 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #320 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3599,7 +4425,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/320](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #321 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #321 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #321 |
+| catalogue_label_literal | #321 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #321 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3609,7 +4442,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/321](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Yc / #322 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Yc / #322 |
+| document_type_literal | Yc | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Yc / #322 |
+| catalogue_label_literal | #322 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/M / Yc / #322 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3619,7 +4459,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/322](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #323 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #323 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #323 |
+| catalogue_label_literal | #323 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #323 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3652,7 +4499,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/324](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #325 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #325 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #325 |
+| catalogue_label_literal | #325 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #325 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3662,7 +4516,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/325](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #326 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #326 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #326 |
+| catalogue_label_literal | #326 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #326 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3672,7 +4533,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/326](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #327 |
+| provenance_abbreviation_literal | MA/P | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #327 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #327 |
+| catalogue_label_literal | #327 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/P / Yb / #327 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3715,7 +4583,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/328](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | HM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/V / Yb / #329 |
+| provenance_abbreviation_literal | MA/V | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/V / Yb / #329 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/V / Yb / #329 |
+| catalogue_label_literal | #329 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 56, F. Concordance muséographique, HM / MA/V / Yb / #329 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3725,7 +4600,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/329](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | MASM | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #330 |
+| provenance_abbreviation_literal | MA/M | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #330 |
+| document_type_literal | Yb | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #330 |
+| catalogue_label_literal | #330 | REPORTED_BY_1996_EDITION_NOT_CURRENT_VERIFICATION | CHIC1996 / printed p. 57, F. Concordance muséographique, MASM / MA/M / Yb / #330 |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 
@@ -3735,7 +4617,14 @@ Native evidence: [corpus/chic-catalogue-spine.json#/330](../corpus/chic-catalogu
 
 Catalogue series: Y. Encoded readings: 0.
 
-Missing evidence: SOURCE_CONTEXT_NOT_ENCODED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
+| Field | Value | Status | Evidence |
+|---|---|---|---|
+| museum_abbreviation_literal | • | UNKNOWN_AND_LOST_SIGHT_OF_IN_EDITION | CHIC1996 / printed p. 57, F. Concordance muséographique, • / PRODR. / Yb / <#331> |
+| provenance_abbreviation_literal | PRODR. | UNKNOWN_AND_LOST_SIGHT_OF_IN_EDITION | CHIC1996 / printed p. 57, F. Concordance muséographique, • / PRODR. / Yb / <#331> |
+| document_type_literal | Yb | UNKNOWN_AND_LOST_SIGHT_OF_IN_EDITION | CHIC1996 / printed p. 57, F. Concordance muséographique, • / PRODR. / Yb / <#331> |
+| catalogue_label_literal | <#331> | UNKNOWN_AND_LOST_SIGHT_OF_IN_EDITION | CHIC1996 / printed p. 57, F. Concordance muséographique, • / PRODR. / Yb / <#331> |
+
+Missing evidence: CURRENT_HOLDING_NOT_VERIFIED, SOURCE_READING_NOT_ENCODED, INDEPENDENT_REVIEW_PENDING.
 
 - CHIC1996: Corpus Hieroglyphicarum Inscriptionum Cretae
 

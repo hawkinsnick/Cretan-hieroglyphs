@@ -119,6 +119,31 @@
       "role": "source_growth",
       "path": "scripts/source_growth.py",
       "required": true
+    },
+    {
+      "role": "hy_frontier",
+      "path": "research/hy-primary-concordance-2026-10-13.json",
+      "required": true
+    },
+    {
+      "role": "hy_frontier",
+      "path": "research/inscribe-discovery-dispositions-2026-10-13.json",
+      "required": true
+    },
+    {
+      "role": "hy_frontier",
+      "path": "analysis/hy-frontier-2026-10-13.json",
+      "required": true
+    },
+    {
+      "role": "hy_frontier",
+      "path": "docs/HY-FRONTIER-2026-10-13.md",
+      "required": true
+    },
+    {
+      "role": "hy_frontier",
+      "path": "scripts/validate_hy_frontier.py",
+      "required": true
     }
   ],
   "behavioral_gates": [

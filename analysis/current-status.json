@@ -43,11 +43,11 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "b019fce1c5a29710c04df8b337192b95c9b211ce8023bf5557855be1a0668c20"
+      "sha256": "2e4dc86c2d3f6479fbfc3c514372c946dd13b17d710477b17108fcc28e76024c"
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "baaa313c801ffe19c7ca12407ecbf7254317a17c169cdfc653ff42f4120e34e6"
+      "sha256": "ced53783bc35d58cab7eec794c0288db3ce853e8a165122f5b775566b83ed17c"
     },
     {
       "path": "analysis/evidence-index-v1.json",
@@ -107,15 +107,15 @@
     },
     {
       "path": "research/record-dossiers.json",
-      "sha256": "bda9267af29ec403766138c3f47d8f6d4e1dc153281ecb1718f972bf9b7c5e20"
+      "sha256": "a5e755b75a06e8b6e7ce8e9a283ef15e90f3f4909e431c02306608580dfb09bf"
     },
     {
       "path": "analysis/context-coverage-v1.json",
-      "sha256": "f84ccfb0451244ae5ed09e571d2bccc9dca7b9722be498120eea33ed17cf8ce6"
+      "sha256": "e31becd70ec1b9ff6a1817cdb72bdd96c84823f7b6048b8fadd9354f8e1f1ebb"
     },
     {
       "path": "scripts/research_dossiers.py",
-      "sha256": "faf07125decd7122e9a10f3987dc7c6e898bd89d3dfd9c793f894b4c3d1dafab"
+      "sha256": "e42f6017ec1e564812e30df8fff5dab200d457e2121c45146dad789494471ac5"
     },
     {
       "path": "scripts/test_research_dossiers.py",
@@ -131,7 +131,7 @@
     },
     {
       "path": "docs/RECORD-DOSSIERS.md",
-      "sha256": "1d305d4885da135c5fb00f6683e7c82291c5fcb66be4093e44386c9bd5f19122"
+      "sha256": "15daf294e216e2d966acae032812dc5c21dff544f8970f7d9b7abb90395ab88e"
     },
     {
       "path": "research/source-check-2026-10-11.json",
@@ -188,6 +188,18 @@
     {
       "path": "exports/qualified-assertions.csv",
       "sha256": "7c04e225d56baeee2fac996baa31e95eaf65572621d3e6342ce3395e1b36b84b"
+    },
+    {
+      "path": "research/hy-primary-concordance-2026-10-13.json",
+      "sha256": "53189fe04dab6b94be4051a688cbe15aaf47fa56448dcc64a3cfd3c45880c8c0"
+    },
+    {
+      "path": "research/inscribe-discovery-dispositions-2026-10-13.json",
+      "sha256": "14288818f1f91744aa8786b92de65ea24b712e20a5131437f1e0aaa99ced0823"
+    },
+    {
+      "path": "analysis/hy-frontier-2026-10-13.json",
+      "sha256": "dadb4ec5dd2f83513b7daf13904e45ecce69c789c6dd46ece397c83237bb4d0d"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
@@ -205,5 +217,13 @@
     "dossiers": "research/record-dossiers.json",
     "independent_reviews_added": 0,
     "source_only": true
+  },
+  "hy_frontier_checkpoint": {
+    "checked": "2026-10-13",
+    "authority": "analysis/hy-frontier-2026-10-13.json",
+    "new_primary_concordance_identities": 127,
+    "named_routes_plus_primary_concordance_identities": 331,
+    "reading_coverage_changed": false,
+    "independent_reviews_added": 0
   }
 }

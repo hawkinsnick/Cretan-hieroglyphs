@@ -46,3 +46,9 @@ Require checked native dependency projections, preserve corpus-native bundle sch
 ### Source coverage and reconciliation — 2026-10-12
 
 Added 193 attributed DBAS catalogue leads and three unmapped INSCRIBE object pages; the two named routes now locate 204 existing CHIC identities. New leads are distinct from accepted metadata/readings. See [scope, rights and verification](docs/SOURCE-GROWTH-2026-10-12.md).
+
+## 2026-10-13 — bounded primary H/Y catalogue frontier
+- Added visually checked historical museum/provenance/type assertions and exact primary locators for the former 127-route gap.
+- Integrated the supplement into record dossiers and native AI bundle authorities.
+- Recorded three INSCRIBE dispositions and four provisional Vrysinas textual comparisons, preserving uncertain/alternative sign identifications and source access limits.
+- Added native and hostile validation; reading and expert-acceptance gates unchanged.

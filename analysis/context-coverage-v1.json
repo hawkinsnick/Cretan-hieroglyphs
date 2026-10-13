@@ -4,6 +4,8 @@
   "release": "5.3.0",
   "independent_reviews_added": 0,
   "scientific_gates_changed": false,
+  "primary_catalogue_context_objects": 127,
+  "primary_catalogue_context_scope": "Historical museum/provenance/type assertions on the former 127-route gap; separate from INSCRIBE context counts",
   "catalogue_entries": 331,
   "dossier_count": 331,
   "context_objects": 26,
@@ -345,6 +347,10 @@
   ],
   "input_digests": [
     {
+      "path": "analysis/hy-frontier-2026-10-13.json",
+      "sha256": "dadb4ec5dd2f83513b7daf13904e45ecce69c789c6dd46ece397c83237bb4d0d"
+    },
+    {
       "path": "bibliography/sources.json",
       "sha256": "49ae50b30c0bf5e91281842e73dc9c0ce1ba1ce77915a6854f1de4b3d9e3e4a4"
     },
@@ -361,8 +367,16 @@
       "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b"
     },
     {
+      "path": "research/hy-primary-concordance-2026-10-13.json",
+      "sha256": "53189fe04dab6b94be4051a688cbe15aaf47fa56448dcc64a3cfd3c45880c8c0"
+    },
+    {
       "path": "research/identity-reconciliation-v2.json",
       "sha256": "422c1b82bce89b7feff88737907780eea178c2a2f91a705106e9dec3f4dc3005"
+    },
+    {
+      "path": "research/inscribe-discovery-dispositions-2026-10-13.json",
+      "sha256": "14288818f1f91744aa8786b92de65ea24b712e20a5131437f1e0aaa99ced0823"
     },
     {
       "path": "research/reference-reconciliation-v2.json",

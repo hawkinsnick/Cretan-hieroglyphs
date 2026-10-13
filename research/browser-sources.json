@@ -10,7 +10,9 @@
     "research/disagreements.json",
     "research/record-dossiers.json",
     "research/dbas-chs-catalogue-leads.json",
-    "research/inscribe-unmapped-discovery.json"
+    "research/inscribe-unmapped-discovery.json",
+    "research/hy-primary-concordance-2026-10-13.json",
+    "research/inscribe-discovery-dispositions-2026-10-13.json"
   ],
   "boundary": "Only explicitly allowlisted committed repository data are embedded. Browser display preserves uncertainty/disagreement and does not establish decipherment, source independence, or expert validation; source/record rights remain controlling."
 }

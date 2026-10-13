@@ -26,6 +26,11 @@ def calculate(root=R):
     if ch:
         paths=['corpus/chic-catalogue-spine.json','corpus/critical-readings.json','corpus/context-assertions.json'];evidence+=paths
         cat=load(root,paths[0]);readings=load(root,paths[1]);context=load(root,paths[2]);ids={x['id'] for x in cat}
+        from validate_hy_frontier import replay as replay_frontier
+        replay_frontier(root)
+        primary_path='research/hy-primary-concordance-2026-10-13.json'
+        primary={x['record_id']:x for x in load(root,primary_path)['records']}
+        evidence += [primary_path,'research/inscribe-discovery-dispositions-2026-10-13.json','analysis/hy-frontier-2026-10-13.json']
         rows=context['records'];rowids=[x['object_id'] for x in rows]
         if len(rowids)!=len(set(rowids)) or not set(rowids)<=ids:raise ValueError('duplicate/orphan context object')
         for row in rows:
@@ -43,8 +48,8 @@ def calculate(root=R):
         for i,c in enumerate(cat):
             rs=[r for r in readings if r['object_id']==c['id']];cs=[r for r in rows if r['object_id']==c['id']]
             source_ids=sorted(set(refs(c))|set(refs(rs))|set(refs(cs))|set(refs([qualified[x['reading_id']] for x in rs])))
-            dossiers.append({'record_id':c['id'],'series':c['series'],'native_ref':paths[0]+'#/'+str(i),'catalogue_status':c['data_status'],'source_context':cs,'source_readings':[enriched(x) for x in rs],'qualified_assertions':[qualified[x['reading_id']] for x in rs],'source_ids':source_ids,'missing_evidence':([] if cs else ['SOURCE_CONTEXT_NOT_ENCODED'])+([] if rs else ['SOURCE_READING_NOT_ENCODED'])+['INDEPENDENT_REVIEW_PENDING'],'identity_status':'CATALOGUE_IDENTIFIER_ONLY_NO_PHYSICAL_CERTIFICATION'})
-        report.update(catalogue_entries=len(cat),dossier_count=len(dossiers),context_objects=len(rows),context_assertions=sum(len(x['assertions']) for x in rows),context_by_series={s:sum(d['series']==s and bool(d['source_context']) for d in dossiers) for s in 'HISY'},reading_objects=len({r['object_id'] for r in readings}),critical_readings=len(readings),excluded_source_pages=context['excluded_pages'],objects_without_context=[d['record_id'] for d in dossiers if not d['source_context']])
+            dossiers.append({'record_id':c['id'],'series':c['series'],'native_ref':paths[0]+'#/'+str(i),'catalogue_status':c['data_status'],'source_context':cs,'primary_catalogue_context':primary.get(c['id']),'source_readings':[enriched(x) for x in rs],'qualified_assertions':[qualified[x['reading_id']] for x in rs],'source_ids':source_ids,'missing_evidence':([] if cs else (['CURRENT_HOLDING_NOT_VERIFIED'] if c['id'] in primary else ['SOURCE_CONTEXT_NOT_ENCODED']))+([] if rs else ['SOURCE_READING_NOT_ENCODED'])+['INDEPENDENT_REVIEW_PENDING'],'identity_status':'CATALOGUE_IDENTIFIER_ONLY_NO_PHYSICAL_CERTIFICATION'})
+        report.update(primary_catalogue_context_objects=len(primary),primary_catalogue_context_scope='Historical museum/provenance/type assertions on the former 127-route gap; separate from INSCRIBE context counts',catalogue_entries=len(cat),dossier_count=len(dossiers),context_objects=len(rows),context_assertions=sum(len(x['assertions']) for x in rows),context_by_series={s:sum(d['series']==s and bool(d['source_context']) for d in dossiers) for s in 'HISY'},reading_objects=len({r['object_id'] for r in readings}),critical_readings=len(readings),excluded_source_pages=context['excluded_pages'],objects_without_context=[d['record_id'] for d in dossiers if not d['source_context']])
     else:
         ids=load(root,'corpus/index.json')['records'];occ=load(root,'occurrences/occurrences.json')['occurrences'];catalogue=load(root,'catalogues/master.json')['entries'];evidence+=['corpus/index.json','occurrences/occurrences.json','catalogues/master.json'];links=collections.defaultdict(list)
         for rid in sorted(ids):
@@ -80,6 +85,10 @@ def markdown(bundle):
         if 'source_context' in d:
             for r in d['source_context']:
                 for a in r['assertions']:rows.append((a['field'],a['value'],a['status'],a['source_id']+' / '+a['locator']))
+            if d.get('primary_catalogue_context'):
+                p=d['primary_catalogue_context']
+                for k in ['museum_abbreviation_literal','provenance_abbreviation_literal','document_type_literal','catalogue_label_literal']:
+                    rows.append((k,p[k],p['holding_status'],p['source_id']+' / '+p['locator']))
             lines += ['Catalogue series: '+d['series']+'. Encoded readings: '+str(len(d['source_readings']))+'.','']
         else:
             for k,v in d['object'].items():rows.append((k,v,'native_record',d['native_ref']))

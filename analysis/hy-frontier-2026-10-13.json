@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-13",
+  "status": "PASS_BOUNDED_HY_FRONTIER",
+  "scope": {
+    "previous_named_route_identities": 204,
+    "new_primary_concordance_identities": 127,
+    "new_primary_concordance_by_series": {
+      "H": 114,
+      "Y": 13
+    },
+    "named_routes_plus_primary_concordance_identities": 331,
+    "remaining_without_these_routes": [],
+    "discovery_dispositions": 3,
+    "provisional_primary_text_comparisons": 4,
+    "canonical_reading_versions": 13,
+    "canonical_reading_objects": 6,
+    "independent_reviews_added": 0
+  },
+  "claim_boundary": "Primary catalogue facts do not establish complete reading coverage, current holdings, physical identity, representative sampling, source independence or expert acceptance. Vrysinas text comparisons await primary facsimile collation.",
+  "inputs": [
+    {
+      "path": "research/hy-primary-concordance-2026-10-13.json",
+      "sha256": "53189fe04dab6b94be4051a688cbe15aaf47fa56448dcc64a3cfd3c45880c8c0"
+    },
+    {
+      "path": "research/inscribe-discovery-dispositions-2026-10-13.json",
+      "sha256": "14288818f1f91744aa8786b92de65ea24b712e20a5131437f1e0aaa99ced0823"
+    },
+    {
+      "path": "research/dbas-chs-catalogue-leads.json",
+      "sha256": "e2edcbd6f25188dabbecf1fa57799b60faa55f2f94d68f47f98770f2ab6d4e7b"
+    },
+    {
+      "path": "corpus/chic-catalogue-spine.json",
+      "sha256": "2855ec632844fa215929b33222a76a155d17abb0403889bf045a9e9f39efdfe8"
+    },
+    {
+      "path": "corpus/critical-readings.json",
+      "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b"
+    },
+    {
+      "path": "research/inscribe-unmapped-discovery.json",
+      "sha256": "378f8576cab6511efb9bcf50c10d51996baba78963afd82f2af11b54372a087e"
+    }
+  ]
+}
