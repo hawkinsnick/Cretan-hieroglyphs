@@ -76,3 +76,7 @@ Added 193 attributed DBAS catalogue leads and three unmapped INSCRIBE object pag
 ## Primary H/Y catalogue frontier — 2026-10-13
 
 Direct inspection of CHIC pp. 54–57 accounts for all 127 identities missing from the earlier DBAS/INSCRIBE route union (114 H, 13 Y). Historical museum/provenance/type assertions now accompany their dossiers; the three-route union covers 331/331 catalogue identities. This is catalogue-context coverage, not reading completeness or current museum certification. The three INSCRIBE discovery pages have explicit dispositions, including a post-1996 Vrysinas candidate and provisional primary-text uncertainty comparisons. Canonical readings remain 13 versions on six entries; independent reviews remain zero. Read [scope, checks and remaining acquisition](docs/HY-FRONTIER-2026-10-13.md).
+
+## Evidence and alternative-reading queries
+
+[Query source evidence and unresolved alternatives](docs/EVIDENCE-AND-ALTERNATIVES.md) using exact native IDs, full source records, pinned artifact locators and explicit corpus-specific scope. [Coverage by native view](analysis/evidence-query-coverage.json) keeps catalogue entries, reading versions, assertions and research issues distinct. This interface adds no source collation, canonical reading or expert acceptance.
