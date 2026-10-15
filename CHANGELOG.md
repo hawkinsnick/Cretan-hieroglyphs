@@ -52,3 +52,7 @@ Added 193 attributed DBAS catalogue leads and three unmapped INSCRIBE object pag
 - Integrated the supplement into record dossiers and native AI bundle authorities.
 - Recorded three INSCRIBE dispositions and four provisional Vrysinas textual comparisons, preserving uncertain/alternative sign identifications and source access limits.
 - Added native and hostile validation; reading and expert-acceptance gates unchanged.
+
+## 2026-10-15 — Native evidence and alternative-reading queries
+
+Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage replay, loss/corruption/identity/path tests and CI. Updated researcher documentation, AI instructions and evidence bundle indexing. Existing source data and scientific acceptance states are unchanged.
