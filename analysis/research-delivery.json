@@ -1,0 +1,205 @@
+{
+  "format": "native-research-delivery-v1",
+  "repository": "hawkinsnick/Cretan-hieroglyphs",
+  "status": "PASS_DELIVERY_CONTROLS_ONLY",
+  "source_attribution_completeness": "NOT_CERTIFIED_BY_FILE_POINTERS",
+  "facts_hypotheses_policy": "PRESERVE_NATIVE_CATEGORIES_NO_AUTOMATIC_PROMOTION",
+  "scholarly_completeness": false,
+  "expert_acceptance_added": false,
+  "model_behavior_empirically_validated": false,
+  "collections": [
+    {
+      "name": "catalogue-dossiers",
+      "native_unit": "CHIC catalogue dossier",
+      "record_count": 331,
+      "scope": "331 identifiers with unequal context and reading coverage.",
+      "example_ids": [
+        "CHIC-001",
+        "CHIC-002",
+        "CHIC-003"
+      ],
+      "provenance": {
+        "path": "research/record-dossiers.json",
+        "sha256": "a5e755b75a06e8b6e7ce8e9a283ef15e90f3f4909e431c02306608580dfb09bf",
+        "pointer": "/dossiers",
+        "native_artifacts_snapshot_commit": null,
+        "role": "catalogue-dossiers",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "critical-readings",
+      "native_unit": "source reading assertion",
+      "record_count": 13,
+      "scope": "Face/line readings are separate assertions, not unique objects.",
+      "example_ids": [
+        "CHIC-036-a-CHIC1996",
+        "CHIC-036-b-CHIC1996",
+        "CHIC-040-a-CHIC1996"
+      ],
+      "provenance": {
+        "path": "corpus/critical-readings.json",
+        "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "critical-readings",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "qualified-assertions",
+      "native_unit": "qualified source assertion",
+      "record_count": 13,
+      "scope": "Preserves source and reconciliation qualification.",
+      "example_ids": [
+        "CHIC-036-a-CHIC1996",
+        "CHIC-036-b-CHIC1996",
+        "CHIC-040-a-CHIC1996"
+      ],
+      "provenance": {
+        "path": "research/qualified-assertion-views.json",
+        "sha256": "6defe086bd86e195b0b248163861d68ec5fd4c68c1e5338275c4a6509210dbfd",
+        "pointer": "/assertions",
+        "native_artifacts_snapshot_commit": null,
+        "role": "qualified-assertions",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "attribution-review",
+      "native_unit": "bounded documentary attribution review task",
+      "record_count": 3,
+      "scope": "Two located material conflicts and an explicit reading-apparatus gap. An empty dedicated disagreements list does not imply scholarly consensus.",
+      "example_ids": [
+        "CHIC-202-material",
+        "CHIC-252-material",
+        "CH-READING-APPARATUS-GAP"
+      ],
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "85fd397277ad2f94df4828442b4883c867de8d2433c6e3bc645830ed4fa1ff24",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    }
+  ],
+  "scholarly_limits": [
+    "A catalogue concordance is not a reading. An empty disagreement register does not demonstrate scholarly agreement. INSCRIBE and CHIC dependencies remain explicit.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
+  ],
+  "inputs": [
+    {
+      "path": "LICENSE",
+      "sha256": "a6483079a3962d57e0174a735f70813ce644e4371869e1108114dfee6cfd5674",
+      "bytes": 582
+    },
+    {
+      "path": "LICENSE-CODE",
+      "sha256": "ea6e83e9f7dc37fc72af7937c6020e5d4d28858f89be65579752784b9a291a15",
+      "bytes": 444
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "b9ebe0eb3be14975a155af9ad462e32ad4c4686e01466980e8649587ea93dc9e",
+      "bytes": 969
+    },
+    {
+      "path": "LICENSING.md",
+      "sha256": "ab9b5ec64d32f4e987fa4081dec15853a6b87858a4a8dbb7162af4ab9a54c7e8",
+      "bytes": 2487
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "c349123e8aa740fce50e2dc66260cad8095f730d6d192574694dc0c289bf342c",
+      "bytes": 483
+    },
+    {
+      "path": "ai-skill/SKILL.md",
+      "sha256": "afc727c54dfb36be407a3d6f4deafe5cb497159b52eb97fad3f477dc7db96b7b",
+      "bytes": 10966
+    },
+    {
+      "path": "bibliography/sources.json",
+      "sha256": "49ae50b30c0bf5e91281842e73dc9c0ce1ba1ce77915a6854f1de4b3d9e3e4a4",
+      "bytes": 3498
+    },
+    {
+      "path": "corpus/critical-readings.json",
+      "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b",
+      "bytes": 10207
+    },
+    {
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "85fd397277ad2f94df4828442b4883c867de8d2433c6e3bc645830ed4fa1ff24",
+      "bytes": 5089
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "sha256": "36650f50ff00396054f4a5bfe48a657f6f2037639adb65eacdc808e720a935ff",
+      "bytes": 716451
+    },
+    {
+      "path": "research/disagreements.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "research/evidence-query-profile.json",
+      "sha256": "74844fcc1ab55b7ba810c5d4beab085c24eb24cbe170551bee7d4a5095059b2d",
+      "bytes": 5759
+    },
+    {
+      "path": "research/hy-primary-concordance-2026-10-13.json",
+      "sha256": "53189fe04dab6b94be4051a688cbe15aaf47fa56448dcc64a3cfd3c45880c8c0",
+      "bytes": 90653
+    },
+    {
+      "path": "research/qualified-assertion-views.json",
+      "sha256": "6defe086bd86e195b0b248163861d68ec5fd4c68c1e5338275c4a6509210dbfd",
+      "bytes": 43574
+    },
+    {
+      "path": "research/record-dossiers.json",
+      "sha256": "a5e755b75a06e8b6e7ce8e9a283ef15e90f3f4909e431c02306608580dfb09bf",
+      "bytes": 708854
+    },
+    {
+      "path": "research/reference-reconciliation-v2.json",
+      "sha256": "a9397e546c324edd4e98ad6cd072778fed4566bfef0b1e4fb22c854dab7a3b0a",
+      "bytes": 16411
+    },
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "b5f68545c018b160f6435ddc04c09de34a99f64f5fa8887e4594bbe38d8e5601",
+      "bytes": 2945
+    },
+    {
+      "path": "review/collection-packet.json",
+      "sha256": "1812540842625a2da45638cde7e33895aa0603bf2cbac036f5208a62edf4c4ab",
+      "bytes": 1821
+    },
+    {
+      "path": "scripts/evidence_query.py",
+      "sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+      "bytes": 11289
+    },
+    {
+      "path": "scripts/research_delivery.py",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
+      "path": "scripts/test_research_delivery.py",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
+    }
+  ],
+  "boundary": "Source assertions, hypotheses and review tasks retain their native categories. Retrieval and byte replay establish neither scholarly completeness nor expert acceptance. Missing source attribution, access, permission and independent review remain open where recorded."
+}
