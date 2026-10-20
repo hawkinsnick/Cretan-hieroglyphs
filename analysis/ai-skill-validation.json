@@ -1,0 +1,71 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Cretan-hieroglyphs",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "cretan-hieroglyphic-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "f7126d9e2b48cecdcd0c3b53d515d79d5a023056a4a7535b98eca59a9c1bc9ed",
+  "bundle_source_commit": "7dee79883089d4296aed5538ce82c6e183f2c490",
+  "bundle_sha256": "f647a8e97b1e072d3b10d8dceec3a895ffadc72d2292816df8513dbf5e5169e3",
+  "indexed_artifact_entries_checked": 56,
+  "unique_indexed_paths_checked": 56,
+  "lookups": [
+    {
+      "collection": "catalogue-dossiers",
+      "id": "CHIC-001",
+      "native_unit": "CHIC catalogue dossier",
+      "provenance": {
+        "path": "research/record-dossiers.json",
+        "sha256": "a5e755b75a06e8b6e7ce8e9a283ef15e90f3f4909e431c02306608580dfb09bf",
+        "pointer": "/dossiers/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "catalogue-dossiers",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "critical-readings",
+      "id": "CHIC-036-a-CHIC1996",
+      "native_unit": "source reading assertion",
+      "provenance": {
+        "path": "corpus/critical-readings.json",
+        "sha256": "cf3442bf8031e9d59dacf2fc6b853d9b029df4732d81b77d7a94efc3c1e9f69b",
+        "pointer": "/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "critical-readings",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "qualified-assertions",
+      "id": "CHIC-036-a-CHIC1996",
+      "native_unit": "qualified source assertion",
+      "provenance": {
+        "path": "research/qualified-assertion-views.json",
+        "sha256": "6defe086bd86e195b0b248163861d68ec5fd4c68c1e5338275c4a6509210dbfd",
+        "pointer": "/assertions/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "qualified-assertions",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "CHIC-202-material",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "85fd397277ad2f94df4828442b4883c867de8d2433c6e3bc645830ed4fa1ff24",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
