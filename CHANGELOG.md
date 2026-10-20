@@ -1,3 +1,9 @@
+## AI skill validation — 2026-10-20 (contract remains 0.3.1)
+
+- Add executable skill checks, exact native lookup examples and a GitHub check receipt.
+- Fingerprint operational skill files and retain source-specific evidence limits.
+- Return a structured rejection for invalid/missing evidence requests.
+
 ## 5.2.3 — mapping/statistical repair and stronger scientific-claim guards
 
 331 catalogue identities, 96 sign registry entries, zero critical readings and zero source-checked occurrence objects. DBAS metadata/rights boundaries are documented; structural and comparative experiments remain blocked.

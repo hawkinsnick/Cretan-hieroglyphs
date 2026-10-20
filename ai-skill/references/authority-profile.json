@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "corpus": "Cretan-hieroglpyhs",
+  "corpus": "Cretan Hieroglyphic",
   "required_authorities": [
     {
       "role": "current_status",
