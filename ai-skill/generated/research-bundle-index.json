@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "86fcef6c4f8cded2c2d7545c54662cf48638f205",
-  "generated_at_utc": "2026-10-25T19:06:57+00:00",
+  "source_commit": "0c1cc754ab591237ef8383b1ad05daf1e201fa32",
+  "generated_at_utc": "2026-10-25T19:27:44+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -292,14 +292,14 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "66a3ed34e4adb030f618b61eccb88485bc3bee171a8837c8f855299f70088748",
+      "sha256": "7f0d3da96b2ae540bfdbaaf3c06fec3c31571ac92c97078479ed9c30ac9cc448",
       "bytes": 8138
     },
     {
       "role": "skill_function_validation",
       "path": "ai-skill/SKILL.md",
-      "sha256": "8ea62f7a70f4bff6f99515fdabb73ca76b89f7237bbe4b8a4910c7593fa959a4",
-      "bytes": 12762
+      "sha256": "190f709f2fcf6268cfb19996e702426f68f86c5b3d3fbfde3a02fdf8bcc98361",
+      "bytes": 13334
     },
     {
       "role": "skill_function_validation",
@@ -310,20 +310,20 @@
     {
       "role": "skill_function_validation",
       "path": "scripts/validate_ai_skill.py",
-      "sha256": "aacfb721bcf218975802968d4e260abc2dc24a300ac41eac44c0bd0d15fcb9d1",
-      "bytes": 10829
+      "sha256": "802f7e46534c9d26a87217bf95eece124a5624085054537c2314d0419e9586de",
+      "bytes": 11280
     },
     {
       "role": "skill_function_validation",
       "path": "scripts/test_ai_skill_validation.py",
-      "sha256": "5c4405e2b856e976bbeb6838ff011c7f3b3d59e910d18e182ac3e6f16b737d57",
-      "bytes": 2395
+      "sha256": "b44c6f0fc3c35cd1dd51ec040e95136dd3bba107ef8caab4492e52d593661e6c",
+      "bytes": 3879
     },
     {
       "role": "skill_function_validation",
       "path": "docs/AI-SKILL-VALIDATION.md",
-      "sha256": "84496ebabec5b5cbd7d51afac3fa5b1844eabe855e511e02687638c40db5ee40",
-      "bytes": 3196
+      "sha256": "c64bd3738f269f40d8af2ad58fbddb936bff79046783e322090ec88952cb8549",
+      "bytes": 4587
     },
     {
       "role": "skill_function_validation",
