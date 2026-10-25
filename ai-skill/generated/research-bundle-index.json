@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "eebb2a7f3711113f2ae47990ed8303bd63ec9f5c",
-  "generated_at_utc": "2026-10-20T16:52:32+00:00",
+  "source_commit": "f80288c3a910482a1ce802cea4eb7fdb3a0ec0bc",
+  "generated_at_utc": "2026-10-25T19:06:43+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -46,14 +46,14 @@
     {
       "role": "native_evidence_profile",
       "path": "research/evidence-query-profile.json",
-      "sha256": "74844fcc1ab55b7ba810c5d4beab085c24eb24cbe170551bee7d4a5095059b2d",
-      "bytes": 5759
+      "sha256": "11688eee62bcd8eaed2415ab7cba608123777bf86556ca07a7fbed2ea5d1d933",
+      "bytes": 6533
     },
     {
       "role": "native_evidence_coverage",
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "a5465f7f4f26ffb2c31d9e708057764dcfcee273a766c40ea79a0b08f2e8185c",
-      "bytes": 7058
+      "sha256": "97bd7eba93a11f9b96b6492e5f8b7b50431a0a5982bfafaab623c1d78370be54",
+      "bytes": 8045
     },
     {
       "role": "native_evidence_query",
@@ -292,14 +292,14 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "5877d4e5b1bf1375018207de03b24fa5426335e61f817d8f8ba5dd84a7ff7cb6",
-      "bytes": 7306
+      "sha256": "66a3ed34e4adb030f618b61eccb88485bc3bee171a8837c8f855299f70088748",
+      "bytes": 8138
     },
     {
       "role": "skill_function_validation",
       "path": "ai-skill/SKILL.md",
-      "sha256": "f7126d9e2b48cecdcd0c3b53d515d79d5a023056a4a7535b98eca59a9c1bc9ed",
-      "bytes": 12330
+      "sha256": "8ea62f7a70f4bff6f99515fdabb73ca76b89f7237bbe4b8a4910c7593fa959a4",
+      "bytes": 12762
     },
     {
       "role": "skill_function_validation",
@@ -334,8 +334,8 @@
     {
       "role": "skill_validator_code",
       "path": "ai-skill/scripts/build_bundle.py",
-      "sha256": "4afdd703ddd0753dfb6345f666633556542c66b0097f3e76b8768ddfc873cf41",
-      "bytes": 5086
+      "sha256": "0ba9e2035febd09f32a08ad0f1eb208146da9288c17b8613662a11f5b053167a",
+      "bytes": 5273
     },
     {
       "role": "skill_validator_code",
@@ -348,6 +348,30 @@
       "path": "ai-skill/scripts/sync_skill.py",
       "sha256": "a4afd4e907a41ecc923ccf73c72a1a229f0b98c78f9eea51b06f06d3f359a30e",
       "bytes": 232
+    },
+    {
+      "role": "academic_closure_control",
+      "path": "research/closure-controls.json",
+      "sha256": "c19f1909ccf1a701dc2487fe230dbd6ecf15e1ba3c89828e05a19205936eb970",
+      "bytes": 2275
+    },
+    {
+      "role": "academic_closure_control",
+      "path": "scripts/closure_controls.py",
+      "sha256": "b795302a2428840da1a2adf3b6437253d9219119ab823d7c59ba8d69a3990ce3",
+      "bytes": 5568
+    },
+    {
+      "role": "academic_closure_control",
+      "path": "scripts/test_closure_controls.py",
+      "sha256": "cdde99033ecb2d12dd0de172d119664a7755b36b91997b693dab95b19e57ab7c",
+      "bytes": 3868
+    },
+    {
+      "role": "academic_closure_control",
+      "path": "docs/CLOSURE-CONTROLS.md",
+      "sha256": "c5fa7334b03ca255c3cd3859b4c1d28d81fd911ccfd28887c39239f01874ebf6",
+      "bytes": 1106
     }
   ]
 }
