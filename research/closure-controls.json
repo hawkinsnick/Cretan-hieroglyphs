@@ -1,0 +1,67 @@
+{
+  "format": "academic-closure-controls-v1",
+  "kind": "cretan-hieroglyphic-material-conflicts",
+  "inputs": [
+    {
+      "path": "research/source-reconciliation.json",
+      "sha256": "b5f68545c018b160f6435ddc04c09de34a99f64f5fa8887e4594bbe38d8e5601"
+    }
+  ],
+  "records": [
+    {
+      "id": "CHIC-202",
+      "record_id": "CHIC-202",
+      "comparison_id": "CHIC-202-material",
+      "material_assertions": [
+        {
+          "source_id": "CHIC1996",
+          "value": "Ivoire",
+          "locator": "printed p. 226, #202, material caption",
+          "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"
+        },
+        {
+          "source_id": "INSCRIBE-CH",
+          "value": "Animal bone",
+          "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php ; Material",
+          "inspection": "DIRECT_DIGITAL_PAGE"
+        }
+      ],
+      "resolved_material": null,
+      "single_material_value_admitted": false,
+      "status": "UNRESOLVED_SOURCE_DISAGREEMENT",
+      "physical_identity_adjudicated": false,
+      "material_adjudicated": false
+    },
+    {
+      "id": "CHIC-252",
+      "record_id": "CHIC-252",
+      "comparison_id": "CHIC-252-material",
+      "material_assertions": [
+        {
+          "source_id": "CHIC1996",
+          "value": "Ivoire",
+          "locator": "printed p. 252, #252, material caption",
+          "inspection": "DIRECT_PRIMARY_PAGE_IMAGE"
+        },
+        {
+          "source_id": "INSCRIBE-CH",
+          "value": "Animal bone",
+          "locator": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php ; Material",
+          "inspection": "DIRECT_DIGITAL_PAGE"
+        }
+      ],
+      "resolved_material": null,
+      "single_material_value_admitted": false,
+      "status": "UNRESOLVED_SOURCE_DISAGREEMENT",
+      "physical_identity_adjudicated": false,
+      "material_adjudicated": false
+    }
+  ],
+  "counts": {
+    "paired_conflict_records": 2,
+    "single_material_values_admitted": 0
+  },
+  "scientific_approval_granted": false,
+  "source_literals_changed": false,
+  "boundary": "A completed exclusion/representation control is not recovered missing evidence or adjudicated scholarship. Preserve native source assertions and unresolved scientific requirements."
+}

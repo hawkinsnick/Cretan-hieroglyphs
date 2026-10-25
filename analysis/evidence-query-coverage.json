@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Cretan-hieroglyphs",
-  "profile_sha256": "74844fcc1ab55b7ba810c5d4beab085c24eb24cbe170551bee7d4a5095059b2d",
+  "profile_sha256": "11688eee62bcd8eaed2415ab7cba608123777bf86556ca07a7fbed2ea5d1d933",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -77,6 +77,24 @@
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "closure-controls",
+      "native_unit": "unresolved paired material assertions",
+      "record_count": 2,
+      "scope": "Explicitly preserves missing evidence and source conflicts; no scholarly adjudication.",
+      "example_ids": [
+        "CHIC-202",
+        "CHIC-252"
+      ],
+      "provenance": {
+        "path": "research/closure-controls.json",
+        "sha256": "c19f1909ccf1a701dc2487fe230dbd6ecf15e1ba3c89828e05a19205936eb970",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": null,
+        "role": "scoped exclusions and unresolved-source representation controls",
         "encoding": "json"
       }
     }
@@ -168,6 +186,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "exact-pointer attribution metadata; applicability declared per case",
+      "encoding": "json"
+    },
+    {
+      "path": "research/closure-controls.json",
+      "sha256": "c19f1909ccf1a701dc2487fe230dbd6ecf15e1ba3c89828e05a19205936eb970",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "scoped exclusions and unresolved-source representation controls",
       "encoding": "json"
     }
   ],

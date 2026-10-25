@@ -83,6 +83,24 @@
         "role": "bounded attribution review",
         "encoding": "json"
       }
+    },
+    {
+      "name": "closure-controls",
+      "native_unit": "unresolved paired material assertions",
+      "record_count": 2,
+      "scope": "Explicitly preserves missing evidence and source conflicts; no scholarly adjudication.",
+      "example_ids": [
+        "CHIC-202",
+        "CHIC-252"
+      ],
+      "provenance": {
+        "path": "research/closure-controls.json",
+        "sha256": "c19f1909ccf1a701dc2487fe230dbd6ecf15e1ba3c89828e05a19205936eb970",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": null,
+        "role": "scoped exclusions and unresolved-source representation controls",
+        "encoding": "json"
+      }
     }
   ],
   "scholarly_limits": [
@@ -117,8 +135,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "f7126d9e2b48cecdcd0c3b53d515d79d5a023056a4a7535b98eca59a9c1bc9ed",
-      "bytes": 12330
+      "sha256": "8ea62f7a70f4bff6f99515fdabb73ca76b89f7237bbe4b8a4910c7593fa959a4",
+      "bytes": 12762
     },
     {
       "path": "bibliography/sources.json",
@@ -141,6 +159,11 @@
       "bytes": 5089
     },
     {
+      "path": "research/closure-controls.json",
+      "sha256": "c19f1909ccf1a701dc2487fe230dbd6ecf15e1ba3c89828e05a19205936eb970",
+      "bytes": 2275
+    },
+    {
       "path": "research/collection-work-ledger.json",
       "sha256": "36650f50ff00396054f4a5bfe48a657f6f2037639adb65eacdc808e720a935ff",
       "bytes": 716451
@@ -152,8 +175,8 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "74844fcc1ab55b7ba810c5d4beab085c24eb24cbe170551bee7d4a5095059b2d",
-      "bytes": 5759
+      "sha256": "11688eee62bcd8eaed2415ab7cba608123777bf86556ca07a7fbed2ea5d1d933",
+      "bytes": 6533
     },
     {
       "path": "research/hy-primary-concordance-2026-10-13.json",
