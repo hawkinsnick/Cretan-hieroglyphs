@@ -24,6 +24,7 @@ CANDIDATES += [("research_delivery", p) for p in ['scripts/research_delivery.py'
 CANDIDATES += [('skill_function_validation', p) for p in ['ai-skill/SKILL.md', 'ai-skill/manifest.json', 'scripts/validate_ai_skill.py', 'scripts/test_ai_skill_validation.py', 'docs/AI-SKILL-VALIDATION.md', '.github/workflows/ai-skill-function.yml']]
 CANDIDATES += [('skill_validator_code', p) for p in ['ai-skill/scripts/build_bundle.py', 'ai-skill/scripts/validate_bundle.py', 'ai-skill/scripts/sync_skill.py']]
 CANDIDATES += [("academic_closure_control", p) for p in ["research/closure-controls.json", "scripts/closure_controls.py", "scripts/test_closure_controls.py", "docs/CLOSURE-CONTROLS.md"]]
+CANDIDATES += [('nonreview_workflow', 'docs/NONREVIEW-WORK.md')]
 artifacts=[]
 for role,rel in CANDIDATES:
  p=ROOT/rel
